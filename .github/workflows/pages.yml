@@ -1,0 +1,53 @@
+# age-of-sail-assets — 그림·소리를 GitHub Pages로 배포
+# 이 파일은 age-of-sail 레포의 tools/asset-repo/ 에서 복사됩니다 (pnpm assets:publish). 여기서 고치지 말고 그쪽에서.
+#
+# 한 번만 할 설정: 이 레포 Settings → Pages → Source: "GitHub Actions"
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 배포가 겹치면 앞의 것이 끝난 뒤 다음 것 (중간에 끊지 않음)
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: 검사 → Pages 배포
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # 파일 이름의 해시 = 내용 sha256, 목록(manifests/)이 가리키는 파일이 다 있는지
+      - name: 검사
+        run: node check.mjs
+
+      - name: Pages 설정
+        uses: actions/configure-pages@v5
+
+      # .git · .github 는 빠짐
+      - name: 올릴 묶음 만들기
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: 배포
+        id: deployment
+        uses: actions/deploy-pages@v4

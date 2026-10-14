@@ -1,0 +1,3 @@
+# 그림·소리는 바이너리 그대로 (줄바꿈 바꾸지 않음 — 해시가 깨짐)
+hires/** binary
+*.json text eol=lf
