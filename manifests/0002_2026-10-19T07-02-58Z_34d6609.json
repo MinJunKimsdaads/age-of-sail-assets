@@ -1,0 +1,3420 @@
+{
+  "version": 1,
+  "files": {
+    "hr_altar.png": {
+      "file": "hires/hr_altar.b9e6bedf.png",
+      "size": 184560,
+      "sha256": "b9e6bedfd340fd358ea718ac3848f6fff3feade4b2d9ab03fde08a60b5b6d507"
+    },
+    "hr_anvil.png": {
+      "file": "hires/hr_anvil.83b48d61.png",
+      "size": 21769,
+      "sha256": "83b48d611a8baae2e710cf9b202066bd407487b0f09bbe0feda023382848c117"
+    },
+    "hr_arquebusier_attack.png": {
+      "file": "hires/hr_arquebusier_attack.9ea8b7cb.png",
+      "size": 591965,
+      "sha256": "9ea8b7cb37ab8c2574edf03d9bc2f587ee9a336f7d7346034538e569bc37cc9c"
+    },
+    "hr_arquebusier_death.png": {
+      "file": "hires/hr_arquebusier_death.169e2c56.png",
+      "size": 1333239,
+      "sha256": "169e2c56f86235a530aca43a71491d8ecbb123b340d9fbd8dc01ab6691169472"
+    },
+    "hr_arquebusier_idle.png": {
+      "file": "hires/hr_arquebusier_idle.87dee686.png",
+      "size": 510447,
+      "sha256": "87dee686a130fc8559ab58f4dd20e98702a7375ed46d3cae0e48d107993003c2"
+    },
+    "hr_arquebusier_walk.png": {
+      "file": "hires/hr_arquebusier_walk.eb9ddbd0.png",
+      "size": 1205582,
+      "sha256": "eb9ddbd0642749b664a7f6b38604a251a1a6544180b99f36d7d92b435dea411a"
+    },
+    "hr_bandit_attack.png": {
+      "file": "hires/hr_bandit_attack.63c8603b.png",
+      "size": 493528,
+      "sha256": "63c8603bd49115671d9c8ed1fa33db6c5607cc71a3db8972148fa3d594e5be9a"
+    },
+    "hr_bandit_death.png": {
+      "file": "hires/hr_bandit_death.f12596d9.png",
+      "size": 1325327,
+      "sha256": "f12596d9bb0ff7717229b9bb63cc9a287f783cd0f78ad5d159e9d541e3c47533"
+    },
+    "hr_bandit_idle.png": {
+      "file": "hires/hr_bandit_idle.f95ab6e3.png",
+      "size": 488450,
+      "sha256": "f95ab6e3614fa79bd6b8ea6ff1489008362c1814ad06c52caed0dd21d8a5a71e"
+    },
+    "hr_bandit_walk.png": {
+      "file": "hires/hr_bandit_walk.e473d2d6.png",
+      "size": 1209209,
+      "sha256": "e473d2d6ff2034cb16cf5a44634c8d04d3f2cfc95e7b766b0f1cea63d948e9b3"
+    },
+    "hr_barrels.png": {
+      "file": "hires/hr_barrels.29387e9b.png",
+      "size": 27274,
+      "sha256": "29387e9bf78c43b06e52422b858661c3469a95d93b0e3f8aedfa967a90ca846b"
+    },
+    "hr_bat_attack.png": {
+      "file": "hires/hr_bat_attack.00b184bb.png",
+      "size": 330252,
+      "sha256": "00b184bbef80e1460c53eddd087f51b6b17605f8991b4de6a76ce37471bce51b"
+    },
+    "hr_bat_death.png": {
+      "file": "hires/hr_bat_death.70f61745.png",
+      "size": 311068,
+      "sha256": "70f6174579827d06b57bacff8f1aafabbc96cfc95ac90babd4e22e16e8cd6e27"
+    },
+    "hr_bat_idle.png": {
+      "file": "hires/hr_bat_idle.bcb900c5.png",
+      "size": 331482,
+      "sha256": "bcb900c596a13ff75ae63a6bd3ca310ffca55cc3f3763349889db3281b4b68f1"
+    },
+    "hr_bat_walk.png": {
+      "file": "hires/hr_bat_walk.2ed06520.png",
+      "size": 197579,
+      "sha256": "2ed0652059f0942e04bbd17decaf1001341b28afb779c539a3ce2a9a9421d477"
+    },
+    "hr_big_wreck.png": {
+      "file": "hires/hr_big_wreck.01f655c7.png",
+      "size": 188699,
+      "sha256": "01f655c79c1563f7b77338e4b83fa9b7bc4d5916879f2ad31c9b914807d4e911"
+    },
+    "hr_blackbeard_attack.png": {
+      "file": "hires/hr_blackbeard_attack.c6b82404.png",
+      "size": 975011,
+      "sha256": "c6b824045983ce5a3859ddfeb84fd41cf0298b6b109890292f9814aab53d6e7b"
+    },
+    "hr_blackbeard_cast.png": {
+      "file": "hires/hr_blackbeard_cast.30388ffa.png",
+      "size": 1346350,
+      "sha256": "30388ffa42cd5499900f3a1090e0f6ec5de49b2b6c5e9c8e6d24d13523644175"
+    },
+    "hr_blackbeard_death.png": {
+      "file": "hires/hr_blackbeard_death.147b0abd.png",
+      "size": 1429143,
+      "sha256": "147b0abd170b57f5b879b1808a82b37fa04e849bc20f6bbe3aa63d2aec49db02"
+    },
+    "hr_blackbeard_flurry.png": {
+      "file": "hires/hr_blackbeard_flurry.e5137f67.png",
+      "size": 1984187,
+      "sha256": "e5137f6795e415f88f18452145ee7fbe4c44924376cea0e2f7573b6a5a959a21"
+    },
+    "hr_blackbeard_idle.png": {
+      "file": "hires/hr_blackbeard_idle.bebe13c9.png",
+      "size": 538040,
+      "sha256": "bebe13c9005d0150bf64a6f278d2bef5ee26e16ab3a0c4a7750b818b2476bc7c"
+    },
+    "hr_blackbeard_pistol.png": {
+      "file": "hires/hr_blackbeard_pistol.2fbd2761.png",
+      "size": 844057,
+      "sha256": "2fbd2761a73007cdd51860f99bc277e9056f8278d981a1cdb93a64b44c9390d3"
+    },
+    "hr_blackbeard_throw.png": {
+      "file": "hires/hr_blackbeard_throw.2464debe.png",
+      "size": 1214075,
+      "sha256": "2464debe128e831a3b5317f2e5c26261e20b1f9a3c5996e8cd55a497346ef9bd"
+    },
+    "hr_blackbeard_walk.png": {
+      "file": "hires/hr_blackbeard_walk.ebeeeb23.png",
+      "size": 1337100,
+      "sha256": "ebeeeb23b3e97a9d991ff12a65e092a80f2c651d1b06c277aa177e37e57c85f7"
+    },
+    "hr_boar_attack.png": {
+      "file": "hires/hr_boar_attack.cf6bcfdd.png",
+      "size": 894750,
+      "sha256": "cf6bcfdd16e63c36d9c2546f8342fa79be20119c4bf5e8d44a85285aadbd22b2"
+    },
+    "hr_boar_death.png": {
+      "file": "hires/hr_boar_death.96babee4.png",
+      "size": 705027,
+      "sha256": "96babee43391f999f2d9a60ae2ea67dbe9d4171af088f9b5b05b02fd396a4aa1"
+    },
+    "hr_boar_idle.png": {
+      "file": "hires/hr_boar_idle.c153d6d7.png",
+      "size": 539088,
+      "sha256": "c153d6d78a775d5768425b35d9d1dd36dfd54f74595841c1676e4c44c544a169"
+    },
+    "hr_boar_walk.png": {
+      "file": "hires/hr_boar_walk.22fb2194.png",
+      "size": 493189,
+      "sha256": "22fb21942001a2dbfcb52bf85e25df80398bf1f11f0848471f7dcbadd52060b5"
+    },
+    "hr_boat.png": {
+      "file": "hires/hr_boat.2dbf51b6.png",
+      "size": 130485,
+      "sha256": "2dbf51b6927be6be3ccf95ba31b126e1492eae1bf3dea3fe09d6c646ac4711d4"
+    },
+    "hr_bones.png": {
+      "file": "hires/hr_bones.1c74aeee.png",
+      "size": 7366,
+      "sha256": "1c74aeeee917feaf4a2a822f18915f480763712f4fc312b28449b48b37163840"
+    },
+    "hr_brazier.png": {
+      "file": "hires/hr_brazier.89dde6ea.png",
+      "size": 7434,
+      "sha256": "89dde6eaf0e0a426e5ce90d4e1e9799ca1206f2c8b47f405caf46ff468d02a8f"
+    },
+    "hr_bullring_barrier.png": {
+      "file": "hires/hr_bullring_barrier.a23312ab.png",
+      "size": 24495,
+      "sha256": "a23312ab9f8a511be462978e71e8ce007c47d4de48c550b418068abc2dc1c93c"
+    },
+    "hr_bullring_outside.png": {
+      "file": "hires/hr_bullring_outside.c14a8a74.png",
+      "size": 392390,
+      "sha256": "c14a8a74aa36d8d52a3b11ad8ca2d42b0f007b2fb34b08b0f0611899623ea5a8"
+    },
+    "hr_bulwark.png": {
+      "file": "hires/hr_bulwark.9b564486.png",
+      "size": 102529,
+      "sha256": "9b564486f92e47a6c937f73817505bddaea056bc1b729d2a4a63d2f5131b3d22"
+    },
+    "hr_bush.png": {
+      "file": "hires/hr_bush.023403ca.png",
+      "size": 92190,
+      "sha256": "023403cad9edb2d2e40af9fb375c04cbb9cba58c394675b4ba5d0b9cfac7d618"
+    },
+    "hr_camp_banner.png": {
+      "file": "hires/hr_camp_banner.8d8d9d4e.png",
+      "size": 16834,
+      "sha256": "8d8d9d4ef33c39bd598145c6f1b48ea6d52de3464ade72fbf51c995d708dfa7b"
+    },
+    "hr_camp_bombard.png": {
+      "file": "hires/hr_camp_bombard.27317da0.png",
+      "size": 30552,
+      "sha256": "27317da0f33f48a0b496b51ac1a869575a56dee1a088630ede395ebf60dab61b"
+    },
+    "hr_camp_gabions.png": {
+      "file": "hires/hr_camp_gabions.48e89635.png",
+      "size": 57618,
+      "sha256": "48e89635e920439d195fdfa6ecfe58d7495425a033753474173ea4eeae6ef51a"
+    },
+    "hr_camp_palisade.png": {
+      "file": "hires/hr_camp_palisade.37e2624e.png",
+      "size": 79553,
+      "sha256": "37e2624e045916bb2e738c85e3e18a7638b166ed45d9d288006aa9fe9b819a30"
+    },
+    "hr_campfire.png": {
+      "file": "hires/hr_campfire.24d24f0d.png",
+      "size": 19442,
+      "sha256": "24d24f0dbf099e671bde3d37fee50090fae4a6aac11d80b447bb1e5915900489"
+    },
+    "hr_candles.png": {
+      "file": "hires/hr_candles.1d03a31e.png",
+      "size": 9023,
+      "sha256": "1d03a31e356b19e71c5c66c6a68ea618cfbcacbca26adad58d9a798e9ec73d47"
+    },
+    "hr_cannon.png": {
+      "file": "hires/hr_cannon.7c8e870e.png",
+      "size": 24961,
+      "sha256": "7c8e870e578aaf00c58b7e74e3e0679e7d900161fcf727b5bc1a4d3866fce22f"
+    },
+    "hr_captains_chest.png": {
+      "file": "hires/hr_captains_chest.3f37a0c1.png",
+      "size": 8270,
+      "sha256": "3f37a0c108e097f5e48782e0ef4b035ad297c7f00f9d26530d67629f996b0594"
+    },
+    "hr_cart.png": {
+      "file": "hires/hr_cart.7e2a9c1a.png",
+      "size": 34526,
+      "sha256": "7e2a9c1a3266d4e55887325c5f14b97bdf43934236ce1467dc153f2e9df6f871"
+    },
+    "hr_cave_crevice.png": {
+      "file": "hires/hr_cave_crevice.7d196574.png",
+      "size": 77294,
+      "sha256": "7d196574a86e6ef2db9a0131ff58f96125268543bb69d7e0ad6e9c25a6ae1160"
+    },
+    "hr_cave_mouth.png": {
+      "file": "hires/hr_cave_mouth.38c175c0.png",
+      "size": 137160,
+      "sha256": "38c175c0ba8c7dcb2ceea933072e5fbebd76b7b192613888374404ed255f0fc7"
+    },
+    "hr_cave_mouth_in.png": {
+      "file": "hires/hr_cave_mouth_in.867d4483.png",
+      "size": 99552,
+      "sha256": "867d44832ea8823d2585035c30261943fe6ffc3f6f01ddcc966d7f5e7a531678"
+    },
+    "hr_cave_stairs_down.png": {
+      "file": "hires/hr_cave_stairs_down.b5854de7.png",
+      "size": 87961,
+      "sha256": "b5854de7caa0b91faa578fa13ba6dafb8d49f6209aba27a16efb83fae808b8eb"
+    },
+    "hr_cave_stairs_up.png": {
+      "file": "hires/hr_cave_stairs_up.a9c00ab6.png",
+      "size": 124259,
+      "sha256": "a9c00ab68bc1e9ef992f934dc6ae093876547bf21f8adec9f23ee2e3dd6b389b"
+    },
+    "hr_cave_wall.png": {
+      "file": "hires/hr_cave_wall.4bf5c062.png",
+      "size": 161176,
+      "sha256": "4bf5c0625eb461fbf78812c4c132da1dcddbb310206ab6eb86585cf1080c4b44"
+    },
+    "hr_chest.png": {
+      "file": "hires/hr_chest.301346e5.png",
+      "size": 20237,
+      "sha256": "301346e5b2d698e67aaa89e2aad8ad8922f87baf014a48c29e5a075430a57852"
+    },
+    "hr_chips.png": {
+      "file": "hires/hr_chips.839827fa.png",
+      "size": 8545,
+      "sha256": "839827fa09e4a7fb52ad9c1276bed52274d95df975eb79ca7eb1d182138f988f"
+    },
+    "hr_contraband.png": {
+      "file": "hires/hr_contraband.9049b697.png",
+      "size": 41030,
+      "sha256": "9049b69751e591a784dc620265d409f62c7f647acab8fd22e6be0764b6273a01"
+    },
+    "hr_crate_stack.png": {
+      "file": "hires/hr_crate_stack.3aabc3f2.png",
+      "size": 46842,
+      "sha256": "3aabc3f25579855183e04ae1a0ca490b31df0a3db39255c56554efcf0a91e3fe"
+    },
+    "hr_crypt_arch.png": {
+      "file": "hires/hr_crypt_arch.2c877744.png",
+      "size": 268211,
+      "sha256": "2c8777443253b75f2983fb9baf4677e2ae88b4b645f051a97e86a50da807132f"
+    },
+    "hr_crypt_column.png": {
+      "file": "hires/hr_crypt_column.0ceb8871.png",
+      "size": 49568,
+      "sha256": "0ceb88719facad465e64de10cb6be47c6529a02e20223e614028fda7784eacdd"
+    },
+    "hr_crypt_gate.png": {
+      "file": "hires/hr_crypt_gate.513a7565.png",
+      "size": 200569,
+      "sha256": "513a7565ac956e06a83a35a8869a66cb54d16da1d69dafdf75606f0e9622bf90"
+    },
+    "hr_crypt_stairs_down.png": {
+      "file": "hires/hr_crypt_stairs_down.c1c8b132.png",
+      "size": 148290,
+      "sha256": "c1c8b132f4eb8c98c63518bb47e54f0073e834b4c06614704ad4357b4e8b4e25"
+    },
+    "hr_crypt_stairs_up.png": {
+      "file": "hires/hr_crypt_stairs_up.cff66eff.png",
+      "size": 142608,
+      "sha256": "cff66eff0aa0636be5ea68e169e9afcd140c1295b7042e71108398351a28b006"
+    },
+    "hr_crypt_wall.png": {
+      "file": "hires/hr_crypt_wall.b9923b79.png",
+      "size": 215357,
+      "sha256": "b9923b792786a4e6ce7e9d50b54b401471dcca1ac4123527da5a1bea3d1b04f2"
+    },
+    "hr_cursor_attack.png": {
+      "file": "hires/hr_cursor_attack.4e14e645.png",
+      "size": 1046,
+      "sha256": "4e14e6452bfc022b55206d12249384dd8b5a44c1ca5cbfe688722bdbbb919a8c"
+    },
+    "hr_cursor_attack@2x.png": {
+      "file": "hires/hr_cursor_attack@2x.35d57873.png",
+      "size": 2854,
+      "sha256": "35d5787337c1b91b0376b7fea6e8eed7f4ef9766a51c7bf7660e972fa36fb733"
+    },
+    "hr_cursor_button.png": {
+      "file": "hires/hr_cursor_button.cdaec2ca.png",
+      "size": 990,
+      "sha256": "cdaec2ca71286d6524cba5ae9485517736b92f454d44298f587386591bedf8ad"
+    },
+    "hr_cursor_button@2x.png": {
+      "file": "hires/hr_cursor_button@2x.4489a1b0.png",
+      "size": 2648,
+      "sha256": "4489a1b0e129a2a6082f9dcd911998a4e0b1b12d396b6b4e4f12dd731b89961c"
+    },
+    "hr_cursor_default.png": {
+      "file": "hires/hr_cursor_default.9ef88eac.png",
+      "size": 881,
+      "sha256": "9ef88eac30fbf6a6381f81eeb03af555aa6e0880ae5e35654888ab4cc2388a86"
+    },
+    "hr_cursor_default@2x.png": {
+      "file": "hires/hr_cursor_default@2x.0ee9c4e4.png",
+      "size": 2149,
+      "sha256": "0ee9c4e4bb0905d8291a8c9daa0f6d1492917a89b162c8569a4c07a02c116b1b"
+    },
+    "hr_cursor_no.png": {
+      "file": "hires/hr_cursor_no.13827efe.png",
+      "size": 1643,
+      "sha256": "13827efe8f60ee150951194d7becafcd4816af4a3331405e0c4661b5981c0e43"
+    },
+    "hr_cursor_no@2x.png": {
+      "file": "hires/hr_cursor_no@2x.a0d6762d.png",
+      "size": 4304,
+      "sha256": "a0d6762dd5e293df6d6f54ffd1a0c629c1f20db65e1ebc9caf83abf8c43040ca"
+    },
+    "hr_cursor_pick.png": {
+      "file": "hires/hr_cursor_pick.13c05d92.png",
+      "size": 1515,
+      "sha256": "13c05d92b1b8e41f22763fdc3d3adbb4fadc4267da0be7458c37803bc15287f5"
+    },
+    "hr_cursor_pick@2x.png": {
+      "file": "hires/hr_cursor_pick@2x.8d15fce1.png",
+      "size": 3452,
+      "sha256": "8d15fce195384949c74f920123d40d7bc8cdfcc567cd738fe8211fbe26929dba"
+    },
+    "hr_dead_orange_tree.png": {
+      "file": "hires/hr_dead_orange_tree.c7e422a9.png",
+      "size": 79177,
+      "sha256": "c7e422a901cd473b21f2b3e0dd21fc141d0b97ac4722429aeafa2eefc163d17e"
+    },
+    "hr_debris.png": {
+      "file": "hires/hr_debris.76e2536f.png",
+      "size": 33109,
+      "sha256": "76e2536f6ee40c9af5e7d0cbbf15c599b11109379dd507a139e7d2fc59ac22ad"
+    },
+    "hr_desert_scorpion_attack.png": {
+      "file": "hires/hr_desert_scorpion_attack.846987f6.png",
+      "size": 563428,
+      "sha256": "846987f658d304bf62075d7f96f06c27ca810cc4f48b0fef3b39a779808b30af"
+    },
+    "hr_desert_scorpion_death.png": {
+      "file": "hires/hr_desert_scorpion_death.0501e55f.png",
+      "size": 579819,
+      "sha256": "0501e55f07b6ebcb363bd3184baea1e62fdbe5d9baf0d94f0545f58f8cec7766"
+    },
+    "hr_desert_scorpion_idle.png": {
+      "file": "hires/hr_desert_scorpion_idle.a586daab.png",
+      "size": 303954,
+      "sha256": "a586daabcd09905d48c0a47585b412ed3e76ba033beed5e5ba255561a0665631"
+    },
+    "hr_desert_scorpion_walk.png": {
+      "file": "hires/hr_desert_scorpion_walk.c62b1c7f.png",
+      "size": 448656,
+      "sha256": "c62b1c7f0b73b4c10631f3ce83517cdd129977d89ee276766c2ba2d70979f088"
+    },
+    "hr_drowned_attack.png": {
+      "file": "hires/hr_drowned_attack.445c6c13.png",
+      "size": 1000272,
+      "sha256": "445c6c13572e8d03ba1928eb9e53fbfee36ed6914026e7e8dbad550cf4dfea09"
+    },
+    "hr_drowned_captain_attack.png": {
+      "file": "hires/hr_drowned_captain_attack.a3792b6f.png",
+      "size": 1159802,
+      "sha256": "a3792b6fab31d7cb0dac447692bcf57b15d691aab752e45fa09ccec30ce6d217"
+    },
+    "hr_drowned_captain_cast.png": {
+      "file": "hires/hr_drowned_captain_cast.24da248b.png",
+      "size": 1354015,
+      "sha256": "24da248b757eef2bb3538c47a9093100c86e9dde537634618886bd7de707789a"
+    },
+    "hr_drowned_captain_death.png": {
+      "file": "hires/hr_drowned_captain_death.66d8c4c9.png",
+      "size": 1672948,
+      "sha256": "66d8c4c968be79ca3a1dc4c2ab3e1a92c67938ffdaed045a9c44bb6fac2504a5"
+    },
+    "hr_drowned_captain_idle.png": {
+      "file": "hires/hr_drowned_captain_idle.58a9659d.png",
+      "size": 621681,
+      "sha256": "58a9659daba3ee15153243fa463b172e25a008eb9cd572847dfe7f7b96f00b12"
+    },
+    "hr_drowned_captain_slam.png": {
+      "file": "hires/hr_drowned_captain_slam.e9799b05.png",
+      "size": 1906800,
+      "sha256": "e9799b058e3e6ffb2ea080c5eba84a2d632b0185e4719ab88730d72fb10e2fa2"
+    },
+    "hr_drowned_captain_summon.png": {
+      "file": "hires/hr_drowned_captain_summon.2f08d19c.png",
+      "size": 1648171,
+      "sha256": "2f08d19c4b228e90f446ee21613889d72d15585a8fb20117c536b05658a7063f"
+    },
+    "hr_drowned_captain_walk.png": {
+      "file": "hires/hr_drowned_captain_walk.a3cbde3b.png",
+      "size": 1464096,
+      "sha256": "a3cbde3bb94841f0f9f0851b9901d0e5c8087391520a96d2cedcac6a805ad0e0"
+    },
+    "hr_drowned_death.png": {
+      "file": "hires/hr_drowned_death.57ad0f58.png",
+      "size": 1367703,
+      "sha256": "57ad0f585c074434d6dd0b365d39cd5fe7b2a69663d1aa5f6fabe7529486d437"
+    },
+    "hr_drowned_idle.png": {
+      "file": "hires/hr_drowned_idle.8e2cb4ee.png",
+      "size": 521891,
+      "sha256": "8e2cb4eeb7d11d83e80df6b5540858927f75f6480b1ac0f85613cdf56704c517"
+    },
+    "hr_drowned_walk.png": {
+      "file": "hires/hr_drowned_walk.773efd59.png",
+      "size": 1072294,
+      "sha256": "773efd594afff7689843aa7f1501bed3decb3111028548499d21a6d8cd4d0eae"
+    },
+    "hr_eggs.png": {
+      "file": "hires/hr_eggs.3b4f89ac.png",
+      "size": 16874,
+      "sha256": "3b4f89ac8216b1c5243fa377f4636b46dfdbb37137503fe20d839d19640ad004"
+    },
+    "hr_el_negro_attack.png": {
+      "file": "hires/hr_el_negro_attack.036dc4e4.png",
+      "size": 1246846,
+      "sha256": "036dc4e490642076a37141212d5c3fceec1f5396ec33b381a3521ced98cb184c"
+    },
+    "hr_el_negro_death.png": {
+      "file": "hires/hr_el_negro_death.962d9b96.png",
+      "size": 1031519,
+      "sha256": "962d9b969f8f27cc26032dafb2b296847f5b6f7c3e02b0c44004c470c37afd5f"
+    },
+    "hr_el_negro_idle.png": {
+      "file": "hires/hr_el_negro_idle.2b3b2fa4.png",
+      "size": 726025,
+      "sha256": "2b3b2fa4e895902fbc3074544b3bf62b9fd86c7fa0c420a57e4c27358253125f"
+    },
+    "hr_el_negro_walk.png": {
+      "file": "hires/hr_el_negro_walk.01d0176c.png",
+      "size": 765615,
+      "sha256": "01d0176c2299106c0b97083ffd6071cc63287fa0023ea30b20847906e158140f"
+    },
+    "hr_fallen_beams.png": {
+      "file": "hires/hr_fallen_beams.d8a113f9.png",
+      "size": 43866,
+      "sha256": "d8a113f944a41da938552cb2373cf9773e5826d1eb7443bc8b3687d06f03d7f6"
+    },
+    "hr_fighting_bull_attack.png": {
+      "file": "hires/hr_fighting_bull_attack.3a81c27a.png",
+      "size": 1199149,
+      "sha256": "3a81c27a25c61f701fee48f70b372eec3be76a5a33342add5172e3582723016e"
+    },
+    "hr_fighting_bull_death.png": {
+      "file": "hires/hr_fighting_bull_death.836e437d.png",
+      "size": 986644,
+      "sha256": "836e437d495f337870b1329f65797c5fe62e67569d0405569e2f59db3b1ce2c3"
+    },
+    "hr_fighting_bull_idle.png": {
+      "file": "hires/hr_fighting_bull_idle.90d737b8.png",
+      "size": 697756,
+      "sha256": "90d737b8bc2904d7800a05eb9c42106fb3b339020a01505d2c0d5991f8406883"
+    },
+    "hr_fighting_bull_walk.png": {
+      "file": "hires/hr_fighting_bull_walk.c8bed463.png",
+      "size": 751394,
+      "sha256": "c8bed463ecc82c0671c22272c3d8440d693f4a4362b83d1a68f9b466aa9a4ea1"
+    },
+    "hr_fountain.png": {
+      "file": "hires/hr_fountain.e1a0fb59.png",
+      "size": 63663,
+      "sha256": "e1a0fb590caf4f6146db2b70b70a8f3e82fa363886554c90418b75d2138e73e7"
+    },
+    "hr_fungus.png": {
+      "file": "hires/hr_fungus.2100f55a.png",
+      "size": 8337,
+      "sha256": "2100f55a41db0475eaf61000ee233330f2bfd5d219f369d8952b1e9c97034593"
+    },
+    "hr_furnace.png": {
+      "file": "hires/hr_furnace.f468ab00.png",
+      "size": 197195,
+      "sha256": "f468ab00b1aea30c186a3903be3000fe6ff327c6cd72710771fd5d529ed76adf"
+    },
+    "hr_fx_anchor_quake.png": {
+      "file": "hires/hr_fx_anchor_quake.5cd114f5.png",
+      "size": 898158,
+      "sha256": "5cd114f5c86829a407416a0eb25b575070137db584407a5e9ddbeb547ce7d84b"
+    },
+    "hr_fx_aura.png": {
+      "file": "hires/hr_fx_aura.6e32b8e5.png",
+      "size": 259531,
+      "sha256": "6e32b8e5a83e86175e4626a4265e96aec8393fa02d601c88ce29f0475e87b41c"
+    },
+    "hr_fx_beam.png": {
+      "file": "hires/hr_fx_beam.696ef721.png",
+      "size": 6900,
+      "sha256": "696ef721f62f136f9345b53feb49acccd5f7362d10eb3d4d158475e19970f428"
+    },
+    "hr_fx_blood.png": {
+      "file": "hires/hr_fx_blood.8572f89d.png",
+      "size": 17770,
+      "sha256": "8572f89db02b1588a5806e481992bb3041f457a7a8d0bbcd12c37252ade8e53d"
+    },
+    "hr_fx_bolt.png": {
+      "file": "hires/hr_fx_bolt.e61a9548.png",
+      "size": 12509,
+      "sha256": "e61a9548680bf3b5e364bd315d1f396583421aa887677fcd79554524e54dca82"
+    },
+    "hr_fx_bolt_hit.png": {
+      "file": "hires/hr_fx_bolt_hit.08df3c84.png",
+      "size": 22673,
+      "sha256": "08df3c844ab1441ff0c8a34339c6abf19b0d2239a1e819b7bed99c03537933f9"
+    },
+    "hr_fx_bubble.png": {
+      "file": "hires/hr_fx_bubble.133a79cb.png",
+      "size": 870,
+      "sha256": "133a79cb9ec6c018341592d5a97fb0d9f41a5834f951670ec18ad3993c45b483"
+    },
+    "hr_fx_bullet.png": {
+      "file": "hires/hr_fx_bullet.2e2f907a.png",
+      "size": 23612,
+      "sha256": "2e2f907aef1df634d3926e7c58c1cacbdeeed7ed9039c8e4bf3ba999f4763b3e"
+    },
+    "hr_fx_cannon_ball.png": {
+      "file": "hires/hr_fx_cannon_ball.bdde0412.png",
+      "size": 20042,
+      "sha256": "bdde04124e9c64f57dc1afbb87204248a4af47fa665d227c94281f004fed964e"
+    },
+    "hr_fx_claw.png": {
+      "file": "hires/hr_fx_claw.9cc19728.png",
+      "size": 61405,
+      "sha256": "9cc1972875d635dd22185ea0a58fc23baf276a4ab466802a0d446d33f701e722"
+    },
+    "hr_fx_dash.png": {
+      "file": "hires/hr_fx_dash.85ddbc1b.png",
+      "size": 562704,
+      "sha256": "85ddbc1bb083ad866443d41cad057f1d094ff99de2725800b43de1156c4746ee"
+    },
+    "hr_fx_drink.png": {
+      "file": "hires/hr_fx_drink.b7f2b0de.png",
+      "size": 53497,
+      "sha256": "b7f2b0de5f5eb6f1a7c151b4084a963a936be825535c429d279df2caf49d6946"
+    },
+    "hr_fx_drop.png": {
+      "file": "hires/hr_fx_drop.a6eb4011.png",
+      "size": 560,
+      "sha256": "a6eb4011df8d08aa13119ad878cf674722454a01a86630422e6a80e5dac69bd3"
+    },
+    "hr_fx_dust.png": {
+      "file": "hires/hr_fx_dust.c74e8339.png",
+      "size": 201637,
+      "sha256": "c74e8339c3d133955e185743af862d5d93cbf3f2dee1d90c874402a5b8744b07"
+    },
+    "hr_fx_execute.png": {
+      "file": "hires/hr_fx_execute.b80b47cd.png",
+      "size": 220788,
+      "sha256": "b80b47cdabbfdf22afe54ac711e4665cc84bee6e4eae2c2213bf1a591bd8b26b"
+    },
+    "hr_fx_explosion.png": {
+      "file": "hires/hr_fx_explosion.a7c25239.png",
+      "size": 685830,
+      "sha256": "a7c252399646b3f91040744f80d1980b07230a859edb696f8515ec37179c402d"
+    },
+    "hr_fx_fire_zone.png": {
+      "file": "hires/hr_fx_fire_zone.1e9298bc.png",
+      "size": 198738,
+      "sha256": "1e9298bc9948065368a6c0bad1b5c6eefc9b7e3e846b1ca9355e9e172004a25e"
+    },
+    "hr_fx_flame.png": {
+      "file": "hires/hr_fx_flame.94cc042c.png",
+      "size": 15494,
+      "sha256": "94cc042c32d91101b9f043bdf0f572fd7a47d047a648d63679859e64679ea051"
+    },
+    "hr_fx_flame_brazier.png": {
+      "file": "hires/hr_fx_flame_brazier.99814994.png",
+      "size": 27208,
+      "sha256": "99814994c8831761ccd3d1068a2cc314d19b9b2d97b6ccba703ddf7caab5c769"
+    },
+    "hr_fx_flame_camp.png": {
+      "file": "hires/hr_fx_flame_camp.0d524e3e.png",
+      "size": 48840,
+      "sha256": "0d524e3e637f0218bdc2c084d2cd40631f29e1d27cd5b51c4a949446e138bd27"
+    },
+    "hr_fx_flame_candle.png": {
+      "file": "hires/hr_fx_flame_candle.86d09c84.png",
+      "size": 2829,
+      "sha256": "86d09c842612534971846963ad926c79f119296f81ad19b7c567fb6b02efc902"
+    },
+    "hr_fx_flame_forge.png": {
+      "file": "hires/hr_fx_flame_forge.be874a85.png",
+      "size": 20368,
+      "sha256": "be874a85a9c815c08c31db5936eb89f2e7806611104038af2a9a0465d03bea3b"
+    },
+    "hr_fx_flame_lantern.png": {
+      "file": "hires/hr_fx_flame_lantern.2d2e4cdb.png",
+      "size": 5687,
+      "sha256": "2d2e4cdb234689220f0474671c016358115dd97c640e0ff449ef8e536e5138fb"
+    },
+    "hr_fx_flurry.png": {
+      "file": "hires/hr_fx_flurry.d1131767.png",
+      "size": 157540,
+      "sha256": "d113176766224c0f987a189fb95365b901e9c641e7d2ef8a6f4cd10018024a8b"
+    },
+    "hr_fx_frost_wave.png": {
+      "file": "hires/hr_fx_frost_wave.299897be.png",
+      "size": 3895198,
+      "sha256": "299897be9332f35d6fa4a6b4c48fc913b54767ea873c3569d1480bdcef19cc15"
+    },
+    "hr_fx_glow.png": {
+      "file": "hires/hr_fx_glow.fd04ab8c.png",
+      "size": 11832,
+      "sha256": "fd04ab8c96466f33181b27c954743e5b3742f4a4bde024d991ac2998b229d3f2"
+    },
+    "hr_fx_ice_bolt.png": {
+      "file": "hires/hr_fx_ice_bolt.ec0dd450.png",
+      "size": 70613,
+      "sha256": "ec0dd4509af06821cf2f6b9e3bfd9c16584bb8b0774c2413a7c49c084a312ba1"
+    },
+    "hr_fx_ice_burst.png": {
+      "file": "hires/hr_fx_ice_burst.f4759fb6.png",
+      "size": 98166,
+      "sha256": "f4759fb601dd6e66acf8835e1810da6bb6c588da9a0b0b720e2d7393d3b46324"
+    },
+    "hr_fx_levelup.png": {
+      "file": "hires/hr_fx_levelup.bdecde3e.png",
+      "size": 688101,
+      "sha256": "bdecde3e4cd442ea3b7c03aecd830cbe0c43b7275c1b8ae8b70440732c1f2a3e"
+    },
+    "hr_fx_muzzle.png": {
+      "file": "hires/hr_fx_muzzle.47336d56.png",
+      "size": 31927,
+      "sha256": "47336d56be33c0879f5f942f590abfb5e695ac1e3f2e26f0ff4b052fb937f9b9"
+    },
+    "hr_fx_muzzle_flash.png": {
+      "file": "hires/hr_fx_muzzle_flash.31d411ab.png",
+      "size": 49667,
+      "sha256": "31d411ab8d95f125c4569a219b5d947b2e3c1d0044bb9421a5d0c7d22b8867d6"
+    },
+    "hr_fx_poison.png": {
+      "file": "hires/hr_fx_poison.e03a4ded.png",
+      "size": 161020,
+      "sha256": "e03a4ded8307ffa5808e12b71f24e5c45b52afeeec710619456c2c795b4ab55b"
+    },
+    "hr_fx_powder_keg.png": {
+      "file": "hires/hr_fx_powder_keg.9018ba7c.png",
+      "size": 19621,
+      "sha256": "9018ba7c36f1371a3b6a989e06c101657c55263354c7fddb7b3642c7ebad4e2b"
+    },
+    "hr_fx_rage.png": {
+      "file": "hires/hr_fx_rage.d2dc9848.png",
+      "size": 300689,
+      "sha256": "d2dc98480d0abda108014627daacbaaecd13ec27d7485b5ef109c4dc067ae141"
+    },
+    "hr_fx_rain.png": {
+      "file": "hires/hr_fx_rain.4f646265.png",
+      "size": 3768,
+      "sha256": "4f646265e7efe264291a51422bd6b707479876a6ca601e7539e96adec964aa15"
+    },
+    "hr_fx_ripple.png": {
+      "file": "hires/hr_fx_ripple.91da191a.png",
+      "size": 92038,
+      "sha256": "91da191a67facbcaf40ed5959710fe1d9101bd83d45f585f070e72bd386ccdf9"
+    },
+    "hr_fx_rum_bottle.png": {
+      "file": "hires/hr_fx_rum_bottle.aa98f3db.png",
+      "size": 11424,
+      "sha256": "aa98f3db6d87465dc82f8a413f97a00d1ec8cf7800974de8472eb945a2679670"
+    },
+    "hr_fx_shock.png": {
+      "file": "hires/hr_fx_shock.33c4357b.png",
+      "size": 75436,
+      "sha256": "33c4357b921f803b9d4047f3b3464f912b5492cd4ed814d40f008f31f405a81c"
+    },
+    "hr_fx_slam_warn.png": {
+      "file": "hires/hr_fx_slam_warn.ddaa6820.png",
+      "size": 81759,
+      "sha256": "ddaa6820b69ed0378faced872dd8fa84f1c3e34d0f94cbb68c30429a90ae9b23"
+    },
+    "hr_fx_slash.png": {
+      "file": "hires/hr_fx_slash.9e20af3c.png",
+      "size": 1005926,
+      "sha256": "9e20af3c40d908295881ed52b43cc156494fbccf86f5f37a17b22c3e0582e014"
+    },
+    "hr_fx_smoke.png": {
+      "file": "hires/hr_fx_smoke.eba56765.png",
+      "size": 415221,
+      "sha256": "eba56765c17eb8cc01646a467ef528f92c74ee64073b5713937515a30e6992e6"
+    },
+    "hr_fx_spark.png": {
+      "file": "hires/hr_fx_spark.544f78e5.png",
+      "size": 39874,
+      "sha256": "544f78e5356582a66bd2d9d877121b2da659060ca9f3f750c55e63ff63d4ff29"
+    },
+    "hr_fx_spark_bolt.png": {
+      "file": "hires/hr_fx_spark_bolt.9c743a4a.png",
+      "size": 28642,
+      "sha256": "9c743a4acf8a3ec6d652dafa5f09846cac227be0afa5c9f21282e9fb12ba855a"
+    },
+    "hr_fx_star.png": {
+      "file": "hires/hr_fx_star.423b70c4.png",
+      "size": 1781,
+      "sha256": "423b70c4fe198ff4875afb2dfb2c33d3c3e16c7b48ecf8d8b02e8da371c9ae1c"
+    },
+    "hr_fx_twinkle.png": {
+      "file": "hires/hr_fx_twinkle.5733bca7.png",
+      "size": 14159,
+      "sha256": "5733bca7b46e481ff2dd2bb9ddb2698af84ee049912e6aaad54ca86c99007d77"
+    },
+    "hr_fx_water.png": {
+      "file": "hires/hr_fx_water.1e1edbca.png",
+      "size": 482,
+      "sha256": "1e1edbca507988169f27d6cd9f7838deb4871c8ef0d56e701c913d53c048c3ac"
+    },
+    "hr_fx_water_rise.png": {
+      "file": "hires/hr_fx_water_rise.76e805e1.png",
+      "size": 225991,
+      "sha256": "76e805e1c0c4d66fb7922f94b0abf2179664bb191aff52c8628795bd6a160356"
+    },
+    "hr_fx_web.png": {
+      "file": "hires/hr_fx_web.615ea51b.png",
+      "size": 68760,
+      "sha256": "615ea51be7a26896b08bfc29e8387ce146e3b1ed80f4bad24dfb5276321744af"
+    },
+    "hr_fx_whirl.png": {
+      "file": "hires/hr_fx_whirl.21074a74.png",
+      "size": 411634,
+      "sha256": "21074a7415bd6fd113e4e161f1b50bb7c912f993e69c2b1af70c67dd9ad8d15f"
+    },
+    "hr_golem_forge_attack.png": {
+      "file": "hires/hr_golem_forge_attack.8fed4dd5.png",
+      "size": 334985,
+      "sha256": "8fed4dd59d7144a688ccebee35cefd10ea84415b445e77f36b43f4e0b93f20aa"
+    },
+    "hr_golem_forge_death.png": {
+      "file": "hires/hr_golem_forge_death.ad931b57.png",
+      "size": 388976,
+      "sha256": "ad931b57079efd27d4b4ea80a31ac11b1e69dc72ee7f7d7e0f55c64bf65d7271"
+    },
+    "hr_golem_forge_idle.png": {
+      "file": "hires/hr_golem_forge_idle.e2879218.png",
+      "size": 427521,
+      "sha256": "e2879218e31b8b1eec933d749c1babfd3e69a72117fa41fd28b4be4f7ac92380"
+    },
+    "hr_golem_forge_walk.png": {
+      "file": "hires/hr_golem_forge_walk.e2879218.png",
+      "size": 427521,
+      "sha256": "e2879218e31b8b1eec933d749c1babfd3e69a72117fa41fd28b4be4f7ac92380"
+    },
+    "hr_golem_mold.png": {
+      "file": "hires/hr_golem_mold.237fdf3a.png",
+      "size": 54252,
+      "sha256": "237fdf3a7bc46fb991cffa9a55913afe37a4aa07d595431e3d6ed131fe88ee0d"
+    },
+    "hr_grandstand.png": {
+      "file": "hires/hr_grandstand.8b9f3d59.png",
+      "size": 162176,
+      "sha256": "8b9f3d59ef4bc1aab66a008e43b1fa4c4cd7554b7d8a1b635271e8d48c19d00d"
+    },
+    "hr_grass.png": {
+      "file": "hires/hr_grass.8f0c605c.png",
+      "size": 12867,
+      "sha256": "8f0c605c4a53fed4c25f589a91b8b184253c1ec14460096a19e42dd55460a6f6"
+    },
+    "hr_ground_bullring_dry.png": {
+      "file": "hires/hr_ground_bullring_dry.3afad066.png",
+      "size": 1395102,
+      "sha256": "3afad066712996337812030360ced0f1b029cd3d69ed6299ab6947c612ccaaf3"
+    },
+    "hr_ground_bullring_pebble.png": {
+      "file": "hires/hr_ground_bullring_pebble.c5523560.png",
+      "size": 227704,
+      "sha256": "c55235603692b746aeb78c7b858417a4acf472343157da1caf17d09a0d4cb74f"
+    },
+    "hr_ground_bullring_wet.png": {
+      "file": "hires/hr_ground_bullring_wet.9387d6b5.png",
+      "size": 275786,
+      "sha256": "9387d6b5d543f1d959c7d35a6e5037fee5c7bdd0522e1bfe5469f56a4b502924"
+    },
+    "hr_ground_camp_dry.png": {
+      "file": "hires/hr_ground_camp_dry.6820b572.png",
+      "size": 1365697,
+      "sha256": "6820b572ee88a19d8a03655a7e93645c28457df9ce029b47f345ec3d6ed987dc"
+    },
+    "hr_ground_camp_pebble.png": {
+      "file": "hires/hr_ground_camp_pebble.b783d6fd.png",
+      "size": 1317714,
+      "sha256": "b783d6fdf1dc612de9866e36a3f6f933de836357f11f2cfb01edf70bc58c3b0c"
+    },
+    "hr_ground_camp_wet.png": {
+      "file": "hires/hr_ground_camp_wet.6a243c08.png",
+      "size": 1317869,
+      "sha256": "6a243c088f926e8bafecc1b22b89b03a2f2aadc6a1b5ca091fedce3c1ae2b4e6"
+    },
+    "hr_ground_cave_dry.png": {
+      "file": "hires/hr_ground_cave_dry.e176c50d.png",
+      "size": 1447512,
+      "sha256": "e176c50d97f55bf56d2dc2739a5b12eed08c2a191e4f695c478598a51a19ba59"
+    },
+    "hr_ground_cave_pebble.png": {
+      "file": "hires/hr_ground_cave_pebble.c1b8cb84.png",
+      "size": 1600743,
+      "sha256": "c1b8cb84cba18f82baf1b81e5c1242d1466601570b7fa1843bb0f576f2c85262"
+    },
+    "hr_ground_cave_wet.png": {
+      "file": "hires/hr_ground_cave_wet.17d5abe9.png",
+      "size": 1226311,
+      "sha256": "17d5abe942f83a0f791d70473c81dd5166faacfca71b1653d7a26cb8bbf55db2"
+    },
+    "hr_ground_crypt_dry.png": {
+      "file": "hires/hr_ground_crypt_dry.7dd84afa.png",
+      "size": 1363180,
+      "sha256": "7dd84afa0739305b268a64543db79ac6a7aed4296a8b6d55fe33f551f36f439e"
+    },
+    "hr_ground_crypt_pebble.png": {
+      "file": "hires/hr_ground_crypt_pebble.7aa65018.png",
+      "size": 1403233,
+      "sha256": "7aa65018d4117d689f64811519f7a75ca1ad4ceed2cb176331a4a194e90b7c24"
+    },
+    "hr_ground_crypt_wet.png": {
+      "file": "hires/hr_ground_crypt_wet.256952e2.png",
+      "size": 1360800,
+      "sha256": "256952e25848e093c530337cc0a27494fcebda171ddef65ad73d1d063f05baa0"
+    },
+    "hr_ground_deck_dry.png": {
+      "file": "hires/hr_ground_deck_dry.707746b2.png",
+      "size": 1333382,
+      "sha256": "707746b2d185ac3816e3e1ba4ce60dbb3d7289ba04d2eb5a5601922a9d668610"
+    },
+    "hr_ground_deck_pebble.png": {
+      "file": "hires/hr_ground_deck_pebble.9fe82413.png",
+      "size": 1333780,
+      "sha256": "9fe82413ccc5918037fba0f850a0d8f82356165e2455fbb0a23a8de5d4d2856c"
+    },
+    "hr_ground_deck_wet.png": {
+      "file": "hires/hr_ground_deck_wet.86336d6c.png",
+      "size": 1287932,
+      "sha256": "86336d6cc7acdf6661e33c2b9df70cea218b642db84cec0d5641b0247447152c"
+    },
+    "hr_ground_dry.png": {
+      "file": "hires/hr_ground_dry.89a27204.png",
+      "size": 1512802,
+      "sha256": "89a27204ac016a351899d6377ac05b0e359238cbf1d1d035dc69ce76561f5653"
+    },
+    "hr_ground_hills_dry.png": {
+      "file": "hires/hr_ground_hills_dry.4fac5550.png",
+      "size": 1177678,
+      "sha256": "4fac55500377528358d776433497f8b767ebc8d62378f1eb6fefa48d1c87554a"
+    },
+    "hr_ground_hills_pebble.png": {
+      "file": "hires/hr_ground_hills_pebble.3f56618c.png",
+      "size": 1723417,
+      "sha256": "3f56618cdcab84621e7491d038ec003df14a1dfab289c9539f55304dda223dc9"
+    },
+    "hr_ground_hills_wet.png": {
+      "file": "hires/hr_ground_hills_wet.3464dd9c.png",
+      "size": 1407266,
+      "sha256": "3464dd9cdb17293cac8ada3db6baf127ad8c92eb0b70a4d7381c5ac313fac27f"
+    },
+    "hr_ground_mine_dry.png": {
+      "file": "hires/hr_ground_mine_dry.47603196.png",
+      "size": 1436043,
+      "sha256": "47603196098763886732c75797feb8a87b39e546d4e546f7f4b4143d9d0da43e"
+    },
+    "hr_ground_mine_pebble.png": {
+      "file": "hires/hr_ground_mine_pebble.e0a930a4.png",
+      "size": 1673871,
+      "sha256": "e0a930a407bca28c0f9ff07f6b328877b8678975cf742b6836e40d6b57e4ae2e"
+    },
+    "hr_ground_mine_wet.png": {
+      "file": "hires/hr_ground_mine_wet.cb170836.png",
+      "size": 1268311,
+      "sha256": "cb170836b322850736aab59273269f52df91de65588aedaaf4dd1632f39dc8d6"
+    },
+    "hr_ground_palace_dry.png": {
+      "file": "hires/hr_ground_palace_dry.6725846f.png",
+      "size": 1441409,
+      "sha256": "6725846ff05f872d5c4f4b62d6bf1f81190a051d8ff374d1ac2c19834565789a"
+    },
+    "hr_ground_palace_pebble.png": {
+      "file": "hires/hr_ground_palace_pebble.0db334e2.png",
+      "size": 1514171,
+      "sha256": "0db334e26ae63b937acaff93043bdf0a171f0cfeee87b66ccd8d448f4690e82d"
+    },
+    "hr_ground_palace_wet.png": {
+      "file": "hires/hr_ground_palace_wet.48af831a.png",
+      "size": 1345588,
+      "sha256": "48af831a242634cfb3d2d6ca97a0436505798802b358e9cec2776058502f15a9"
+    },
+    "hr_ground_pebble.png": {
+      "file": "hires/hr_ground_pebble.58dfc5ba.png",
+      "size": 1534177,
+      "sha256": "58dfc5bab1e063e4c7aa78dc4c65ba6ab5a605f0258971e48062b26414cef816"
+    },
+    "hr_ground_plains_dry.png": {
+      "file": "hires/hr_ground_plains_dry.7779660b.png",
+      "size": 1452087,
+      "sha256": "7779660bbdd1afe62af1d907fa17a674baa6b313d488d7d098aa502f0ca5026a"
+    },
+    "hr_ground_plains_pebble.png": {
+      "file": "hires/hr_ground_plains_pebble.9d94ef55.png",
+      "size": 306565,
+      "sha256": "9d94ef552e593a27734b756ef7baa0379aa44c0cde19e3f526cebebb84c86f32"
+    },
+    "hr_ground_plains_wet.png": {
+      "file": "hires/hr_ground_plains_wet.9a117366.png",
+      "size": 401325,
+      "sha256": "9a11736610bd9e8391c443eb244af57154ddaebe9cecd1b40c6bfae2760ea7b3"
+    },
+    "hr_ground_prison_dry.png": {
+      "file": "hires/hr_ground_prison_dry.fc45f600.png",
+      "size": 1550074,
+      "sha256": "fc45f600696785bac22632977cd29384420ffe749e448b3ad1d65ce2bb72a411"
+    },
+    "hr_ground_prison_pebble.png": {
+      "file": "hires/hr_ground_prison_pebble.5af16620.png",
+      "size": 1698337,
+      "sha256": "5af1662044bcdc0b97d8605e42642e1318d75ccd01cd73570e899b8b190e011a"
+    },
+    "hr_ground_prison_wet.png": {
+      "file": "hires/hr_ground_prison_wet.232031b5.png",
+      "size": 1553074,
+      "sha256": "232031b58656e55e820b9c4b66fa3822a9881a14ffb951a9b223fff1a220926b"
+    },
+    "hr_ground_seville_dry.png": {
+      "file": "hires/hr_ground_seville_dry.997b7a15.png",
+      "size": 278639,
+      "sha256": "997b7a152e801fe7b9ca8f2b84f59f063b5f75f2ac03c5846a0b5297ac932b5c"
+    },
+    "hr_ground_seville_pebble.png": {
+      "file": "hires/hr_ground_seville_pebble.6e5907e4.png",
+      "size": 1540261,
+      "sha256": "6e5907e4c22b30f64dc8f9b9708acbcd7ce8a4d9b402e498dbb6a7dce01acb28"
+    },
+    "hr_ground_seville_wet.png": {
+      "file": "hires/hr_ground_seville_wet.21018d94.png",
+      "size": 1416338,
+      "sha256": "21018d9489a4f8fef434acd7afd8894ab43ee4123fbbd0ed454df660e07f2fa2"
+    },
+    "hr_ground_town_dry.png": {
+      "file": "hires/hr_ground_town_dry.eec2e6c1.png",
+      "size": 1192299,
+      "sha256": "eec2e6c19218733278071d27ea039cb68375167bbdfeab32c9ee57b73dea2c45"
+    },
+    "hr_ground_town_pebble.png": {
+      "file": "hires/hr_ground_town_pebble.1cf9a71e.png",
+      "size": 1378960,
+      "sha256": "1cf9a71ea1064a5a1decd1e0d3003668c653b63e5d2cd32167f9d99628b34e7c"
+    },
+    "hr_ground_town_wet.png": {
+      "file": "hires/hr_ground_town_wet.1f60fc17.png",
+      "size": 1406556,
+      "sha256": "1f60fc177e0c6491a95d8452804e9808663556de0286a240fe8eabc42b3c6f4f"
+    },
+    "hr_ground_wet.png": {
+      "file": "hires/hr_ground_wet.7f4176df.png",
+      "size": 1323335,
+      "sha256": "7f4176dfa8a3d86ffdcab4ab667992a83d2fbe0b2d20fb2cfaf4108f72d9b3fd"
+    },
+    "hr_ground_wreck_dry.png": {
+      "file": "hires/hr_ground_wreck_dry.a63f2db4.png",
+      "size": 1285938,
+      "sha256": "a63f2db48461d8b5391a2f7edf5635f4fa9aba5e6c5ac794fe7e89bd03b53884"
+    },
+    "hr_ground_wreck_pebble.png": {
+      "file": "hires/hr_ground_wreck_pebble.242db1da.png",
+      "size": 1321156,
+      "sha256": "242db1da7784f94f17ef673d611fe776d151c2176e772295d316c5f228eee110"
+    },
+    "hr_ground_wreck_wet.png": {
+      "file": "hires/hr_ground_wreck_wet.59f49f4c.png",
+      "size": 1247905,
+      "sha256": "59f49f4c17ed0ba0c9815de0ba58e529e65d3cb8d64b4303f644484d4501f460"
+    },
+    "hr_hatch.png": {
+      "file": "hires/hr_hatch.37116130.png",
+      "size": 40525,
+      "sha256": "371161301e560b38a0719de7e21237a6e153558474916f7168458706b3ceefe3"
+    },
+    "hr_hernan_attack.png": {
+      "file": "hires/hr_hernan_attack.fdbdd8b1.png",
+      "size": 1344585,
+      "sha256": "fdbdd8b13a13c0f0199ce0c2527cbc1d57143f647a0539cb5b7ae24a5ed8e99c"
+    },
+    "hr_hernan_cast.png": {
+      "file": "hires/hr_hernan_cast.e5d447f5.png",
+      "size": 1026284,
+      "sha256": "e5d447f5a14810f787b6f4395df14ff1b620b53bf4c5117618aee96f1cb9b3dc"
+    },
+    "hr_hernan_death.png": {
+      "file": "hires/hr_hernan_death.c25afb97.png",
+      "size": 1721666,
+      "sha256": "c25afb97c4a29541bcc8d76076c8f8746c2049dcd2dd702d8a159055f4ee405f"
+    },
+    "hr_hernan_idle.png": {
+      "file": "hires/hr_hernan_idle.9027025b.png",
+      "size": 716578,
+      "sha256": "9027025bddbd7b26be6aacc5fc36b19b5389f459b32170f319031c655387beee"
+    },
+    "hr_hernan_slam.png": {
+      "file": "hires/hr_hernan_slam.c015410e.png",
+      "size": 2055429,
+      "sha256": "c015410e4b74218b3b9a35a913b7b141134d44b977bd0151285d5038f5fcee55"
+    },
+    "hr_hernan_walk.png": {
+      "file": "hires/hr_hernan_walk.172be1c5.png",
+      "size": 1663778,
+      "sha256": "172be1c5b079403effda47664f6e7a01530cb54575a03ad2317fdd9930c9044d"
+    },
+    "hr_house.png": {
+      "file": "hires/hr_house.2a8bdf1d.png",
+      "size": 1044464,
+      "sha256": "2a8bdf1d8e9f721562306fee111f4592246ed0fcc42599c92cd80c840e412a53"
+    },
+    "hr_hud_frame.png": {
+      "file": "hires/hr_hud_frame.b421635b.png",
+      "size": 67778,
+      "sha256": "b421635b0fc998aecc271f93cf7563811658222922188ee99538dd2978d59049"
+    },
+    "hr_hull_post.png": {
+      "file": "hires/hr_hull_post.56829a25.png",
+      "size": 9113,
+      "sha256": "56829a25bb60bbba8e7a42fad967b256046b44ccaaa6f5a27557136e5d30c389"
+    },
+    "hr_hull_wall.png": {
+      "file": "hires/hr_hull_wall.a7bc09f5.png",
+      "size": 109331,
+      "sha256": "a7bc09f5eb53b9ce393b039f64d0a72853c3ccaccf7bbcec101be784a3949a64"
+    },
+    "hr_hut.png": {
+      "file": "hires/hr_hut.7797c267.png",
+      "size": 106157,
+      "sha256": "7797c267dc42b7f7f2e3bff9e411a14753c5a94739dc7bf77cce5675e18212b4"
+    },
+    "hr_inquisition_door.png": {
+      "file": "hires/hr_inquisition_door.482ba870.png",
+      "size": 13226,
+      "sha256": "482ba870dd3887c49bdb0d31327f65e78f6493b0b7819e98994df9cd74f61d9d"
+    },
+    "hr_inquisitor_attack.png": {
+      "file": "hires/hr_inquisitor_attack.c3894684.png",
+      "size": 566107,
+      "sha256": "c3894684066254216ee6197690f107870f7590932f3df5bee94ddd72b8f8155c"
+    },
+    "hr_inquisitor_cast.png": {
+      "file": "hires/hr_inquisitor_cast.c3894684.png",
+      "size": 566107,
+      "sha256": "c3894684066254216ee6197690f107870f7590932f3df5bee94ddd72b8f8155c"
+    },
+    "hr_inquisitor_death.png": {
+      "file": "hires/hr_inquisitor_death.b236fbd6.png",
+      "size": 1222652,
+      "sha256": "b236fbd6c91ff5294cfee7e9f29306a271985e5cb6814ddaeaba05a6c488ad9f"
+    },
+    "hr_inquisitor_idle.png": {
+      "file": "hires/hr_inquisitor_idle.0151a2ad.png",
+      "size": 396510,
+      "sha256": "0151a2ad9c0fcf61503d5ff6f11118ac64428ee1cf1dec2e467ba7a1f92e3905"
+    },
+    "hr_inquisitor_walk.png": {
+      "file": "hires/hr_inquisitor_walk.46f00b3f.png",
+      "size": 1146424,
+      "sha256": "46f00b3f1feedfb07839e33672eb5957b5f8bdc78a9cba47d879eaa5248ddfd0"
+    },
+    "hr_iron_diego_attack.png": {
+      "file": "hires/hr_iron_diego_attack.d7bf6ef0.png",
+      "size": 956547,
+      "sha256": "d7bf6ef07007da6bdfe02aa013a1202edab7089b5bd9cb8101ce1f3895cc6ca5"
+    },
+    "hr_iron_diego_cast.png": {
+      "file": "hires/hr_iron_diego_cast.99dc77ea.png",
+      "size": 696174,
+      "sha256": "99dc77eab119dcb75324f900c1cd293c67bf47ccb06ecbf1e335f58b0062d005"
+    },
+    "hr_iron_diego_death.png": {
+      "file": "hires/hr_iron_diego_death.0c2fb6ed.png",
+      "size": 1354054,
+      "sha256": "0c2fb6ed6c37de8469c682782a4b335f6585d08fdf2d8103896f6ca869017849"
+    },
+    "hr_iron_diego_idle.png": {
+      "file": "hires/hr_iron_diego_idle.b97de0b1.png",
+      "size": 516655,
+      "sha256": "b97de0b152e1a7e7c1a83d5abd43de774cf82752064e6f75d325e89d30461759"
+    },
+    "hr_iron_diego_slam.png": {
+      "file": "hires/hr_iron_diego_slam.73f94e85.png",
+      "size": 1522101,
+      "sha256": "73f94e85c42a393886d5cc752998cfa168e45d718028723318b234a565083307"
+    },
+    "hr_iron_diego_walk.png": {
+      "file": "hires/hr_iron_diego_walk.754a3609.png",
+      "size": 1323483,
+      "sha256": "754a3609c90f297e407385247537c827dba8cbeebc676aaa204b711dacbdf5bd"
+    },
+    "hr_item_abyss_key.png": {
+      "file": "hires/hr_item_abyss_key.117e6737.png",
+      "size": 5746,
+      "sha256": "117e6737c15e53d922385d3f0b4d149c589ead15c2d81920397a5e47a0fc4224"
+    },
+    "hr_item_abyss_key_2.png": {
+      "file": "hires/hr_item_abyss_key_2.9c01b49a.png",
+      "size": 6004,
+      "sha256": "9c01b49a6b8855ddd2ded12f6a7dcce6281a78fa830c15610462b86982e6a261"
+    },
+    "hr_item_abyss_key_2_ground.png": {
+      "file": "hires/hr_item_abyss_key_2_ground.4ecf513f.png",
+      "size": 1036,
+      "sha256": "4ecf513fe79192874f92ba94275f526ded3ed24b7984fd7825a7bff350fca7e8"
+    },
+    "hr_item_abyss_key_ground.png": {
+      "file": "hires/hr_item_abyss_key_ground.504dc36a.png",
+      "size": 1060,
+      "sha256": "504dc36ad44afeed4f8ad01052680b04053f4485ce5e239580801d424898388b"
+    },
+    "hr_item_amulet.png": {
+      "file": "hires/hr_item_amulet.74c34c7f.png",
+      "size": 6082,
+      "sha256": "74c34c7ffa2dfbc9066caad72d48fdaec899b66c4c8848723909a8d28d3122ad"
+    },
+    "hr_item_amulet_ground.png": {
+      "file": "hires/hr_item_amulet_ground.fdc94318.png",
+      "size": 1711,
+      "sha256": "fdc94318417af237cfc8e307996a3b01f324f5239a8191d46a5e3eb989d18357"
+    },
+    "hr_item_boarding_axe.png": {
+      "file": "hires/hr_item_boarding_axe.0e07dcee.png",
+      "size": 14924,
+      "sha256": "0e07dceea540aeb67687bafeeb337de9fa41307b4d3d0abe9bd198355e5f3ab0"
+    },
+    "hr_item_boarding_axe_ground.png": {
+      "file": "hires/hr_item_boarding_axe_ground.42c3cf2a.png",
+      "size": 2129,
+      "sha256": "42c3cf2ab1afcff8afc257b45c88deef173d7a8cfc2477c28d7cc06a68aec9bf"
+    },
+    "hr_item_chainmail.png": {
+      "file": "hires/hr_item_chainmail.8895ef43.png",
+      "size": 87743,
+      "sha256": "8895ef43d251befdcf687345fc80b1bec2d1b5b3806bedc6b1ecf07adbe3a62c"
+    },
+    "hr_item_chainmail_ground.png": {
+      "file": "hires/hr_item_chainmail_ground.55ef5fc0.png",
+      "size": 2560,
+      "sha256": "55ef5fc05c0d0f0851238103b997b2ffe9b6fba4766f278625100a58cd6a55c5"
+    },
+    "hr_item_charm_small.png": {
+      "file": "hires/hr_item_charm_small.67d342bd.png",
+      "size": 4921,
+      "sha256": "67d342bd668b7edbabf4bb60792a5dd773b253b228321971caa0b5d478bdbca9"
+    },
+    "hr_item_charm_small_ground.png": {
+      "file": "hires/hr_item_charm_small_ground.2f823491.png",
+      "size": 1632,
+      "sha256": "2f8234914b29b56c097d963876ed16b6fdcd857077d9028fd23593266caa8b28"
+    },
+    "hr_item_cutlass.png": {
+      "file": "hires/hr_item_cutlass.74a66fe9.png",
+      "size": 9011,
+      "sha256": "74a66fe98d97c5bdeb80c73454b94a719c11ea80ea2fb5c46e05ab1145d7af31"
+    },
+    "hr_item_cutlass_ground.png": {
+      "file": "hires/hr_item_cutlass_ground.03f47d04.png",
+      "size": 1838,
+      "sha256": "03f47d04acec77371380c9bd3b2c23b3766acec5beb92fa2fc8940658c896d34"
+    },
+    "hr_item_flintlock.png": {
+      "file": "hires/hr_item_flintlock.8d6ff6da.png",
+      "size": 7608,
+      "sha256": "8d6ff6da6d4e8ab0339cc2911f78d85d138e0ce2b88649cec8e849db4a4e28fa"
+    },
+    "hr_item_flintlock_ground.png": {
+      "file": "hires/hr_item_flintlock_ground.075d7e05.png",
+      "size": 1755,
+      "sha256": "075d7e059851fdffe70fc64c82ffcf6bc0341d06b6867601c4cb6e35c84bfdaf"
+    },
+    "hr_item_gold.png": {
+      "file": "hires/hr_item_gold.dd97543c.png",
+      "size": 8106,
+      "sha256": "dd97543ce25c9b4d5b3364ec479aa7d7609ed7a6d9ed78acd14b31a5e7809b23"
+    },
+    "hr_item_gold_ground.png": {
+      "file": "hires/hr_item_gold_ground.0b223a44.png",
+      "size": 1064,
+      "sha256": "0b223a4417a48448565db57e72a366541f6e6f8e3d6bfaab9a51120f74a48a62"
+    },
+    "hr_item_hand_cannon.png": {
+      "file": "hires/hr_item_hand_cannon.c84e88df.png",
+      "size": 21102,
+      "sha256": "c84e88dfcd6b721dbc347d79071470d87dc8dfa7c8351368a536947b2197102f"
+    },
+    "hr_item_hand_cannon_ground.png": {
+      "file": "hires/hr_item_hand_cannon_ground.24e93c78.png",
+      "size": 2839,
+      "sha256": "24e93c782e08d88f2969a5bfaa773645e89392a5421f168ebdf3495c98f50889"
+    },
+    "hr_item_hp_medium.png": {
+      "file": "hires/hr_item_hp_medium.eb81eba2.png",
+      "size": 6117,
+      "sha256": "eb81eba20898cdb0c8df1fe345cfbc62eb9c2b5fcd10c8c30aeb61bc625a102d"
+    },
+    "hr_item_hp_medium_ground.png": {
+      "file": "hires/hr_item_hp_medium_ground.063c01d5.png",
+      "size": 1894,
+      "sha256": "063c01d5c9b872f2bfbcef14f22bdd6433549983f5be27348fdcbbb65df470e4"
+    },
+    "hr_item_hp_small.png": {
+      "file": "hires/hr_item_hp_small.578e2a51.png",
+      "size": 9296,
+      "sha256": "578e2a51926103a82038eb27c500279d608d18bbe8bc8fd960e0071d665bbb24"
+    },
+    "hr_item_hp_small_ground.png": {
+      "file": "hires/hr_item_hp_small_ground.484f6ded.png",
+      "size": 1600,
+      "sha256": "484f6dedcf70fe892eb80e2cc07e97dfba212c50c814b0c30b6577338c9a96b1"
+    },
+    "hr_item_inquisition_key.png": {
+      "file": "hires/hr_item_inquisition_key.8eee095a.png",
+      "size": 5253,
+      "sha256": "8eee095a2b91f2b6f2e53932ac5d396fa43ab5036b39df6207000effbdf45df4"
+    },
+    "hr_item_inquisition_key_ground.png": {
+      "file": "hires/hr_item_inquisition_key_ground.a9edc945.png",
+      "size": 1051,
+      "sha256": "a9edc945ce818fd464ccd1ed2a96be96efc8c6a7f42f1a545308b7837dc29620"
+    },
+    "hr_item_inquisition_record.png": {
+      "file": "hires/hr_item_inquisition_record.e9ebe3ae.png",
+      "size": 16031,
+      "sha256": "e9ebe3ae00981e496b15aede4c0d2704ec9caa01d8e80d6c7958207f93b7654b"
+    },
+    "hr_item_inquisition_record_ground.png": {
+      "file": "hires/hr_item_inquisition_record_ground.1d02bcef.png",
+      "size": 1702,
+      "sha256": "1d02bcef00a78a8b9336ee70b387e75df1bbe67e8c14814d1ecc0c67a3d6f736"
+    },
+    "hr_item_leather_boots.png": {
+      "file": "hires/hr_item_leather_boots.dfa9c7e3.png",
+      "size": 43312,
+      "sha256": "dfa9c7e3c077e296f0a28083428c5bd06b7bb41da14ee7c0782468aa2ab26b46"
+    },
+    "hr_item_leather_boots_ground.png": {
+      "file": "hires/hr_item_leather_boots_ground.24151ab1.png",
+      "size": 2979,
+      "sha256": "24151ab127526257af622782940c9db0c10ae986f005386d2b1041d125663e52"
+    },
+    "hr_item_leather_cap.png": {
+      "file": "hires/hr_item_leather_cap.19170862.png",
+      "size": 40290,
+      "sha256": "19170862b358e6c917a9332b3ace31c2af651fa6fc7f419f27eb134a743ad32b"
+    },
+    "hr_item_leather_cap_ground.png": {
+      "file": "hires/hr_item_leather_cap_ground.32883591.png",
+      "size": 1142,
+      "sha256": "32883591a9e6fd61dc4f887fd14612cba4e10a2e23453dfb0e8de0b70283b304"
+    },
+    "hr_item_leather_gloves.png": {
+      "file": "hires/hr_item_leather_gloves.3d4dc871.png",
+      "size": 26140,
+      "sha256": "3d4dc87139f9140aadf505ccd70e9f657f02a2385d2d051b96aefb31579bf43e"
+    },
+    "hr_item_leather_gloves_ground.png": {
+      "file": "hires/hr_item_leather_gloves_ground.5e6626e3.png",
+      "size": 2106,
+      "sha256": "5e6626e3fac0ec5f1a5b9dddf3a1db232b79245fa0178d2f6525446e1342fd7d"
+    },
+    "hr_item_logbook.png": {
+      "file": "hires/hr_item_logbook.8f74d2d6.png",
+      "size": 21015,
+      "sha256": "8f74d2d64fdf74b1d021744135d8a6458fc76cac3d64516e6218c924c45ae5a0"
+    },
+    "hr_item_logbook_ground.png": {
+      "file": "hires/hr_item_logbook_ground.93af93fb.png",
+      "size": 1009,
+      "sha256": "93af93fb305da3764927af042fc614027d512116afdbc60d1fb19228133f8f4d"
+    },
+    "hr_item_mp_medium.png": {
+      "file": "hires/hr_item_mp_medium.4f0ddc54.png",
+      "size": 5661,
+      "sha256": "4f0ddc54fa52c50467aac8c774843af059a2657b5eafa08620249a9770684ded"
+    },
+    "hr_item_mp_medium_ground.png": {
+      "file": "hires/hr_item_mp_medium_ground.ebdbf284.png",
+      "size": 1210,
+      "sha256": "ebdbf284c59453f9da57742313c7aa472e33de43a33c8c90b1f1cbb72e8a46f5"
+    },
+    "hr_item_mp_small.png": {
+      "file": "hires/hr_item_mp_small.747d314f.png",
+      "size": 8841,
+      "sha256": "747d314fb26e8f157319b2cb75ec30d74532e94ffc42fb6501786cce781c21c2"
+    },
+    "hr_item_mp_small_ground.png": {
+      "file": "hires/hr_item_mp_small_ground.6293a13f.png",
+      "size": 1290,
+      "sha256": "6293a13f4bd042962a8b7b6e7e4c9be0e4cf1dd363b86be13a968491a66e0b0b"
+    },
+    "hr_item_musket.png": {
+      "file": "hires/hr_item_musket.ff9ef75a.png",
+      "size": 17208,
+      "sha256": "ff9ef75a4c4eec4b228d3b5d47c0447c820a03c490a028078c2e87190ae529ec"
+    },
+    "hr_item_musket_ground.png": {
+      "file": "hires/hr_item_musket_ground.fe408994.png",
+      "size": 2795,
+      "sha256": "fe408994b4344b10b974349416cce3d5fbe3dc887cc728364a0d08dad7d46302"
+    },
+    "hr_item_northstar_shard.png": {
+      "file": "hires/hr_item_northstar_shard.9b86b4e7.png",
+      "size": 6791,
+      "sha256": "9b86b4e72a2462ed3d4847d2edfc3c0beb2c65870b45fd5710a148190bac7ed9"
+    },
+    "hr_item_northstar_shard_ground.png": {
+      "file": "hires/hr_item_northstar_shard_ground.fac83367.png",
+      "size": 1161,
+      "sha256": "fac83367cedb6df03d4182f81393afffaf8864d695c58e03a8b9a5c44c2191ba"
+    },
+    "hr_item_plate_cuirass.png": {
+      "file": "hires/hr_item_plate_cuirass.c0d5ba74.png",
+      "size": 59927,
+      "sha256": "c0d5ba7434d03710613595ad85c35afce25e2385e48b637ab2a3fd803db049c8"
+    },
+    "hr_item_plate_cuirass_ground.png": {
+      "file": "hires/hr_item_plate_cuirass_ground.00135ab7.png",
+      "size": 2572,
+      "sha256": "00135ab7ca1908b245c28839c40b55c4df04f6dd1acba4d0633197e41534e446"
+    },
+    "hr_item_rapier.png": {
+      "file": "hires/hr_item_rapier.fd4786d6.png",
+      "size": 8248,
+      "sha256": "fd4786d6a6543435e8997a22eedad3bd942172f4ba84552d25061e01d8954afa"
+    },
+    "hr_item_rapier_ground.png": {
+      "file": "hires/hr_item_rapier_ground.1aff381a.png",
+      "size": 2188,
+      "sha256": "1aff381aede6b05dcd7d5fbc46ed1eb81498bde2ceefc47bb5b36cc0d3aed53f"
+    },
+    "hr_item_ring.png": {
+      "file": "hires/hr_item_ring.5d3a815b.png",
+      "size": 11945,
+      "sha256": "5d3a815b28bb2124e639e426e89e1be794fcd8acc5c995c48317aa59efe0a267"
+    },
+    "hr_item_ring_ground.png": {
+      "file": "hires/hr_item_ring_ground.db09a6a9.png",
+      "size": 1675,
+      "sha256": "db09a6a914fc29d086b150214a5c114133c856ff1c0081c4080cf7dd2312630c"
+    },
+    "hr_item_rope_belt.png": {
+      "file": "hires/hr_item_rope_belt.39f67ad2.png",
+      "size": 13118,
+      "sha256": "39f67ad200c0fc4261d98f8e97c8e920b6afec4e080b1c12edc7205adb5af908"
+    },
+    "hr_item_rope_belt_ground.png": {
+      "file": "hires/hr_item_rope_belt_ground.74cd6d2a.png",
+      "size": 1126,
+      "sha256": "74cd6d2a1c85d356aa3f43e0b97b301208ac5358e1e0eced37479a4400579518"
+    },
+    "hr_item_round_shield.png": {
+      "file": "hires/hr_item_round_shield.bee1b51c.png",
+      "size": 38946,
+      "sha256": "bee1b51c4e309905670b64b3015d20babe920a8237cb54c6600b7b147cc56621"
+    },
+    "hr_item_round_shield_ground.png": {
+      "file": "hires/hr_item_round_shield_ground.72edb879.png",
+      "size": 1685,
+      "sha256": "72edb87973d8b529ec61971133617669da9551cb1d10b7e98a8bcca61de27be9"
+    },
+    "hr_item_rusty_key.png": {
+      "file": "hires/hr_item_rusty_key.52fbdb17.png",
+      "size": 6619,
+      "sha256": "52fbdb17c23fc1748e07cd9d0eb624e187b1f3f314cc4606ec619d6e478cd8f1"
+    },
+    "hr_item_rusty_key_ground.png": {
+      "file": "hires/hr_item_rusty_key_ground.bfd755e9.png",
+      "size": 1031,
+      "sha256": "bfd755e98291e71c2e30b432cec76bd668254ad355b6b057f749a57ef2bacfee"
+    },
+    "hr_item_s_conq_breastplate.png": {
+      "file": "hires/hr_item_s_conq_breastplate.fe57a153.png",
+      "size": 69708,
+      "sha256": "fe57a15362af5ef82b738d640913e9916b790bdeb13daf87d9db488d8b5cfac0"
+    },
+    "hr_item_s_conq_breastplate_ground.png": {
+      "file": "hires/hr_item_s_conq_breastplate_ground.08545d68.png",
+      "size": 2813,
+      "sha256": "08545d68a570828b8e321682af80f7ade564f55abf063c93bca42f97ddb2fe94"
+    },
+    "hr_item_s_conq_gauntlets.png": {
+      "file": "hires/hr_item_s_conq_gauntlets.9442a4c1.png",
+      "size": 42223,
+      "sha256": "9442a4c1dd1db4478ddfb4f86dab888d113587ba446ed8435c3f673ec2f129bf"
+    },
+    "hr_item_s_conq_gauntlets_ground.png": {
+      "file": "hires/hr_item_s_conq_gauntlets_ground.b2908c8e.png",
+      "size": 2491,
+      "sha256": "b2908c8e161ae9461041326c08d0cf81b42c098c091a54010c0a5aa258abe81d"
+    },
+    "hr_item_s_conq_morion.png": {
+      "file": "hires/hr_item_s_conq_morion.a19f551d.png",
+      "size": 44027,
+      "sha256": "a19f551dc32f35093151da0bd9c4fa06a6123debea804994f98173c0006b593f"
+    },
+    "hr_item_s_conq_morion_ground.png": {
+      "file": "hires/hr_item_s_conq_morion_ground.9ee741b6.png",
+      "size": 1589,
+      "sha256": "9ee741b6e1b7fc4b356fe5b20c70bcd537d47254cfe9ece26ede7ae97eeede95"
+    },
+    "hr_item_s_inq_cape.png": {
+      "file": "hires/hr_item_s_inq_cape.2a8acf88.png",
+      "size": 34966,
+      "sha256": "2a8acf88bb33911f9cd08afa01c5d675ec02b1915e8dc784254cc4f9f7a561d2"
+    },
+    "hr_item_s_inq_cape_ground.png": {
+      "file": "hires/hr_item_s_inq_cape_ground.972705c1.png",
+      "size": 3629,
+      "sha256": "972705c1d7fe153ac855fb9039b3b680894f55b5d5b5972253ece071ee426737"
+    },
+    "hr_item_s_inq_gloves.png": {
+      "file": "hires/hr_item_s_inq_gloves.762983cd.png",
+      "size": 23215,
+      "sha256": "762983cdbf2441fc2efbb5c136fbfab0398408a170eaf7c7cec52fe651433070"
+    },
+    "hr_item_s_inq_gloves_ground.png": {
+      "file": "hires/hr_item_s_inq_gloves_ground.5f1255ee.png",
+      "size": 2102,
+      "sha256": "5f1255eec69a923709d4b7df8aec859fafe7caf1c2f53979fe7dab2df68a27f2"
+    },
+    "hr_item_s_inq_rosary.png": {
+      "file": "hires/hr_item_s_inq_rosary.fc86cee4.png",
+      "size": 4515,
+      "sha256": "fc86cee40e45d87bea5e5a477c4de8feaccbe5e7d76a04651308cb312ccc1fc6"
+    },
+    "hr_item_s_inq_rosary_ground.png": {
+      "file": "hires/hr_item_s_inq_rosary_ground.ef103320.png",
+      "size": 1474,
+      "sha256": "ef1033202431ce8be75b6c6dfe00030df1b68114278ff79917ba7c07a98c3c69"
+    },
+    "hr_item_sailor_clothes.png": {
+      "file": "hires/hr_item_sailor_clothes.c6ab5211.png",
+      "size": 63822,
+      "sha256": "c6ab521146ba6bb15eb117f88cb8f1ed225234fdeec55e4ec761e0b0d70b094a"
+    },
+    "hr_item_sailor_clothes_ground.png": {
+      "file": "hires/hr_item_sailor_clothes_ground.6e5004e8.png",
+      "size": 2784,
+      "sha256": "6e5004e86d85990ebadedca95fa6ffc107852fa2ed2a085645778b0d33c7da17"
+    },
+    "hr_item_sailor_staff.png": {
+      "file": "hires/hr_item_sailor_staff.7d73d19d.png",
+      "size": 12111,
+      "sha256": "7d73d19dd2ccc718acdd1a44494f87d63bc448c51deaec1d38341073b677c815"
+    },
+    "hr_item_sailor_staff_ground.png": {
+      "file": "hires/hr_item_sailor_staff_ground.736248cd.png",
+      "size": 4374,
+      "sha256": "736248cd76c8f8d94049f381ebbde951bc7dcbaa8102941bee3dd57dde15f77f"
+    },
+    "hr_item_secret_letter.png": {
+      "file": "hires/hr_item_secret_letter.81b48555.png",
+      "size": 18214,
+      "sha256": "81b48555d2bca92270f7f29eb9cf969a96993c0b7653453f5ea1aa39fbdb029d"
+    },
+    "hr_item_secret_letter_ground.png": {
+      "file": "hires/hr_item_secret_letter_ground.e7929fd8.png",
+      "size": 1843,
+      "sha256": "e7929fd8b7affcdda8df05c88ae86b472f66f12fa715a40c045eb2d3d63dcf88"
+    },
+    "hr_item_sigil_anchor.png": {
+      "file": "hires/hr_item_sigil_anchor.c3eb241f.png",
+      "size": 10546,
+      "sha256": "c3eb241f2173b1b8bfc5f78a51982e28d1b5aa0d4e2bc7be0a1550761c39872a"
+    },
+    "hr_item_sigil_anchor_ground.png": {
+      "file": "hires/hr_item_sigil_anchor_ground.e2b5f422.png",
+      "size": 1532,
+      "sha256": "e2b5f422dabac6b7bc4d94b735f5ea566cb41f9cb9fb89ae90dea2997f01c2f2"
+    },
+    "hr_item_sigil_bolt.png": {
+      "file": "hires/hr_item_sigil_bolt.40cc78fa.png",
+      "size": 9176,
+      "sha256": "40cc78fa23423939d10fc93c92de2d07a7c28356ba8ec4c814d0a554cc40e7af"
+    },
+    "hr_item_sigil_bolt_ground.png": {
+      "file": "hires/hr_item_sigil_bolt_ground.312f79d9.png",
+      "size": 1364,
+      "sha256": "312f79d975f07f8c95a35e2347294a824447bada8a323e710d5527702a6eca72"
+    },
+    "hr_item_sigil_coral.png": {
+      "file": "hires/hr_item_sigil_coral.1a81b88b.png",
+      "size": 11577,
+      "sha256": "1a81b88bee4a8f0bbd99ccf7adfec80d527b9efc014effdf451d39907f3dfa4e"
+    },
+    "hr_item_sigil_coral_ground.png": {
+      "file": "hires/hr_item_sigil_coral_ground.6165ab3a.png",
+      "size": 1531,
+      "sha256": "6165ab3a5828c7c0f6f2e94c0d796ae69fba5998fcff39cad8aefbf73646ba84"
+    },
+    "hr_item_sigil_lantern.png": {
+      "file": "hires/hr_item_sigil_lantern.bf74b3ff.png",
+      "size": 10690,
+      "sha256": "bf74b3ff3b1fce33a158d9dd7e573cffc58398b203287530f69b2c45353bc220"
+    },
+    "hr_item_sigil_lantern_ground.png": {
+      "file": "hires/hr_item_sigil_lantern_ground.498b47f1.png",
+      "size": 1635,
+      "sha256": "498b47f1014138487d23185efad982cf29137463a56182df8d2b017e4c1da7ef"
+    },
+    "hr_item_sigil_oar.png": {
+      "file": "hires/hr_item_sigil_oar.2dc04298.png",
+      "size": 8297,
+      "sha256": "2dc042980c4ff0ee611f80009fec89cd807f3b372a755f1681e5f7d2559c0469"
+    },
+    "hr_item_sigil_oar_ground.png": {
+      "file": "hires/hr_item_sigil_oar_ground.40d361d8.png",
+      "size": 1461,
+      "sha256": "40d361d8e3bf99198abb9752038937574965c286e54aa838ef14fd2e92414012"
+    },
+    "hr_item_sigil_pearl.png": {
+      "file": "hires/hr_item_sigil_pearl.6c7a6eed.png",
+      "size": 12611,
+      "sha256": "6c7a6eedf2511e1a37511a6f710de75863a190dd00c2c3fb71487c8b002bcea1"
+    },
+    "hr_item_sigil_pearl_ground.png": {
+      "file": "hires/hr_item_sigil_pearl_ground.72a774e1.png",
+      "size": 1457,
+      "sha256": "72a774e17506e1168c47dfdf9e9b7f7df7428864d34caded79d377419bcc9562"
+    },
+    "hr_item_sigil_sail.png": {
+      "file": "hires/hr_item_sigil_sail.430e96e0.png",
+      "size": 9272,
+      "sha256": "430e96e0f206a6ced12df7d5f7dbc5d82180c018adb6083fa61d84049ea1124d"
+    },
+    "hr_item_sigil_sail_ground.png": {
+      "file": "hires/hr_item_sigil_sail_ground.6738a9a8.png",
+      "size": 1391,
+      "sha256": "6738a9a8b8295857b2b40a13954b5d0d8602725956059ef531bd3b5868c35a51"
+    },
+    "hr_item_sigil_wave.png": {
+      "file": "hires/hr_item_sigil_wave.a4e7654d.png",
+      "size": 11774,
+      "sha256": "a4e7654d80369bd11a1c15c28f8983a5424b5bcaecb561d2697c74de9db87327"
+    },
+    "hr_item_sigil_wave_ground.png": {
+      "file": "hires/hr_item_sigil_wave_ground.0ec386ac.png",
+      "size": 1591,
+      "sha256": "0ec386ac1787a284a27d7bdbb6ee20f42d408e65da2f5abaf68bc85f1768113e"
+    },
+    "hr_item_silver_crate.png": {
+      "file": "hires/hr_item_silver_crate.7c8e8e2e.png",
+      "size": 17927,
+      "sha256": "7c8e8e2ee8585606accf22b07c368781b24ad4ffb4caf88072b1131b1d6ed7e3"
+    },
+    "hr_item_silver_crate_ground.png": {
+      "file": "hires/hr_item_silver_crate_ground.a7aa8cda.png",
+      "size": 2677,
+      "sha256": "a7aa8cdaf58ed1015dc61e8a8001de515a5c1a0d20f95f02524182370b6cb9f9"
+    },
+    "hr_item_smuggler_key.png": {
+      "file": "hires/hr_item_smuggler_key.ac58de21.png",
+      "size": 6515,
+      "sha256": "ac58de215f28c45a64215e2505c945a3e86391086a45a19b395853463c4495cf"
+    },
+    "hr_item_smuggler_key_ground.png": {
+      "file": "hires/hr_item_smuggler_key_ground.22ca1c94.png",
+      "size": 1167,
+      "sha256": "22ca1c94c2580aa71cc100d9c18c8926d22cf4489a15d9b3828c3d83812849ee"
+    },
+    "hr_item_southern_cross_shard.png": {
+      "file": "hires/hr_item_southern_cross_shard.86921dbd.png",
+      "size": 6691,
+      "sha256": "86921dbddaafb300cd0cefdc739ba05199bd7ac205b00abd5f6244b67b7be235"
+    },
+    "hr_item_southern_cross_shard_ground.png": {
+      "file": "hires/hr_item_southern_cross_shard_ground.f61c72d1.png",
+      "size": 1132,
+      "sha256": "f61c72d1d0186d47a02e522016ffb4c163ceb6de3e12271e2d48b50fc38e334e"
+    },
+    "hr_item_spider_eye.png": {
+      "file": "hires/hr_item_spider_eye.a5ae6f9c.png",
+      "size": 21536,
+      "sha256": "a5ae6f9c09cd9689df157d5f3bfb171ece1ac6066d1bea0ebd9dddc26dcedafb"
+    },
+    "hr_item_spider_eye_ground.png": {
+      "file": "hires/hr_item_spider_eye_ground.c5198614.png",
+      "size": 1661,
+      "sha256": "c519861429a53487b5b4db2693576222ae3b5aee51faf3f81d335e77fba586c7"
+    },
+    "hr_item_u_astrologer_eye.png": {
+      "file": "hires/hr_item_u_astrologer_eye.e181c9c8.png",
+      "size": 36637,
+      "sha256": "e181c9c89002eb08393d0001fdc139f2774468b9e2675b517d4b08093c73e59f"
+    },
+    "hr_item_u_astrologer_eye_ground.png": {
+      "file": "hires/hr_item_u_astrologer_eye_ground.1d6146d8.png",
+      "size": 1148,
+      "sha256": "1d6146d836002b9d9bfff2d73d4be1367221654eebfef9ccc71e10d100e5293d"
+    },
+    "hr_item_u_blackbeard_fang.png": {
+      "file": "hires/hr_item_u_blackbeard_fang.d61c3404.png",
+      "size": 10022,
+      "sha256": "d61c34046e4cba9a3ec0690b02e6563e6c93f56534f4a74db6b8b4d2f18f171f"
+    },
+    "hr_item_u_blackbeard_fang_ground.png": {
+      "file": "hires/hr_item_u_blackbeard_fang_ground.1ee46d8c.png",
+      "size": 1930,
+      "sha256": "1ee46d8c7e96ce15804e3037e9c764bfc61b4c308782cb93b3998a50ccb8310e"
+    },
+    "hr_item_u_drowned_chain.png": {
+      "file": "hires/hr_item_u_drowned_chain.5f14fd85.png",
+      "size": 6089,
+      "sha256": "5f14fd851402e9516b8f98e95f88302305fcafc9cdc893af9f742c4eda0652ab"
+    },
+    "hr_item_u_drowned_chain_ground.png": {
+      "file": "hires/hr_item_u_drowned_chain_ground.538d8fce.png",
+      "size": 1489,
+      "sha256": "538d8fce73f43e027d8f3e14673a99b28e44754119e4cc607b48d20ad200411f"
+    },
+    "hr_item_u_hernan_ambition.png": {
+      "file": "hires/hr_item_u_hernan_ambition.f6e6ca7c.png",
+      "size": 63812,
+      "sha256": "f6e6ca7cb3a26a88eb5269fbece4f9ef00e27d5097ab43c42cb96a4878931e9e"
+    },
+    "hr_item_u_hernan_ambition_ground.png": {
+      "file": "hires/hr_item_u_hernan_ambition_ground.f019ef53.png",
+      "size": 2689,
+      "sha256": "f019ef5310da23adc2ba3e6cbb9290657c5d275560e82aff5da5958df97c3347"
+    },
+    "hr_item_worn_cape.png": {
+      "file": "hires/hr_item_worn_cape.2f6fcd91.png",
+      "size": 45995,
+      "sha256": "2f6fcd9168ba7ac394ec5931728fa03c24b94c3eeb0813c4d39c14983acd1c15"
+    },
+    "hr_item_worn_cape_ground.png": {
+      "file": "hires/hr_item_worn_cape_ground.ae814a1a.png",
+      "size": 3924,
+      "sha256": "ae814a1a9a03a8e83f95429a776a83433733b0cd74d3ec2f491bc044df98ea42"
+    },
+    "hr_jailer_attack.png": {
+      "file": "hires/hr_jailer_attack.98a2d3df.png",
+      "size": 909948,
+      "sha256": "98a2d3df9ce276010636708519faa89d089314c5f915a5914c65c02f15190c89"
+    },
+    "hr_jailer_death.png": {
+      "file": "hires/hr_jailer_death.5e39d4e7.png",
+      "size": 1289709,
+      "sha256": "5e39d4e73ff177ddb47b52e9f8e26eed8b83215b0462bc8569f349d255d4469b"
+    },
+    "hr_jailer_idle.png": {
+      "file": "hires/hr_jailer_idle.140ffdd6.png",
+      "size": 490595,
+      "sha256": "140ffdd6b1b96847f829014081d2f7649621fe21560f35d61c98fe3b7c787e07"
+    },
+    "hr_jailer_walk.png": {
+      "file": "hires/hr_jailer_walk.36a5fbc8.png",
+      "size": 1224672,
+      "sha256": "36a5fbc8db43805e96939d6990d5953a86777a5707c0ce33f95a68e8bab653c7"
+    },
+    "hr_joao_attack.png": {
+      "file": "hires/hr_joao_attack.75f6041e.png",
+      "size": 1957733,
+      "sha256": "75f6041e7fe758644427d1bdebca58eb90d2f9a40111041abcb9ffa3266b4507"
+    },
+    "hr_joao_cast.png": {
+      "file": "hires/hr_joao_cast.107f9eff.png",
+      "size": 1063821,
+      "sha256": "107f9effe1db35227489d6158375a99c285137cb93e1c807066933247a202728"
+    },
+    "hr_joao_death.png": {
+      "file": "hires/hr_joao_death.e52e1c96.png",
+      "size": 1379278,
+      "sha256": "e52e1c96d35b9f309c72decc794e655dc883e00c2a26ef47bcb743ac0f70232b"
+    },
+    "hr_joao_idle.png": {
+      "file": "hires/hr_joao_idle.c52f637e.png",
+      "size": 521517,
+      "sha256": "c52f637e9dfa689fd11417ba0792045616230360f66ad2fdd7df87c9cc55e243"
+    },
+    "hr_joao_walk.png": {
+      "file": "hires/hr_joao_walk.c7382a06.png",
+      "size": 1308253,
+      "sha256": "c7382a0671703a9c33f723dbed22e31e1efdab978c75fa59eb24b2a93831dccd"
+    },
+    "hr_lantern_post.png": {
+      "file": "hires/hr_lantern_post.ffaf5ee2.png",
+      "size": 7000,
+      "sha256": "ffaf5ee20ed7b362af527cfe145917f98d56bbf51c8428481b46a8c6e9059dac"
+    },
+    "hr_lion_fountain.png": {
+      "file": "hires/hr_lion_fountain.32378506.png",
+      "size": 47328,
+      "sha256": "3237850610d934fa29d6dd9546c40cfe604a91b6bc7f0443b552a65296238495"
+    },
+    "hr_map_table.png": {
+      "file": "hires/hr_map_table.54ae6104.png",
+      "size": 25328,
+      "sha256": "54ae6104fb5cd34eea1bc37b759d509fb141cfc3c8302052176592fab45a3db9"
+    },
+    "hr_mast.png": {
+      "file": "hires/hr_mast.50a5c3a8.png",
+      "size": 166322,
+      "sha256": "50a5c3a84f9fb5a5902fe35dba525f87600fd1e99ce3e5f369db16d25caa1dcf"
+    },
+    "hr_mine_adit.png": {
+      "file": "hires/hr_mine_adit.90d2e259.png",
+      "size": 46038,
+      "sha256": "90d2e25929338b9dbf93ce802714b43295986363ddcb8b6cc9acd00a6501ff81"
+    },
+    "hr_mine_cart.png": {
+      "file": "hires/hr_mine_cart.9ea54e63.png",
+      "size": 36222,
+      "sha256": "9ea54e631f3d3f272a554c783f0dd8026f80d0ecf2923305dea8fb97fcffee46"
+    },
+    "hr_mine_gate.png": {
+      "file": "hires/hr_mine_gate.e14b55d5.png",
+      "size": 118621,
+      "sha256": "e14b55d5cc30ac53cc65176f7b4aac25c0b3d57c850a6d69d1bd65bf52fdcba8"
+    },
+    "hr_mine_lamp.png": {
+      "file": "hires/hr_mine_lamp.ab3ef39f.png",
+      "size": 5338,
+      "sha256": "ab3ef39f440c3adee00932e45a0ce921129feb52e8a0ac95407d1e20c4df9f6e"
+    },
+    "hr_mine_rail.png": {
+      "file": "hires/hr_mine_rail.f4a25fb4.png",
+      "size": 10436,
+      "sha256": "f4a25fb4ee8773b015aa81db0b86f66d58532a8579ca1317305d3e6a50b0fc14"
+    },
+    "hr_mine_support.png": {
+      "file": "hires/hr_mine_support.96a1771f.png",
+      "size": 50335,
+      "sha256": "96a1771f9f9ea16d8a6d2d6170c54c6a96f562a71d9e68002a8b2df125443811"
+    },
+    "hr_mine_wall.png": {
+      "file": "hires/hr_mine_wall.1734e57b.png",
+      "size": 162163,
+      "sha256": "1734e57bc3f1e9c2799f032a1e22bbda4e88f61a93904967d1fb2ccd5b0e479a"
+    },
+    "hr_miner_bunk.png": {
+      "file": "hires/hr_miner_bunk.54520de5.png",
+      "size": 18298,
+      "sha256": "54520de598162119f311eec3257af2d409d922ae18990c50ebf42582e2ea20e2"
+    },
+    "hr_miner_wraith_attack.png": {
+      "file": "hires/hr_miner_wraith_attack.dda6772e.png",
+      "size": 900655,
+      "sha256": "dda6772ef571ee5cfc88932a08d0bcae7c75cca0415b4f3caa57fc5c3433efe3"
+    },
+    "hr_miner_wraith_death.png": {
+      "file": "hires/hr_miner_wraith_death.805dab67.png",
+      "size": 1497957,
+      "sha256": "805dab67343c55843f5c1763de01f47196d8bf4b31faefb4ac69a857b34dd5a2"
+    },
+    "hr_miner_wraith_idle.png": {
+      "file": "hires/hr_miner_wraith_idle.daea3b28.png",
+      "size": 671547,
+      "sha256": "daea3b2805c7e9e7bcfa20b8b48f0fde0508c7a71030f8f9dff96af9e9bae610"
+    },
+    "hr_miner_wraith_walk.png": {
+      "file": "hires/hr_miner_wraith_walk.c9b47c9f.png",
+      "size": 637670,
+      "sha256": "c9b47c9f835cfbf129e7cd2f948f2d62e92f2198ee791c7492aa8ba8795bf6be"
+    },
+    "hr_moor_throne.png": {
+      "file": "hires/hr_moor_throne.73ea959f.png",
+      "size": 32286,
+      "sha256": "73ea959fa5eb9b1f304df255fa3b51f5bb17539d543dfb5bed2aa43f049baac0"
+    },
+    "hr_moor_wraith_attack.png": {
+      "file": "hires/hr_moor_wraith_attack.4eb20b02.png",
+      "size": 1290972,
+      "sha256": "4eb20b02ccb9b7b8843977840b29558a2d2ba6f71367e8a0645838ee011ea4c0"
+    },
+    "hr_moor_wraith_death.png": {
+      "file": "hires/hr_moor_wraith_death.27431bdc.png",
+      "size": 1639001,
+      "sha256": "27431bdcf4d956ef814fcd7056631e56c598585da8fdd98af8bbcf9d1b726614"
+    },
+    "hr_moor_wraith_idle.png": {
+      "file": "hires/hr_moor_wraith_idle.40fc667f.png",
+      "size": 710678,
+      "sha256": "40fc667fca9e251e58fec11e4ebf073829d1765adc447ba0e10d91d27d02def0"
+    },
+    "hr_moor_wraith_walk.png": {
+      "file": "hires/hr_moor_wraith_walk.2f1b66d8.png",
+      "size": 664319,
+      "sha256": "2f1b66d812e33467ff4213cd5b527938ca2dc48d9814dd376e9d4eb744e15922"
+    },
+    "hr_moorish_king_attack.png": {
+      "file": "hires/hr_moorish_king_attack.1442ece8.png",
+      "size": 1008780,
+      "sha256": "1442ece84dea497a7a51b55e4d35215b6e4004634874cacbb7f656e17b1cecc2"
+    },
+    "hr_moorish_king_cast.png": {
+      "file": "hires/hr_moorish_king_cast.e6bfbfb7.png",
+      "size": 1307637,
+      "sha256": "e6bfbfb725cb56d47b680d33508acad1a97c9ca5e635fea4e114de023daec226"
+    },
+    "hr_moorish_king_death.png": {
+      "file": "hires/hr_moorish_king_death.f7ea32eb.png",
+      "size": 1697312,
+      "sha256": "f7ea32ebda452595dfcf63c79d5be5bf225e622443aa02685918e5c137e4944b"
+    },
+    "hr_moorish_king_idle.png": {
+      "file": "hires/hr_moorish_king_idle.6ea1124b.png",
+      "size": 711740,
+      "sha256": "6ea1124bac2a4afb32020357a9e6dd0836da1146ca91fb70f1328bae610299e7"
+    },
+    "hr_moorish_king_walk.png": {
+      "file": "hires/hr_moorish_king_walk.347e172f.png",
+      "size": 665336,
+      "sha256": "347e172f0ee2512c436704eee993914ea0ef1c0d66852c66eedc57d3e24097d3"
+    },
+    "hr_moorish_wall.png": {
+      "file": "hires/hr_moorish_wall.e54755e1.png",
+      "size": 321363,
+      "sha256": "e54755e1362220d0934c0ba19e727526e646470087fe72f6208eae50a555d01f"
+    },
+    "hr_moss.png": {
+      "file": "hires/hr_moss.c073d4ed.png",
+      "size": 19088,
+      "sha256": "c073d4edec838bf6afdda876ad72cbfe70cff27b76ea78f23612ff7cf577183b"
+    },
+    "hr_muqarnas.png": {
+      "file": "hires/hr_muqarnas.eefbdd01.png",
+      "size": 92613,
+      "sha256": "eefbdd0148a08bff164cfd7b35de24962ac8813c07fe95f8f2ee1ad2986a446d"
+    },
+    "hr_noise.png": {
+      "file": "hires/hr_noise.924be9a7.png",
+      "size": 452141,
+      "sha256": "924be9a7d0722ad1bee9b8b1815f84332b445537fcad878aeb33c76fe73ca8c0"
+    },
+    "hr_npc_alonso_idle.png": {
+      "file": "hires/hr_npc_alonso_idle.a7cd88c0.png",
+      "size": 412472,
+      "sha256": "a7cd88c03f06a0cb264e30e34408ed69a976f2c50b7beb2fb566866590cf538c"
+    },
+    "hr_npc_benito_idle.png": {
+      "file": "hires/hr_npc_benito_idle.2850a47b.png",
+      "size": 436647,
+      "sha256": "2850a47bf7abb4fa8a9873e68616e9e30a8a1770f3c48bc7eb242449954523fe"
+    },
+    "hr_npc_carmen_idle.png": {
+      "file": "hires/hr_npc_carmen_idle.f7216c96.png",
+      "size": 400247,
+      "sha256": "f7216c961d2495c31cdb4656936525f3989da10bfb93fd1432f5ecb83395e087"
+    },
+    "hr_npc_gabriel_idle.png": {
+      "file": "hires/hr_npc_gabriel_idle.aa05a3f6.png",
+      "size": 484337,
+      "sha256": "aa05a3f6f095436a9ac7717d913eb51120e0d7d594227ce15a3d64b4e2e0033e"
+    },
+    "hr_npc_ines_idle.png": {
+      "file": "hires/hr_npc_ines_idle.bf630883.png",
+      "size": 373038,
+      "sha256": "bf63088319a77c16fdaaa7ecd6b6ac62e80878a192b1f654ba3b34d55b09c306"
+    },
+    "hr_npc_isabel_idle.png": {
+      "file": "hires/hr_npc_isabel_idle.a3e5bb9c.png",
+      "size": 414853,
+      "sha256": "a3e5bb9c06284ea4500f2ad355907222eb59d37d257c635e2ccef8f99bec1488"
+    },
+    "hr_npc_juan_idle.png": {
+      "file": "hires/hr_npc_juan_idle.5f920442.png",
+      "size": 468944,
+      "sha256": "5f920442e2b18225342161bcf41e8ada227f67593a2af222fe99fff250b64de7"
+    },
+    "hr_npc_king_ghost_idle.png": {
+      "file": "hires/hr_npc_king_ghost_idle.fd925c62.png",
+      "size": 612892,
+      "sha256": "fd925c62b9c2a6f55733a33c072b2983f9eaa99e455f08a791723cd29afc8a85"
+    },
+    "hr_npc_luis_idle.png": {
+      "file": "hires/hr_npc_luis_idle.1e76e854.png",
+      "size": 417324,
+      "sha256": "1e76e85498ca4bc581bac334cac26308589e33029fb3008885a02c79a5f96340"
+    },
+    "hr_npc_manuel_idle.png": {
+      "file": "hires/hr_npc_manuel_idle.b523c2de.png",
+      "size": 448669,
+      "sha256": "b523c2de0e1dced05d0d809953f1f9758e42901131506e594d60467a80f1f579"
+    },
+    "hr_npc_mateo_idle.png": {
+      "file": "hires/hr_npc_mateo_idle.4623de66.png",
+      "size": 432611,
+      "sha256": "4623de66d7cf51f414908cd0055cf9e387f84ab22bd556506304dd8911064d79"
+    },
+    "hr_npc_pedro_idle.png": {
+      "file": "hires/hr_npc_pedro_idle.63fbd560.png",
+      "size": 427814,
+      "sha256": "63fbd5602107203bf906747b91c26d8cb1e09817489f177baa1465552def158d"
+    },
+    "hr_npc_rafael_idle.png": {
+      "file": "hires/hr_npc_rafael_idle.6e8fde9a.png",
+      "size": 443667,
+      "sha256": "6e8fde9a0638607c715c18ff96c625a70e44e4b0372ec3451a01d4605b74a063"
+    },
+    "hr_npc_tomas_idle.png": {
+      "file": "hires/hr_npc_tomas_idle.9de911c3.png",
+      "size": 413096,
+      "sha256": "9de911c326f206a33d4b32f9612d96f4776a0491bee5fb488f476adf0585bab2"
+    },
+    "hr_olive_tree.png": {
+      "file": "hires/hr_olive_tree.1c51f488.png",
+      "size": 209741,
+      "sha256": "1c51f488e299a72020c788e86ba638c131d0854f745dac69b0d6f2d487817a04"
+    },
+    "hr_orange_tree.png": {
+      "file": "hires/hr_orange_tree.8d3074c3.png",
+      "size": 288100,
+      "sha256": "8d3074c3bd55363bc40b947f1906e5054e7ef7a2a5bc5df434d7ad70d1169836"
+    },
+    "hr_orb_life.png": {
+      "file": "hires/hr_orb_life.619e27c5.png",
+      "size": 47311,
+      "sha256": "619e27c5dc67de16c181126afbaf86565612e0104051b0dfe6a8ca58c3b547cd"
+    },
+    "hr_orb_mana.png": {
+      "file": "hires/hr_orb_mana.10071742.png",
+      "size": 53242,
+      "sha256": "100717421b1b9ab904ca29b74baad6fae1aac0b003eee751cf53b4120f0b4734"
+    },
+    "hr_orb_ring.png": {
+      "file": "hires/hr_orb_ring.00035a37.png",
+      "size": 72707,
+      "sha256": "00035a37512e6b32e58f484ffeccd6d10a25a4051c3b7ab7158935e18a66d89c"
+    },
+    "hr_ore_golem_attack.png": {
+      "file": "hires/hr_ore_golem_attack.7ee12c78.png",
+      "size": 1057846,
+      "sha256": "7ee12c78d45dc40606b111b61eaf145d0362e21a52afb69faa3a0685fa4ab609"
+    },
+    "hr_ore_golem_death.png": {
+      "file": "hires/hr_ore_golem_death.df9a5bfe.png",
+      "size": 1583208,
+      "sha256": "df9a5bfea0c24613c678425abd63f877b8f4f35da944a2460d0efae9772bec76"
+    },
+    "hr_ore_golem_idle.png": {
+      "file": "hires/hr_ore_golem_idle.a63f8882.png",
+      "size": 601805,
+      "sha256": "a63f88825818808ec437f21ffea8879441fe5e800def2553aeb07ec151bb8f0d"
+    },
+    "hr_ore_golem_slam.png": {
+      "file": "hires/hr_ore_golem_slam.9717a84f.png",
+      "size": 1763901,
+      "sha256": "9717a84f241d07913262c78985fbdcb7c61d31e2557b2998e9932cb4e2e1fd0a"
+    },
+    "hr_ore_golem_walk.png": {
+      "file": "hires/hr_ore_golem_walk.7a32a608.png",
+      "size": 1431218,
+      "sha256": "7a32a608cef786a32f4767b9337fdab4bca5934c15ee007fc00a6ba39dfaaae7"
+    },
+    "hr_ore_pile.png": {
+      "file": "hires/hr_ore_pile.ee84f6c3.png",
+      "size": 18633,
+      "sha256": "ee84f6c38aa206c935b94518ceeadde8bbc2ea823fd554e2b922f27738360bd1"
+    },
+    "hr_ore_vein.png": {
+      "file": "hires/hr_ore_vein.9cd4be6a.png",
+      "size": 44277,
+      "sha256": "9cd4be6a1372d08e6b10e53141c3294d298dee59e5fe5e4ac6a23104a12bb409"
+    },
+    "hr_pebbles.png": {
+      "file": "hires/hr_pebbles.ba748c62.png",
+      "size": 11642,
+      "sha256": "ba748c62c4cd875aa99bd8affaf3a5aafb5eb3ba72f98a9b9748a0a4cc56338b"
+    },
+    "hr_pirate_scout_attack.png": {
+      "file": "hires/hr_pirate_scout_attack.daba9c3e.png",
+      "size": 787060,
+      "sha256": "daba9c3e9a6c9a32584305f11624e635aece3f019a0662bfa2d4519f2dfacfcc"
+    },
+    "hr_pirate_scout_death.png": {
+      "file": "hires/hr_pirate_scout_death.156dabda.png",
+      "size": 1177673,
+      "sha256": "156dabda00571fd6f694f675236e9bcbb87731bea86c923f7cfb4b2fff6fa07f"
+    },
+    "hr_pirate_scout_idle.png": {
+      "file": "hires/hr_pirate_scout_idle.8e6cb73e.png",
+      "size": 443154,
+      "sha256": "8e6cb73e85f161f6f047fc9d94bf91bbfd30eae638ce7e598bfd1efcd2595027"
+    },
+    "hr_pirate_scout_walk.png": {
+      "file": "hires/hr_pirate_scout_walk.e2b4b7d9.png",
+      "size": 1107802,
+      "sha256": "e2b4b7d96fe8e1d6cc4a1033f235ad8c5c55a0921a1da946f037e1541f9ad40e"
+    },
+    "hr_prison_bars.png": {
+      "file": "hires/hr_prison_bars.93611e0c.png",
+      "size": 22471,
+      "sha256": "93611e0c9357dee351818f48ce1080559747d7807d7598520db9d3c6061eedd4"
+    },
+    "hr_prison_chains.png": {
+      "file": "hires/hr_prison_chains.df36a100.png",
+      "size": 23605,
+      "sha256": "df36a100dc18e0ea2aef10af1f8962efad95b59d05562d9c20dc201d15c66941"
+    },
+    "hr_prison_pillory.png": {
+      "file": "hires/hr_prison_pillory.618b7d6d.png",
+      "size": 10888,
+      "sha256": "618b7d6d7bd870478ff93753bca137f058e92879fc9c536a5c525b60a64a712e"
+    },
+    "hr_prison_rack.png": {
+      "file": "hires/hr_prison_rack.3d690471.png",
+      "size": 27087,
+      "sha256": "3d690471cd562177381975d923b9afc04a7e8195a45433bd6266c074e84eb648"
+    },
+    "hr_prison_stake.png": {
+      "file": "hires/hr_prison_stake.56711f07.png",
+      "size": 25641,
+      "sha256": "56711f07c65e59862f47edc6ecccc0c256134a63e42b55890f85b5bf2ee19f64"
+    },
+    "hr_prison_wall.png": {
+      "file": "hires/hr_prison_wall.5cc0da25.png",
+      "size": 179633,
+      "sha256": "5cc0da25ed79b7ffc2f7b33bf5ff5263b47a88155031934daedcdcc2289366ed"
+    },
+    "hr_prisoner_wraith_attack.png": {
+      "file": "hires/hr_prisoner_wraith_attack.6fc7cbda.png",
+      "size": 792320,
+      "sha256": "6fc7cbda3c885ac555d91e6023222b22cdb1f02bb3459ae703647909d4427b09"
+    },
+    "hr_prisoner_wraith_death.png": {
+      "file": "hires/hr_prisoner_wraith_death.5c8f5493.png",
+      "size": 1318899,
+      "sha256": "5c8f5493b2aef914b438433a3000bac636c13a48880e63e9c836cac0df1e90e1"
+    },
+    "hr_prisoner_wraith_idle.png": {
+      "file": "hires/hr_prisoner_wraith_idle.f3416018.png",
+      "size": 582752,
+      "sha256": "f3416018b677de894dcae2a262df8690440c0b03b641559cb19ffa4237d0909c"
+    },
+    "hr_prisoner_wraith_walk.png": {
+      "file": "hires/hr_prisoner_wraith_walk.f259b9e1.png",
+      "size": 565554,
+      "sha256": "f259b9e14b87e5fbb655d52b8403059ac3fdd9159766be6c84d4372e282734b1"
+    },
+    "hr_rail.png": {
+      "file": "hires/hr_rail.65ec5e17.png",
+      "size": 13533,
+      "sha256": "65ec5e17899a482abdb1d7de7202312a0f859092cc06aefbc93463eabf6474b2"
+    },
+    "hr_rocks.png": {
+      "file": "hires/hr_rocks.3038f94b.png",
+      "size": 62197,
+      "sha256": "3038f94bc21a23b791ca93804c45e1b212b297c4a8b92fec26e8822f5d5b4039"
+    },
+    "hr_ropes.png": {
+      "file": "hires/hr_ropes.be991fe7.png",
+      "size": 16276,
+      "sha256": "be991fe78769fb17e62c933302b1c4a569fbab6160bcdbd1fffb07588235479c"
+    },
+    "hr_rubble.png": {
+      "file": "hires/hr_rubble.2c958952.png",
+      "size": 68684,
+      "sha256": "2c958952ada6181dab516621b9f6d63aa204f882d0ef3d92ad81b8839858fd77"
+    },
+    "hr_rum_barrels.png": {
+      "file": "hires/hr_rum_barrels.f91b2a17.png",
+      "size": 44068,
+      "sha256": "f91b2a1794f54f1362033e1bc55fef91eca66f685ad01bb18c0d7ab7485502ef"
+    },
+    "hr_santa_lucia.png": {
+      "file": "hires/hr_santa_lucia.ef80081f.png",
+      "size": 213719,
+      "sha256": "ef80081fab468c94cc306a40061d2311acdabc8e105f351c33d331b4cbfb9027"
+    },
+    "hr_sarcophagus.png": {
+      "file": "hires/hr_sarcophagus.6a8e4b81.png",
+      "size": 105302,
+      "sha256": "6a8e4b816a811c33b64b9070aa48853a64afb102554e7b0b9d1a9241f3432996"
+    },
+    "hr_seaweed.png": {
+      "file": "hires/hr_seaweed.7ce2b5af.png",
+      "size": 17707,
+      "sha256": "7ce2b5af9facba1ea962828323fae47773b05160d706028ef9f957b790a87420"
+    },
+    "hr_select.png": {
+      "file": "hires/hr_select.5cdce3c3.png",
+      "size": 3683,
+      "sha256": "5cdce3c3b5e1e25e7b8a4353c4b36373a698934f13ffd13a436c9b95a3f4b515"
+    },
+    "hr_seville_house.png": {
+      "file": "hires/hr_seville_house.8cc636e8.png",
+      "size": 951682,
+      "sha256": "8cc636e87e53094aa1b8f974d30f94013334fdabf28069132aaea35a81105785"
+    },
+    "hr_seville_tower.png": {
+      "file": "hires/hr_seville_tower.e8dc934d.png",
+      "size": 335215,
+      "sha256": "e8dc934dc99c41e9a47fa4433c07eff1a9ed86bedc73a5332d7c64689e14029a"
+    },
+    "hr_shadow_inquisitor_attack.png": {
+      "file": "hires/hr_shadow_inquisitor_attack.3875b8b4.png",
+      "size": 1261590,
+      "sha256": "3875b8b48716adefc082e0936441278b62a0d15788ea67086b87f9efabc8b82b"
+    },
+    "hr_shadow_inquisitor_cast.png": {
+      "file": "hires/hr_shadow_inquisitor_cast.d2e4d0b2.png",
+      "size": 1321969,
+      "sha256": "d2e4d0b2f6cf8e8cd11f889fbd4baed202da98844becf6eac948e59e5a10331f"
+    },
+    "hr_shadow_inquisitor_death.png": {
+      "file": "hires/hr_shadow_inquisitor_death.3ee87409.png",
+      "size": 1632734,
+      "sha256": "3ee87409e9991e5263ca1efcea755d8a0e4de9570cf944ac090d35c38ac07216"
+    },
+    "hr_shadow_inquisitor_idle.png": {
+      "file": "hires/hr_shadow_inquisitor_idle.f3ddca65.png",
+      "size": 686520,
+      "sha256": "f3ddca65d3e74743ab92b304f93efc5fd56b255027b87c0767e56a1925e30cd9"
+    },
+    "hr_shadow_inquisitor_walk.png": {
+      "file": "hires/hr_shadow_inquisitor_walk.b5f8d8da.png",
+      "size": 674843,
+      "sha256": "b5f8d8da50a65cc969a3cbe08ae1e219ed21fdaf73df164750b1d16f6ac9dc3b"
+    },
+    "hr_shaft_lift.png": {
+      "file": "hires/hr_shaft_lift.2bf47d23.png",
+      "size": 50244,
+      "sha256": "2bf47d232e51ce72649a753289c1f65ed81f5d0b452053587688350039a982f2"
+    },
+    "hr_ship_lantern.png": {
+      "file": "hires/hr_ship_lantern.3367b164.png",
+      "size": 6238,
+      "sha256": "3367b16492239973c592c6fd5b314bc585e86e72a1a16884e1fbf1bab0277427"
+    },
+    "hr_skill_aimed_shot.png": {
+      "file": "hires/hr_skill_aimed_shot.eba1349b.png",
+      "size": 17248,
+      "sha256": "eba1349b1839add9621429bf2caef8b1b46f9bf9b958bae052b65c3c6617fc20"
+    },
+    "hr_skill_basic_attack.png": {
+      "file": "hires/hr_skill_basic_attack.a27b6f77.png",
+      "size": 16677,
+      "sha256": "a27b6f7765261671355ede7021196f29eceb78688be22cad8da28b45645d06c0"
+    },
+    "hr_skill_bleed_mark.png": {
+      "file": "hires/hr_skill_bleed_mark.6b2a3dbc.png",
+      "size": 15574,
+      "sha256": "6b2a3dbc669b61800750cbc3c4b2bdc26c7315b5a8151bc3010bc28d219e4df1"
+    },
+    "hr_skill_bullet_storm.png": {
+      "file": "hires/hr_skill_bullet_storm.b581b67f.png",
+      "size": 19120,
+      "sha256": "b581b67ffc2fe63b4fcf57d259972d3dc641d7bae1aa794ae73cc6896fa17229"
+    },
+    "hr_skill_call_barrage.png": {
+      "file": "hires/hr_skill_call_barrage.910f4d70.png",
+      "size": 18924,
+      "sha256": "910f4d700a80a52343fda7dabbd0a9af54cc78da80ae6ba2ad9f3db5b47d5e24"
+    },
+    "hr_skill_charge_slash.png": {
+      "file": "hires/hr_skill_charge_slash.b1f4e637.png",
+      "size": 16157,
+      "sha256": "b1f4e637ca6328dcbe13ffbcaf5dd998107e95ff380edc8e2e9e34bab2a221b1"
+    },
+    "hr_skill_crit_mastery.png": {
+      "file": "hires/hr_skill_crit_mastery.b99a19a4.png",
+      "size": 19807,
+      "sha256": "b99a19a43900205e80f98489e20dbdaa717c8c0825ef0f15202bf56083abcf86"
+    },
+    "hr_skill_execute.png": {
+      "file": "hires/hr_skill_execute.6867caf6.png",
+      "size": 15160,
+      "sha256": "6867caf6a8667c965366a56d913a941ec066be2349670f17493da5a5fe811cc3"
+    },
+    "hr_skill_gun_shot.png": {
+      "file": "hires/hr_skill_gun_shot.8f29b9cc.png",
+      "size": 17007,
+      "sha256": "8f29b9ccaaabc950ad5c2228c53b9d9470aba92b3735de8ad283dd33077c197d"
+    },
+    "hr_skill_piercing_shot.png": {
+      "file": "hires/hr_skill_piercing_shot.1bb2e367.png",
+      "size": 17663,
+      "sha256": "1bb2e367d6c735ef10779d4612c508e2e75fc1a0697b95b7b4d0ad1152d09f18"
+    },
+    "hr_skill_powder_keg.png": {
+      "file": "hires/hr_skill_powder_keg.e3929db3.png",
+      "size": 13583,
+      "sha256": "e3929db33059f419f63b5d5c0c3f62e2d15a85d04856d4e4ef355b424b5b3775"
+    },
+    "hr_skill_powder_mastery.png": {
+      "file": "hires/hr_skill_powder_mastery.ca6fe281.png",
+      "size": 16948,
+      "sha256": "ca6fe28184d8ec15da54f2861a615ab4a0c7e3bf6715e6adebcc38eae76eb569"
+    },
+    "hr_skill_quick_reload.png": {
+      "file": "hires/hr_skill_quick_reload.cc4bf6b9.png",
+      "size": 19791,
+      "sha256": "cc4bf6b9f62261b09fd13c600a27f5b14ff71031e4ca1bc3826d935b39cbbc81"
+    },
+    "hr_skill_riposte.png": {
+      "file": "hires/hr_skill_riposte.74f21a66.png",
+      "size": 19410,
+      "sha256": "74f21a66edbedf66db3135e630870c25d1ffc83e1a2d53c39821565a2908b4b4"
+    },
+    "hr_skill_scatter_shot.png": {
+      "file": "hires/hr_skill_scatter_shot.27ed89a2.png",
+      "size": 19054,
+      "sha256": "27ed89a2d48c20678b5644ef11bd0c3133fe1a00374cf2a59bd0f85e1a74b209"
+    },
+    "hr_skill_slash.png": {
+      "file": "hires/hr_skill_slash.8a3f586d.png",
+      "size": 18471,
+      "sha256": "8a3f586d35ea92ccf6f4a70ce3bdca264c7efa43e46c4e1dcfb9afae29da9706"
+    },
+    "hr_skill_steady_stance.png": {
+      "file": "hires/hr_skill_steady_stance.95881ef3.png",
+      "size": 15534,
+      "sha256": "95881ef3a3926b5f2c4bcab06054426e3b414da36780cb51318e2805bcc5586c"
+    },
+    "hr_skill_sword_mastery.png": {
+      "file": "hires/hr_skill_sword_mastery.c051cd7a.png",
+      "size": 19098,
+      "sha256": "c051cd7aab637a2a3e72d3d6fc6333d4a267f533429f6805562d802b17439f87"
+    },
+    "hr_skill_thousand_cuts.png": {
+      "file": "hires/hr_skill_thousand_cuts.5f7247e1.png",
+      "size": 20413,
+      "sha256": "5f7247e1f9a7b7571e2f8ed8810ab3d47f96fdb37861ad409956a0ae9415d1a5"
+    },
+    "hr_skill_twin_flurry.png": {
+      "file": "hires/hr_skill_twin_flurry.bd2b5035.png",
+      "size": 19415,
+      "sha256": "bd2b5035bb137137402a0d56acba756dfb7aec111f40af48e4d79bf2bbb6a149"
+    },
+    "hr_skill_weak_spot.png": {
+      "file": "hires/hr_skill_weak_spot.4537b304.png",
+      "size": 19999,
+      "sha256": "4537b304ffe684ff07f895710491b96ddd640fd386ba82bf89189c366ea97326"
+    },
+    "hr_skill_whirlwind.png": {
+      "file": "hires/hr_skill_whirlwind.1e4ce939.png",
+      "size": 20292,
+      "sha256": "1e4ce939906c79151595854facc4c7bed388f297118d0d24d4988e7a9ca8db0e"
+    },
+    "hr_slope_tunnel.png": {
+      "file": "hires/hr_slope_tunnel.56e6a428.png",
+      "size": 55144,
+      "sha256": "56e6a4287e023080879cada0017703224ad542be3f2352d38773efcae4514751"
+    },
+    "hr_smithy.png": {
+      "file": "hires/hr_smithy.cdb4ed6a.png",
+      "size": 143342,
+      "sha256": "cdb4ed6ad71d572800f48bf3cf50638af161e8db991fc2b697744d3bd6c4b390"
+    },
+    "hr_spanish_officer_attack.png": {
+      "file": "hires/hr_spanish_officer_attack.2d4e3331.png",
+      "size": 893337,
+      "sha256": "2d4e33318ae80ac4cd3581740169d21b704136d1ed96bf535486826f6f6f1e14"
+    },
+    "hr_spanish_officer_cast.png": {
+      "file": "hires/hr_spanish_officer_cast.e11f0cbb.png",
+      "size": 648054,
+      "sha256": "e11f0cbb104e2e084b6b6b41669f342405b9d4f090f0a1196e95c7239cdbf227"
+    },
+    "hr_spanish_officer_death.png": {
+      "file": "hires/hr_spanish_officer_death.e8d42b0e.png",
+      "size": 1261721,
+      "sha256": "e8d42b0e83e2670a0f787e78e0708f04dbe2135d5038cd05bc91261b4f19d2e5"
+    },
+    "hr_spanish_officer_idle.png": {
+      "file": "hires/hr_spanish_officer_idle.89710c7f.png",
+      "size": 488697,
+      "sha256": "89710c7fecc40a9aa6c79ca624b7ad32f397d757e3a6c8473b69f3b9e0b84378"
+    },
+    "hr_spanish_officer_walk.png": {
+      "file": "hires/hr_spanish_officer_walk.f96d3bc9.png",
+      "size": 1206020,
+      "sha256": "f96d3bc965ac0c2f94134256e284b6c99188a0a83d434ef688814fff7d4357c9"
+    },
+    "hr_spider_queen_attack.png": {
+      "file": "hires/hr_spider_queen_attack.99f8ca6a.png",
+      "size": 1523887,
+      "sha256": "99f8ca6a222aef7208b646001514b228751053a74075f2fafd68f5f10b22c51c"
+    },
+    "hr_spider_queen_death.png": {
+      "file": "hires/hr_spider_queen_death.87ab8cd1.png",
+      "size": 1208341,
+      "sha256": "87ab8cd13dfdc4e66b0f2013c11719743254254d40add66d9ea65c0052a7cf35"
+    },
+    "hr_spider_queen_idle.png": {
+      "file": "hires/hr_spider_queen_idle.6bb2708c.png",
+      "size": 1156378,
+      "sha256": "6bb2708cb4fbcb1205665daf8828f7d281e44672849b4a0c3e40d943d891bd30"
+    },
+    "hr_spider_queen_walk.png": {
+      "file": "hires/hr_spider_queen_walk.924fd9c6.png",
+      "size": 1243233,
+      "sha256": "924fd9c6a9dc1a954bb79830735437883849308d0954b9dc8e402e849261d73a"
+    },
+    "hr_stall.png": {
+      "file": "hires/hr_stall.951a19a4.png",
+      "size": 61624,
+      "sha256": "951a19a4949d671271fe7abaf7f34c78752ec950fb99a9fea0adf4db68419dca"
+    },
+    "hr_stash.png": {
+      "file": "hires/hr_stash.8ec7b87c.png",
+      "size": 32462,
+      "sha256": "8ec7b87c95d3573255fc6bed0024414ceddb3b458c16e06e5f551f0187248f8a"
+    },
+    "hr_stone_wall.png": {
+      "file": "hires/hr_stone_wall.722c85f0.png",
+      "size": 30148,
+      "sha256": "722c85f0245aeb76517b978b85101dd890f81d183287e71a00e8f3c9432cb5f1"
+    },
+    "hr_survivor_m_attack.png": {
+      "file": "hires/hr_survivor_m_attack.39e2cb93.png",
+      "size": 922977,
+      "sha256": "39e2cb93d357084cf94a92a37d1c6d89a88c8efac80102a9a6e9c7582194cfcd"
+    },
+    "hr_survivor_m_idle.png": {
+      "file": "hires/hr_survivor_m_idle.c3a80c40.png",
+      "size": 502667,
+      "sha256": "c3a80c40085a05a9e4675fda88d79b827e3bacd944019561156707552dd6af0a"
+    },
+    "hr_survivor_m_walk.png": {
+      "file": "hires/hr_survivor_m_walk.d502ea26.png",
+      "size": 1254764,
+      "sha256": "d502ea2658ff31dcdb0ae9239e038581ce6d72540875876048930c573e456585"
+    },
+    "hr_telescope.png": {
+      "file": "hires/hr_telescope.654c2cb6.png",
+      "size": 11691,
+      "sha256": "654c2cb662bffe4454026f0aafc8e0d858130809e3183915e3aba42b79a36c1e"
+    },
+    "hr_tent.png": {
+      "file": "hires/hr_tent.90c48337.png",
+      "size": 71142,
+      "sha256": "90c483371e3f8ace584003e734e2d95da924d2ebdbaf978df95ce04021b555eb"
+    },
+    "hr_torch.png": {
+      "file": "hires/hr_torch.01974dec.png",
+      "size": 6535,
+      "sha256": "01974dec48c2488335ee52c925f4abe36af3042d427ef8b975ed6623516e125c"
+    },
+    "hr_tree.png": {
+      "file": "hires/hr_tree.5b50ef12.png",
+      "size": 691847,
+      "sha256": "5b50ef12d5b20eff5564dec76c5dced65daea6201563ca431b2c42e67e375bf8"
+    },
+    "hr_water_channel.png": {
+      "file": "hires/hr_water_channel.7235a33a.png",
+      "size": 4890,
+      "sha256": "7235a33a321a273a5ee529757a7f5ffb0a92c83a1db76142b364186ca2f1f876"
+    },
+    "hr_waypoint.png": {
+      "file": "hires/hr_waypoint.c7c13386.png",
+      "size": 51837,
+      "sha256": "c7c13386e4146c97adc9dccaaa824616d77a327637c9bb63e4fe49b1039649aa"
+    },
+    "hr_weapon_rack.png": {
+      "file": "hires/hr_weapon_rack.e0655692.png",
+      "size": 15125,
+      "sha256": "e065569278539edd5ac96511260c61457c3b87a66e361211ed8a23ace2719422"
+    },
+    "hr_web.png": {
+      "file": "hires/hr_web.4d265f2a.png",
+      "size": 124919,
+      "sha256": "4d265f2ab7cd910c84ed2f61be1177a1fcbbc0ce993bb1b635ccfb9b3d7cecb0"
+    },
+    "hr_well.png": {
+      "file": "hires/hr_well.ec49a35b.png",
+      "size": 45142,
+      "sha256": "ec49a35b556b1f93286da775f550ee1ca13be61050a00edcb36922b18f79e802"
+    },
+    "hr_wheat.png": {
+      "file": "hires/hr_wheat.f70587d2.png",
+      "size": 23641,
+      "sha256": "f70587d23ed006c653828a36ad7135ac032306b0b7029808b20afaf889231fd0"
+    },
+    "hr_wheel.png": {
+      "file": "hires/hr_wheel.58427392.png",
+      "size": 14264,
+      "sha256": "58427392bfaeb6f453777e3d11f68308c76253990a503f9165b036a012571f6e"
+    },
+    "hr_windmill.png": {
+      "file": "hires/hr_windmill.a13a172c.png",
+      "size": 110661,
+      "sha256": "a13a172c532967cd19bbf9d20a6c6e6adf3217ea0e82b76ac873a32c0ad40c44"
+    },
+    "hr_wreck.png": {
+      "file": "hires/hr_wreck.ec0f4d70.png",
+      "size": 79417,
+      "sha256": "ec0f4d70e5cb80d6eb4d8eb8ad8594f5aec37a3a4ca795be88f61a30e9d125ad"
+    },
+    "hr_wreck_debris.png": {
+      "file": "hires/hr_wreck_debris.3b6ac29d.png",
+      "size": 4954,
+      "sha256": "3b6ac29d5a80b84c451b5bb4b313ace4b964b12e3dae48ecc8f7c95a23209390"
+    },
+    "hr_wreck_rubble.png": {
+      "file": "hires/hr_wreck_rubble.60870a5f.png",
+      "size": 25158,
+      "sha256": "60870a5f3f43cbd09f29e51125ac4790a80419e936964cf7219cc80355fef421"
+    },
+    "hr_xpbar.png": {
+      "file": "hires/hr_xpbar.7479cad8.png",
+      "size": 181,
+      "sha256": "7479cad818501de7f12c22c2b55ae4409dc0c2aa0e5f4070629255e29aa7b5eb"
+    },
+    "atlas/glow_0.ktx2": {
+      "file": "hires/atlas/glow_0.14a1e7e9.ktx2",
+      "size": 1658968,
+      "sha256": "14a1e7e969a1710fe7fc5b1482fc58dbd3aef3ad5011d74b0ea770ab4cdaaa32"
+    },
+    "atlas/glow_1.ktx2": {
+      "file": "hires/atlas/glow_1.dd0c8878.ktx2",
+      "size": 1570997,
+      "sha256": "dd0c8878e9a985368e56d87f27b0d67739bff5e3c921c7e638f141512060cccb"
+    },
+    "atlas/glow_2.ktx2": {
+      "file": "hires/atlas/glow_2.ddb4d3f4.ktx2",
+      "size": 1862211,
+      "sha256": "ddb4d3f41c7353f0d8e7c8736e8bc73f1700399485d77f828b1520b27d1538bd"
+    },
+    "atlas/glow_3.ktx2": {
+      "file": "hires/atlas/glow_3.e79b91dd.ktx2",
+      "size": 2084022,
+      "sha256": "e79b91ddd0f1ded9a7fd128b4a676e285412de4afd8d8fdb803e07666a195650"
+    },
+    "atlas/hud_0.ktx2": {
+      "file": "hires/atlas/hud_0.197896cf.ktx2",
+      "size": 1367034,
+      "sha256": "197896cfd1d8cf4662dd9da8884e1c21474e7d51d1432a4f171a09ac6231d8d9"
+    },
+    "atlas/w_alhambra_0.ktx2": {
+      "file": "hires/atlas/w_alhambra_0.81afaa11.ktx2",
+      "size": 3344355,
+      "sha256": "81afaa116e0355b26f4b47ae679ceb9aac272a834d0c8a410b1a455f9f8f092f"
+    },
+    "atlas/w_alhambra_1.ktx2": {
+      "file": "hires/atlas/w_alhambra_1.1cbab5c9.ktx2",
+      "size": 3559545,
+      "sha256": "1cbab5c988c7d5188da746062131f902c04cabbdaca657fdb7d5aa34b1f06693"
+    },
+    "atlas/w_bat_0.ktx2": {
+      "file": "hires/atlas/w_bat_0.33ee3d50.ktx2",
+      "size": 998957,
+      "sha256": "33ee3d5054f00aab33e1c69cf5c3f21cb63b3c175691494caaa576c493140e69"
+    },
+    "atlas/w_bullring_0.ktx2": {
+      "file": "hires/atlas/w_bullring_0.7055490f.ktx2",
+      "size": 3331695,
+      "sha256": "7055490f39ba448733b701bf2ec9471dccd1b1f16f71d8e9bb1ea9607aadfe14"
+    },
+    "atlas/w_camp_0.ktx2": {
+      "file": "hires/atlas/w_camp_0.02ea595b.ktx2",
+      "size": 2638785,
+      "sha256": "02ea595ba702ba57becd8a453c51cec9a82bbf180ef9b93fd2139dd0106a6bbd"
+    },
+    "atlas/w_camp_1.ktx2": {
+      "file": "hires/atlas/w_camp_1.3ed7111b.ktx2",
+      "size": 3015279,
+      "sha256": "3ed7111b7d226008100584c0e337a8fe9cebe6783bf36d248aac54ea0056e2d8"
+    },
+    "atlas/w_camp_2.ktx2": {
+      "file": "hires/atlas/w_camp_2.8edae952.ktx2",
+      "size": 216258,
+      "sha256": "8edae952e33cab840313c18fc614c5b54d67ff427bc8781443eb2b170b5f5975"
+    },
+    "atlas/w_cave_0.ktx2": {
+      "file": "hires/atlas/w_cave_0.734eccfb.ktx2",
+      "size": 3907590,
+      "sha256": "734eccfbb01443d3fe61d0cdec1a2bda58680c7aee7d80eef750818a82b726e7"
+    },
+    "atlas/w_crypt_0.ktx2": {
+      "file": "hires/atlas/w_crypt_0.df3f3574.ktx2",
+      "size": 3244779,
+      "sha256": "df3f35745481ca2a160cc999b7a120e6fe41d54dc6ab5c6181e8f26f48366eac"
+    },
+    "atlas/w_crypt_1.ktx2": {
+      "file": "hires/atlas/w_crypt_1.ba468a86.ktx2",
+      "size": 3573895,
+      "sha256": "ba468a86571ee14ee995fede7ad819144e3c2c62e99cfa9be29d44e1e90bcb9f"
+    },
+    "atlas/w_crypt_2.ktx2": {
+      "file": "hires/atlas/w_crypt_2.bd712daa.ktx2",
+      "size": 1001180,
+      "sha256": "bd712daa211737ef9b46eca466692cce89e788fe8102356a9b6d816bc24ef6ba"
+    },
+    "atlas/w_hills_0.ktx2": {
+      "file": "hires/atlas/w_hills_0.e0f6cc85.ktx2",
+      "size": 3692249,
+      "sha256": "e0f6cc85e06f2e8728ba1faf4b6ab8bc7814dbaa971c0b5f6716b21e44f0cb16"
+    },
+    "atlas/w_hills_1.ktx2": {
+      "file": "hires/atlas/w_hills_1.d9d82e46.ktx2",
+      "size": 497249,
+      "sha256": "d9d82e46e8a5b42234d4940688ef727c4472b5bd2c25538dc668488d6c26280a"
+    },
+    "atlas/w_mine_0.ktx2": {
+      "file": "hires/atlas/w_mine_0.3e271291.ktx2",
+      "size": 3166509,
+      "sha256": "3e2712911a6ba359d4338ebd9b2e2325186ef86b5b327beb11026d313da2026f"
+    },
+    "atlas/w_mine_1.ktx2": {
+      "file": "hires/atlas/w_mine_1.a36123fd.ktx2",
+      "size": 3574386,
+      "sha256": "a36123fda2d705fe0ec6bb5f84d30a147c25eacf8c9dc963104b907651ee57a0"
+    },
+    "atlas/w_mine_2.ktx2": {
+      "file": "hires/atlas/w_mine_2.3653211f.ktx2",
+      "size": 3587466,
+      "sha256": "3653211fee9388c4f91d22b23b35d62e6bd4b9f6644eccce620255ef43b2b2d1"
+    },
+    "atlas/w_mine_3.ktx2": {
+      "file": "hires/atlas/w_mine_3.835050e4.ktx2",
+      "size": 3584328,
+      "sha256": "835050e4af2b5d5acaf58c0e85669cfddd7a06848abe84476b0559d71661ca7b"
+    },
+    "atlas/w_mine_4.ktx2": {
+      "file": "hires/atlas/w_mine_4.7b357619.ktx2",
+      "size": 585365,
+      "sha256": "7b357619b1f8d5219d2a6009beaadd9475935c89ee4df6a58357fc3bd9360a23"
+    },
+    "atlas/w_plains_0.ktx2": {
+      "file": "hires/atlas/w_plains_0.a8f2d566.ktx2",
+      "size": 2312508,
+      "sha256": "a8f2d5666dcd9ded7a2debb453ac9bc63ac1aac6680714e6423484adc3691450"
+    },
+    "atlas/w_plains_1.ktx2": {
+      "file": "hires/atlas/w_plains_1.e0406797.ktx2",
+      "size": 3238723,
+      "sha256": "e040679732565c717f4e7965522e0118ff3661b6967896ccd53531e995620add"
+    },
+    "atlas/w_plains_2.ktx2": {
+      "file": "hires/atlas/w_plains_2.b0ac3cf3.ktx2",
+      "size": 3900358,
+      "sha256": "b0ac3cf392a88a2173fc23df2fe88c85488494ae6cc6a6f1c84d33fe440d4caa"
+    },
+    "atlas/w_plains_3.ktx2": {
+      "file": "hires/atlas/w_plains_3.f2c1e9bf.ktx2",
+      "size": 754787,
+      "sha256": "f2c1e9bf495c809e5cc76d3e363234e81344bd09f330464c925ba2d51b3ca0aa"
+    },
+    "atlas/w_prison_0.ktx2": {
+      "file": "hires/atlas/w_prison_0.4b37ef84.ktx2",
+      "size": 3172220,
+      "sha256": "4b37ef84ead39d7625ce4bf4458be1e4153eeddc89346d8259d33a584ed00905"
+    },
+    "atlas/w_prison_1.ktx2": {
+      "file": "hires/atlas/w_prison_1.0954402c.ktx2",
+      "size": 3534389,
+      "sha256": "0954402cf7c9e122d69deab2f13d5a170cd8ecce232dcb2e1c68a60cac99459a"
+    },
+    "atlas/w_prison_2.ktx2": {
+      "file": "hires/atlas/w_prison_2.b93f757f.ktx2",
+      "size": 1519517,
+      "sha256": "b93f757f834e70ec7cf0311bb8231e068b1c1e3c7c9e58bbca2aaad207b20e86"
+    },
+    "atlas/w_scout_0.ktx2": {
+      "file": "hires/atlas/w_scout_0.6e7e60f9.ktx2",
+      "size": 2306335,
+      "sha256": "6e7e60f98fbe709347e581c3a16483cc442c231533989d1771e4f6dfd1762ab2"
+    },
+    "atlas/w_seville_0.ktx2": {
+      "file": "hires/atlas/w_seville_0.3f26af8e.ktx2",
+      "size": 2537481,
+      "sha256": "3f26af8ecefe9f0257a64fdbbb49b9f7d5456064e4e2ed951eabfcdea1f18808"
+    },
+    "atlas/w_seville_1.ktx2": {
+      "file": "hires/atlas/w_seville_1.0104eee2.ktx2",
+      "size": 1032650,
+      "sha256": "0104eee23cd96262e8a8a5cd35439c46f21f58366e4c126a220795ad2f77f486"
+    },
+    "atlas/w_ship_0.ktx2": {
+      "file": "hires/atlas/w_ship_0.4d058f00.ktx2",
+      "size": 2700620,
+      "sha256": "4d058f009ec8fe1331654481cd6ca084d1cc04530f50ba9e02ba978a0acac175"
+    },
+    "atlas/w_ship_1.ktx2": {
+      "file": "hires/atlas/w_ship_1.3ca1bc42.ktx2",
+      "size": 3243618,
+      "sha256": "3ca1bc4275ddc9d4741ba2f6e0edfffa8945adb1458a129d73a84364218d0637"
+    },
+    "atlas/w_ship_2.ktx2": {
+      "file": "hires/atlas/w_ship_2.4284a43e.ktx2",
+      "size": 1310760,
+      "sha256": "4284a43e0dbbab145a2887c5a9ab7e1d71e6ad2675e9bf1adf435d7894fc04ca"
+    },
+    "atlas/w_town_0.ktx2": {
+      "file": "hires/atlas/w_town_0.1d31e27e.ktx2",
+      "size": 2971909,
+      "sha256": "1d31e27e82c68631d7c9287cf9aac10ae7e3a7976499b889d1468f549d6416ee"
+    },
+    "atlas/w_town_1.ktx2": {
+      "file": "hires/atlas/w_town_1.fba23c7c.ktx2",
+      "size": 169975,
+      "sha256": "fba23c7cbb4ce7fd45a3e1b6e1ce44803b7abbbc390dac2ea0f8515cd7c18642"
+    },
+    "atlas/w_wreck_0.ktx2": {
+      "file": "hires/atlas/w_wreck_0.95c32ed8.ktx2",
+      "size": 3196957,
+      "sha256": "95c32ed8d26b5659ef4186f90a75c9a365ddda634ef3a5cab5b4c2a122f44679"
+    },
+    "atlas/w_wreck_1.ktx2": {
+      "file": "hires/atlas/w_wreck_1.94bfa3b3.ktx2",
+      "size": 3590542,
+      "sha256": "94bfa3b392e98c6cc98af1057bc0001246e03ac741fccf36158e18c44d73cbe0"
+    },
+    "atlas/w_wreck_2.ktx2": {
+      "file": "hires/atlas/w_wreck_2.5ec431e3.ktx2",
+      "size": 205877,
+      "sha256": "5ec431e361e498a509b15ba6276dba0819f4ca77802b5b2c6ec006437bc089a9"
+    },
+    "atlas/world_0.ktx2": {
+      "file": "hires/atlas/world_0.29f783c5.ktx2",
+      "size": 3959217,
+      "sha256": "29f783c5bda6f4340cc3eb6ac2970900e1084804691d5cf4445d61726840c981"
+    },
+    "atlas/world_1.ktx2": {
+      "file": "hires/atlas/world_1.26dc580d.ktx2",
+      "size": 655355,
+      "sha256": "26dc580d4ee734b61720bad0eedd8ccdf3d2ca7779835c8613a1804a22d329ec"
+    },
+    "sound/amb_crowd.ogg": {
+      "file": "hires/sound/amb_crowd.39dd8a9d.ogg",
+      "size": 347810,
+      "sha256": "39dd8a9d24adafa02d774c9b6f279be057321e78f6c35b8c727de7c05e73fb7d"
+    },
+    "sound/amb_drips.ogg": {
+      "file": "hires/sound/amb_drips.ca979f80.ogg",
+      "size": 206660,
+      "sha256": "ca979f80623f9f22f93b20774715cb8970c9de2aab699051dcd39f3bb9d85bd5"
+    },
+    "sound/amb_dungeon.ogg": {
+      "file": "hires/sound/amb_dungeon.422c7be8.ogg",
+      "size": 465260,
+      "sha256": "422c7be8be4cb3cc2e7ed32e62a13b62437c8b4e833778ad0876c941ab78b919"
+    },
+    "sound/amb_fire.ogg": {
+      "file": "hires/sound/amb_fire.efdd963b.ogg",
+      "size": 28822,
+      "sha256": "efdd963bec4f15f0f3d7f0b9a5ed4abcd4682667ba85d1279eb632b5bff76faa"
+    },
+    "sound/amb_mill.ogg": {
+      "file": "hires/sound/amb_mill.274f9473.ogg",
+      "size": 98531,
+      "sha256": "274f9473130c3b92286ae9de38ca0031d9a974c090726f3214f39149a3e355a3"
+    },
+    "sound/amb_rain.ogg": {
+      "file": "hires/sound/amb_rain.f7eda6ac.ogg",
+      "size": 280918,
+      "sha256": "f7eda6ac9b0cd6da98746b1ce037ecaa6c5ba472bacba79be6fc95d6c3462797"
+    },
+    "sound/amb_sea.ogg": {
+      "file": "hires/sound/amb_sea.ee31b0ab.ogg",
+      "size": 437852,
+      "sha256": "ee31b0ab36609bae5164f806c15154eb7fe97d7ed51b418c24ab58651184e132"
+    },
+    "sound/amb_stake_fire.ogg": {
+      "file": "hires/sound/amb_stake_fire.f946ed25.ogg",
+      "size": 119395,
+      "sha256": "f946ed25df819e11e28bc9cad4e45bef95a3522bbd21ec2bbfce78f953e87ad7"
+    },
+    "sound/amb_wind.ogg": {
+      "file": "hires/sound/amb_wind.4fd6d662.ogg",
+      "size": 51820,
+      "sha256": "4fd6d66252c6d2e96b072935072471d9014431d61f2e4f167043a70ba8e51549"
+    },
+    "sound/beast_bite.ogg": {
+      "file": "hires/sound/beast_bite.828661f6.ogg",
+      "size": 9584,
+      "sha256": "828661f60a3e82353eb9566c0502f8b7ce3e28bdce1d480af63fe7394704fbb3"
+    },
+    "sound/block_1.ogg": {
+      "file": "hires/sound/block_1.efc022f5.ogg",
+      "size": 8588,
+      "sha256": "efc022f5a1ef7c0725439f5341d581bfacde9730cd85d2f7e7d240fd45a11099"
+    },
+    "sound/block_2.ogg": {
+      "file": "hires/sound/block_2.bc324b4b.ogg",
+      "size": 9437,
+      "sha256": "bc324b4bc6d0fa93c322d7d13d05354d18b599938137976262e8f25b1bb5e340"
+    },
+    "sound/block_3.ogg": {
+      "file": "hires/sound/block_3.112f8375.ogg",
+      "size": 8464,
+      "sha256": "112f8375e66f20e3cab72561ed93590f14a464f16c460d4b780d030f3ab2bf23"
+    },
+    "sound/boss_roar_1.ogg": {
+      "file": "hires/sound/boss_roar_1.8568f117.ogg",
+      "size": 10075,
+      "sha256": "8568f1177c4ac9f77cbadf8d42c6f8819e9a264477739c79b5f9b079fe357a9f"
+    },
+    "sound/boss_roar_2.ogg": {
+      "file": "hires/sound/boss_roar_2.42921d97.ogg",
+      "size": 8671,
+      "sha256": "42921d9745cdf86224a2d5ab082cc1196407263f97d6c03ee75cceb6da19f507"
+    },
+    "sound/boss_roar_3.ogg": {
+      "file": "hires/sound/boss_roar_3.7328c100.ogg",
+      "size": 8049,
+      "sha256": "7328c100e13920fb6e112daaf7e1c32930992db88fc94531f4c7bfc1c4157223"
+    },
+    "sound/bull_gallop.ogg": {
+      "file": "hires/sound/bull_gallop.836aaae7.ogg",
+      "size": 14812,
+      "sha256": "836aaae7d4f2146bb1b58a2dc651b7b2e0365cc268e6bfc4af04ca00af3fd65c"
+    },
+    "sound/bull_moo_1.ogg": {
+      "file": "hires/sound/bull_moo_1.4e062b7a.ogg",
+      "size": 27083,
+      "sha256": "4e062b7a634485c6bc4c5609bdce285fe4a8085d87b98ecde515a0e644e05f0e"
+    },
+    "sound/bull_moo_2.ogg": {
+      "file": "hires/sound/bull_moo_2.4f72a4aa.ogg",
+      "size": 28495,
+      "sha256": "4f72a4aafe15d1eb91b828e0e043e76d00e937f4a7d1eaf6d1d339075e2dfbcf"
+    },
+    "sound/bull_moo_3.ogg": {
+      "file": "hires/sound/bull_moo_3.9aa256c4.ogg",
+      "size": 28663,
+      "sha256": "9aa256c4dec8632c993d71e76e57e96f4e6efac7f42cdb1a6efaab85cae468a8"
+    },
+    "sound/bull_moo_4.ogg": {
+      "file": "hires/sound/bull_moo_4.425cc40e.ogg",
+      "size": 33645,
+      "sha256": "425cc40e8a928b3ffbb53a82758d355efa5237b68fe1ca92d3c21c5ee4782b0d"
+    },
+    "sound/bull_moo_5.ogg": {
+      "file": "hires/sound/bull_moo_5.6b209ff8.ogg",
+      "size": 29551,
+      "sha256": "6b209ff8cc8c153085d051ce1db6cd6d1ec3fe6d472b3e23fee448cd64b7e839"
+    },
+    "sound/cannon_far.ogg": {
+      "file": "hires/sound/cannon_far.00605450.ogg",
+      "size": 27694,
+      "sha256": "0060545075fa492110610f9d7f5dbc64ffadee9e95fd64cbfbdac20ddd7c4396"
+    },
+    "sound/cannon_near_1.ogg": {
+      "file": "hires/sound/cannon_near_1.4c61ff36.ogg",
+      "size": 20449,
+      "sha256": "4c61ff36837dc949f43591fe04cb8bad96d9d21f6834e290d6adf6bf556d1840"
+    },
+    "sound/cannon_near_2.ogg": {
+      "file": "hires/sound/cannon_near_2.2bd2beae.ogg",
+      "size": 19633,
+      "sha256": "2bd2beae4a7b853748c0b91902981862e66f8beeb8a4281ca8859f23a35cfe3d"
+    },
+    "sound/cave_in.ogg": {
+      "file": "hires/sound/cave_in.575d8dfd.ogg",
+      "size": 35501,
+      "sha256": "575d8dfd20e99a0cf81b43240e66c8e7f2901f0ceda95509415d5d3b076610af"
+    },
+    "sound/chain_1.ogg": {
+      "file": "hires/sound/chain_1.b897f244.ogg",
+      "size": 8373,
+      "sha256": "b897f24474d68e5023bf8b257f553b59bae8c312e1426de94d01ff0bda47de5b"
+    },
+    "sound/chain_2.ogg": {
+      "file": "hires/sound/chain_2.daa68543.ogg",
+      "size": 7900,
+      "sha256": "daa68543fd2c19cbf9e0aa8c0a0b177c06f2c91b2856d85b2f4dc4ae33456c1f"
+    },
+    "sound/chain_3.ogg": {
+      "file": "hires/sound/chain_3.f3cc9303.ogg",
+      "size": 12309,
+      "sha256": "f3cc9303bcd66c515296cb49dbf728537a923604492a6fd7f681771eedfd1c51"
+    },
+    "sound/chest_open.ogg": {
+      "file": "hires/sound/chest_open.6638800b.ogg",
+      "size": 17302,
+      "sha256": "6638800b39d193138704d75f3085c14a24b57d416d88bdfda0c2108140eef6a1"
+    },
+    "sound/church_bell.ogg": {
+      "file": "hires/sound/church_bell.7f296321.ogg",
+      "size": 149893,
+      "sha256": "7f2963213da2b8a0d48a585f60aac51410aa626b33d51401231275da7d19939c"
+    },
+    "sound/creak_1.ogg": {
+      "file": "hires/sound/creak_1.db1115ea.ogg",
+      "size": 9744,
+      "sha256": "db1115ea7f69b64a4b7f7149cc1fdcda0124cfe8f1511dda4fc408ba16034962"
+    },
+    "sound/creak_2.ogg": {
+      "file": "hires/sound/creak_2.f6105ee7.ogg",
+      "size": 11953,
+      "sha256": "f6105ee7cb2719d6d71cecff0c5d9bad69089553cc135e4aaa7a99b29ff380ed"
+    },
+    "sound/creak_3.ogg": {
+      "file": "hires/sound/creak_3.3f112a49.ogg",
+      "size": 7319,
+      "sha256": "3f112a493169dc3ba4c4271120db3aa862bf4cd4cf2e4f1e18b0d56d866c0859"
+    },
+    "sound/crowd_applause.ogg": {
+      "file": "hires/sound/crowd_applause.26c380be.ogg",
+      "size": 50727,
+      "sha256": "26c380be9e9fe4ccd214837958f6e763a1142abd5abb439a4a44a18e8ca3428c"
+    },
+    "sound/crowd_cheer.ogg": {
+      "file": "hires/sound/crowd_cheer.07a1f074.ogg",
+      "size": 34639,
+      "sha256": "07a1f074d80af88ac220cd2bb288841ac178aee639734891913e9cb735d0f1c0"
+    },
+    "sound/crowd_yell.ogg": {
+      "file": "hires/sound/crowd_yell.dd4107bc.ogg",
+      "size": 34795,
+      "sha256": "dd4107bcd8e04eea7757e920d5eb998682cc03c8e8e7b92e7d4c17048234e595"
+    },
+    "sound/door_open.ogg": {
+      "file": "hires/sound/door_open.b3847f9a.ogg",
+      "size": 13638,
+      "sha256": "b3847f9a33aaef506ddcd0612b27053d8c9c6287f6f088563f327492b1d0fc68"
+    },
+    "sound/explosion_1.ogg": {
+      "file": "hires/sound/explosion_1.3c1fb5c6.ogg",
+      "size": 11905,
+      "sha256": "3c1fb5c66e45a0e93d8f8276d23bd73c659fd2d6c6701b4e0b1398c0aede5be0"
+    },
+    "sound/explosion_2.ogg": {
+      "file": "hires/sound/explosion_2.67a459bf.ogg",
+      "size": 13650,
+      "sha256": "67a459bfe9ebb90e206754366c7c75f2c2b32510f570336ea54f506e149d98d2"
+    },
+    "sound/explosion_3.ogg": {
+      "file": "hires/sound/explosion_3.bff0eda5.ogg",
+      "size": 9342,
+      "sha256": "bff0eda5c6146ce1e0c629e52f6012af7ea42c74a2caeecf5c477b5b7de6f13b"
+    },
+    "sound/explosion_wall.ogg": {
+      "file": "hires/sound/explosion_wall.df5da965.ogg",
+      "size": 24750,
+      "sha256": "df5da965cace1baa95c677e6f876ed0575ea492bc24e237b5b567f544fbb521a"
+    },
+    "sound/fire_burst_1.ogg": {
+      "file": "hires/sound/fire_burst_1.4c95e2f8.ogg",
+      "size": 21040,
+      "sha256": "4c95e2f8a47bef5d4c1a8b80c6e948716e4a53c80ca2b5ee99b69852448e886f"
+    },
+    "sound/fire_burst_2.ogg": {
+      "file": "hires/sound/fire_burst_2.e5ed926e.ogg",
+      "size": 17347,
+      "sha256": "e5ed926ecc5ac5c37bd29bea52ea092c96362920854ad25ba3f0e88a7c62e718"
+    },
+    "sound/gold_1.ogg": {
+      "file": "hires/sound/gold_1.02f1ccf6.ogg",
+      "size": 13754,
+      "sha256": "02f1ccf6bdf808ed7596ac3a8ae760fcccb0ed011d9deb693649cc7784ca4a71"
+    },
+    "sound/gold_2.ogg": {
+      "file": "hires/sound/gold_2.bcf880cf.ogg",
+      "size": 8667,
+      "sha256": "bcf880cf358c95db885d7adb42a8db6a7e9fd5df2e647e85230aed45f94a5d76"
+    },
+    "sound/golem_death_1.ogg": {
+      "file": "hires/sound/golem_death_1.38b415c6.ogg",
+      "size": 10126,
+      "sha256": "38b415c6e6353bde5481e3382f552c0d34bbe41786e6363c86a0589ff623fbd4"
+    },
+    "sound/golem_death_2.ogg": {
+      "file": "hires/sound/golem_death_2.1e4f0f23.ogg",
+      "size": 14142,
+      "sha256": "1e4f0f23b0c202b0c53411d485f1bd447538a42c46b88f5fcec67289ab65be84"
+    },
+    "sound/golem_grind_1.ogg": {
+      "file": "hires/sound/golem_grind_1.49cdb697.ogg",
+      "size": 8563,
+      "sha256": "49cdb697e20e9716dd3e2a0a942fe1a76a85802ff5ed1a8028df819f80aa298d"
+    },
+    "sound/golem_grind_2.ogg": {
+      "file": "hires/sound/golem_grind_2.b45dc1cd.ogg",
+      "size": 19951,
+      "sha256": "b45dc1cdd61465f9e0ef58ef6af3b1a55057c674d3a7ba1c3e88d07df76d7255"
+    },
+    "sound/golem_grind_3.ogg": {
+      "file": "hires/sound/golem_grind_3.78392c10.ogg",
+      "size": 16467,
+      "sha256": "78392c10ab5d60924e5fe8921a3869c7f89ba92a732a10f9b4b98defb14029b4"
+    },
+    "sound/golem_step_1.ogg": {
+      "file": "hires/sound/golem_step_1.110525b4.ogg",
+      "size": 8572,
+      "sha256": "110525b4a02cf982bf2c6659c0a5a1d1a7bf54988b3510c2e300db6b51e67008"
+    },
+    "sound/golem_step_2.ogg": {
+      "file": "hires/sound/golem_step_2.d4158a02.ogg",
+      "size": 7890,
+      "sha256": "d4158a02e6fd9c46ba8895f84cfa18ba9c3e26a86ab6881e11bf1f80c6fdca82"
+    },
+    "sound/gun_click.ogg": {
+      "file": "hires/sound/gun_click.38c26137.ogg",
+      "size": 7969,
+      "sha256": "38c2613701a554355bc8b306461144350b937468a2c11c3dc4a8e5a7e6604183"
+    },
+    "sound/gun_flint_1.ogg": {
+      "file": "hires/sound/gun_flint_1.bc82ce30.ogg",
+      "size": 8139,
+      "sha256": "bc82ce30c1b5015273cedad9b6eed47473ae473a15061169b0b67b899d4fbc6d"
+    },
+    "sound/gun_flint_2.ogg": {
+      "file": "hires/sound/gun_flint_2.95d23051.ogg",
+      "size": 8538,
+      "sha256": "95d23051ea373797bd6e3d418000d28e3a294bb9eec5c37d1a0a46b0d1367ecb"
+    },
+    "sound/gun_flint_3.ogg": {
+      "file": "hires/sound/gun_flint_3.77ae38dd.ogg",
+      "size": 8298,
+      "sha256": "77ae38dd232c9f95539eb0962f0a9ba472d5cd97b4611936cf76e9f8b1ed30e9"
+    },
+    "sound/gun_powder_1.ogg": {
+      "file": "hires/sound/gun_powder_1.fd51b4f3.ogg",
+      "size": 9136,
+      "sha256": "fd51b4f3a6dc2889f9648b04c181058903c3b10e2dae2d289bb48d19161c4cd9"
+    },
+    "sound/gun_powder_2.ogg": {
+      "file": "hires/sound/gun_powder_2.2f6f8e25.ogg",
+      "size": 10018,
+      "sha256": "2f6f8e25e6c404cf0acd437ed4ee0af640a0e36293ec9aa1ef1bac88a4b4fc7e"
+    },
+    "sound/gun_powder_3.ogg": {
+      "file": "hires/sound/gun_powder_3.4e9452c1.ogg",
+      "size": 10077,
+      "sha256": "4e9452c13d321d8492a74d3144049f8d6bac32b76e3f89a9c8504ac0e004bcc9"
+    },
+    "sound/hit_flesh_1.ogg": {
+      "file": "hires/sound/hit_flesh_1.75037e32.ogg",
+      "size": 7249,
+      "sha256": "75037e32156384012fd046e5555ebf311e91b50349e7762fe5f56fdf0e943dc4"
+    },
+    "sound/hit_flesh_2.ogg": {
+      "file": "hires/sound/hit_flesh_2.b65fdae8.ogg",
+      "size": 7124,
+      "sha256": "b65fdae81665731b6bd6262a889512025afb02b9fa0b58d575cf157f9d19d41d"
+    },
+    "sound/hit_flesh_3.ogg": {
+      "file": "hires/sound/hit_flesh_3.da43af7c.ogg",
+      "size": 8401,
+      "sha256": "da43af7c1f3c32689865f320104a5e5ec66d90293e4f5c7982680cf48f0fdc74"
+    },
+    "sound/hit_flesh_4.ogg": {
+      "file": "hires/sound/hit_flesh_4.59ab2a9c.ogg",
+      "size": 7604,
+      "sha256": "59ab2a9ca1c34a2064cb4f9dd14ac90967e02c4efa625a1855b8c9813ca2a397"
+    },
+    "sound/hit_heavy_1.ogg": {
+      "file": "hires/sound/hit_heavy_1.fad1055c.ogg",
+      "size": 9237,
+      "sha256": "fad1055c08608bf7537c27603d71fa53f0147ab5fec278eff3d3a160e9f7de4d"
+    },
+    "sound/hit_heavy_2.ogg": {
+      "file": "hires/sound/hit_heavy_2.3a0f67fa.ogg",
+      "size": 8501,
+      "sha256": "3a0f67fa46fc8656be63523c14092459a1303d7856dcf24b5d323a053bf7b2e2"
+    },
+    "sound/hit_metal_1.ogg": {
+      "file": "hires/sound/hit_metal_1.b327af93.ogg",
+      "size": 12352,
+      "sha256": "b327af934007d356bceb6603f09a71f3dd4b4dee3810eb01205f5d6fd43c4f39"
+    },
+    "sound/hit_metal_2.ogg": {
+      "file": "hires/sound/hit_metal_2.2b44e226.ogg",
+      "size": 12995,
+      "sha256": "2b44e2266ca478a6d4dca11fb34fa3e171781baef0266718b40a4eb673d777a0"
+    },
+    "sound/hit_metal_3.ogg": {
+      "file": "hires/sound/hit_metal_3.1754a4dd.ogg",
+      "size": 15421,
+      "sha256": "1754a4dd6ccf2908bbe4ee4bb3815c6c307ed4b7aa42a0c74e1f1d421e07bf3d"
+    },
+    "sound/hit_wood_1.ogg": {
+      "file": "hires/sound/hit_wood_1.ee5d0913.ogg",
+      "size": 5333,
+      "sha256": "ee5d091327d135eb489e84587170683dc6d5e08f6ab8f2bc00029de6cb958cef"
+    },
+    "sound/hit_wood_2.ogg": {
+      "file": "hires/sound/hit_wood_2.c92125bd.ogg",
+      "size": 5323,
+      "sha256": "c92125bdd42e5596f5b8f414caae1caddbc7e76b61c43c1cb8a4fa238ff0a67e"
+    },
+    "sound/iron_door.ogg": {
+      "file": "hires/sound/iron_door.bdb2d4e0.ogg",
+      "size": 12347,
+      "sha256": "bdb2d4e0e14bfa5f9c36b3c31b901b6f4d37c98f8b97449c8a4bf7be2c6d7995"
+    },
+    "sound/keys.ogg": {
+      "file": "hires/sound/keys.dc5cede1.ogg",
+      "size": 8382,
+      "sha256": "dc5cede147e234e72f8bd82d2612d10d08bdc38d7c552c5433f8920c608a3b1b"
+    },
+    "sound/metal_slam.ogg": {
+      "file": "hires/sound/metal_slam.e68b59be.ogg",
+      "size": 8758,
+      "sha256": "e68b59be0def1d9b8d4c142ff5e6d1dfc0ac40136ea21023051066eb2db29da7"
+    },
+    "sound/mon_bat_death_1.ogg": {
+      "file": "hires/sound/mon_bat_death_1.c42d7f26.ogg",
+      "size": 6464,
+      "sha256": "c42d7f265fbb0c6642c4dd6d20426b5855b7faff474005bc3f1f9dc85bdb63a2"
+    },
+    "sound/mon_bat_hurt_1.ogg": {
+      "file": "hires/sound/mon_bat_hurt_1.fc3e904d.ogg",
+      "size": 7391,
+      "sha256": "fc3e904d7ea5689fb000d9f0e0756209255233c18aa82abb352c67f75cb2c30a"
+    },
+    "sound/mon_bat_hurt_2.ogg": {
+      "file": "hires/sound/mon_bat_hurt_2.fb267ea9.ogg",
+      "size": 5304,
+      "sha256": "fb267ea9f14a8a1d9fa67512ce6e0831bd4f7326a7003edd1f793b4d3ae8d8e5"
+    },
+    "sound/mon_bat_vocal_1.ogg": {
+      "file": "hires/sound/mon_bat_vocal_1.0ebed0b9.ogg",
+      "size": 6734,
+      "sha256": "0ebed0b9cf132b6a3f1fa77bfa0256e09fc478eee26487efe1f4cb02f60ccc07"
+    },
+    "sound/mon_bat_vocal_2.ogg": {
+      "file": "hires/sound/mon_bat_vocal_2.1629c123.ogg",
+      "size": 6429,
+      "sha256": "1629c123c4d9fe42169168ffde7c080f010046317e2e595b5bbeafc2d54cae6a"
+    },
+    "sound/mon_beast_death_1.ogg": {
+      "file": "hires/sound/mon_beast_death_1.c5519d1b.ogg",
+      "size": 9847,
+      "sha256": "c5519d1b5dbac422a5aa49c4a5456e1048dfe9280b32df6c9b32932a8a948968"
+    },
+    "sound/mon_beast_hurt_1.ogg": {
+      "file": "hires/sound/mon_beast_hurt_1.303b01be.ogg",
+      "size": 6094,
+      "sha256": "303b01bee75ec77a4718ecb363ce78841501a33765bf7a49f18e3a95cc76acb0"
+    },
+    "sound/mon_beast_hurt_2.ogg": {
+      "file": "hires/sound/mon_beast_hurt_2.1de076e0.ogg",
+      "size": 7961,
+      "sha256": "1de076e0aac61be2760367756b0394898dfbe4123dc0c4d0be0f8a2e5f60be8c"
+    },
+    "sound/mon_beast_vocal_1.ogg": {
+      "file": "hires/sound/mon_beast_vocal_1.da693a4d.ogg",
+      "size": 8816,
+      "sha256": "da693a4d0d026cc98063667598912f8ae1a36886c58f1acbf9205616f7d5cc09"
+    },
+    "sound/mon_beast_vocal_2.ogg": {
+      "file": "hires/sound/mon_beast_vocal_2.36844c86.ogg",
+      "size": 7963,
+      "sha256": "36844c86967817aee97ec54fe07660a75301155072bff0d51d8c97444c94997c"
+    },
+    "sound/mon_drowned_death_1.ogg": {
+      "file": "hires/sound/mon_drowned_death_1.b1bfdf1b.ogg",
+      "size": 12621,
+      "sha256": "b1bfdf1b1b00dfde6a859a0615fbded155e6e8a457ff9bdf15f7be3251e876c3"
+    },
+    "sound/mon_drowned_hurt_1.ogg": {
+      "file": "hires/sound/mon_drowned_hurt_1.6e676af7.ogg",
+      "size": 7640,
+      "sha256": "6e676af73eac8ca00f11457f888bfd8690b76e8001ffa36ec1f19e4e9ee2fe59"
+    },
+    "sound/mon_drowned_hurt_2.ogg": {
+      "file": "hires/sound/mon_drowned_hurt_2.e96f2ab3.ogg",
+      "size": 7320,
+      "sha256": "e96f2ab35db514c32f83bc3b4a97ca74f790b0dbc175561a894cf15d72e01e5c"
+    },
+    "sound/mon_drowned_vocal_1.ogg": {
+      "file": "hires/sound/mon_drowned_vocal_1.82f2e88e.ogg",
+      "size": 9979,
+      "sha256": "82f2e88ea820ebb35f58985bbe8c8ad5f668d7f5fd691ad4145b05ab2d7b2384"
+    },
+    "sound/mon_drowned_vocal_2.ogg": {
+      "file": "hires/sound/mon_drowned_vocal_2.fd526c70.ogg",
+      "size": 13808,
+      "sha256": "fd526c7055858e8bc3b3d04b3986dff4b169721dfdbed0a6c4ef6b0e8721d15b"
+    },
+    "sound/mon_human_death_1.ogg": {
+      "file": "hires/sound/mon_human_death_1.53c95431.ogg",
+      "size": 9237,
+      "sha256": "53c95431decdea541fa97db31007e238fe133f6f772d6353b21bb5974e56d058"
+    },
+    "sound/mon_human_death_2.ogg": {
+      "file": "hires/sound/mon_human_death_2.53634f3b.ogg",
+      "size": 8087,
+      "sha256": "53634f3be6a3a8b149895f48fe7907e1bc950bf5c3a000a5b1cd271ed2838a95"
+    },
+    "sound/mon_human_hurt_1.ogg": {
+      "file": "hires/sound/mon_human_hurt_1.4b417ad8.ogg",
+      "size": 8125,
+      "sha256": "4b417ad83fdfb022f1ce523c0ce500c1cc27131365851635701eed1209a8a0e1"
+    },
+    "sound/mon_human_hurt_2.ogg": {
+      "file": "hires/sound/mon_human_hurt_2.56ab7b03.ogg",
+      "size": 8458,
+      "sha256": "56ab7b03f6a7d5fa70c51c4fd2839ad93d81fe2c65d13cf036853ea595f7da33"
+    },
+    "sound/mon_human_hurt_3.ogg": {
+      "file": "hires/sound/mon_human_hurt_3.6ade9ee4.ogg",
+      "size": 7999,
+      "sha256": "6ade9ee433dceaaaf4e5d714a648b0ed2c0c641c4ea3c248ff7e7729d833c427"
+    },
+    "sound/mon_human_vocal_1.ogg": {
+      "file": "hires/sound/mon_human_vocal_1.1b727084.ogg",
+      "size": 8597,
+      "sha256": "1b72708454431a60c3f5076b9586f54bc6ae0e590e4c27f88b7066d234dd2fba"
+    },
+    "sound/mon_human_vocal_2.ogg": {
+      "file": "hires/sound/mon_human_vocal_2.bc71a361.ogg",
+      "size": 9019,
+      "sha256": "bc71a36152139b0d663c4ef1dd4cb65b1d555235b0d41913da19f851a74ed449"
+    },
+    "sound/mon_spider_death_1.ogg": {
+      "file": "hires/sound/mon_spider_death_1.81e52fb5.ogg",
+      "size": 10355,
+      "sha256": "81e52fb53a50ec88bb6550471ab27a6d9ff4a62f0ba33c687bccdf7ff8acd571"
+    },
+    "sound/mon_spider_hurt_1.ogg": {
+      "file": "hires/sound/mon_spider_hurt_1.149e99f2.ogg",
+      "size": 7326,
+      "sha256": "149e99f2b2f40a04ae9c7a677858225a0809ba642a1a1a6c6f7ccec80275f4c0"
+    },
+    "sound/mon_spider_vocal_1.ogg": {
+      "file": "hires/sound/mon_spider_vocal_1.ce75b808.ogg",
+      "size": 8254,
+      "sha256": "ce75b808dfbfefb50f1cb42983ac9c2613099a5da259bf6627bd7547730fb765"
+    },
+    "sound/mon_spider_vocal_2.ogg": {
+      "file": "hires/sound/mon_spider_vocal_2.0233dc2e.ogg",
+      "size": 7960,
+      "sha256": "0233dc2ef701d90d00876e9ce4f0b8913550964ffcb16f2ffbd2cd89a966dff6"
+    },
+    "sound/mon_wraith_death_1.ogg": {
+      "file": "hires/sound/mon_wraith_death_1.afb40f64.ogg",
+      "size": 26049,
+      "sha256": "afb40f6488eada0baf26d1c19390af48c7b2887afc039bbd2a1d62516760e09e"
+    },
+    "sound/mon_wraith_hurt_1.ogg": {
+      "file": "hires/sound/mon_wraith_hurt_1.3b89a2ea.ogg",
+      "size": 9822,
+      "sha256": "3b89a2eac9d994f1d8986f48f0c40d8af0a6fe06dd7305e9b5a9b4e25a6543b5"
+    },
+    "sound/mon_wraith_vocal_1.ogg": {
+      "file": "hires/sound/mon_wraith_vocal_1.463a9d0a.ogg",
+      "size": 18095,
+      "sha256": "463a9d0a233db38e9d18b690ec8f10f0f7950cd0dc449658cc2af6adfa622ae4"
+    },
+    "sound/mon_wraith_vocal_2.ogg": {
+      "file": "hires/sound/mon_wraith_vocal_2.7d7ba01f.ogg",
+      "size": 21431,
+      "sha256": "7d7ba01f90551cd1f6d6fdeab817a48fb3cfd1eed2b44495f135821223f4b212"
+    },
+    "sound/pick_1.ogg": {
+      "file": "hires/sound/pick_1.9eaf4248.ogg",
+      "size": 14389,
+      "sha256": "9eaf4248634232782026f18c3f6d6fe58e82ffe34e6dfba7bd201f772001d91a"
+    },
+    "sound/pick_2.ogg": {
+      "file": "hires/sound/pick_2.b01d554d.ogg",
+      "size": 16302,
+      "sha256": "b01d554da396d6b13b2f75fe536a577a93c245d40b64796c00b16fcb55e2a64b"
+    },
+    "sound/pick_3.ogg": {
+      "file": "hires/sound/pick_3.b567c568.ogg",
+      "size": 14227,
+      "sha256": "b567c568635dfa38b7fe5b6acb35343e499365d1a379e19ac5e36f8f7509a085"
+    },
+    "sound/potion_open.ogg": {
+      "file": "hires/sound/potion_open.d798d585.ogg",
+      "size": 11432,
+      "sha256": "d798d585c716e263ddf2a4fac530fe3704157dda80ad053f8e7385624c63a539"
+    },
+    "sound/potion_swallow_1.ogg": {
+      "file": "hires/sound/potion_swallow_1.2ed72fe7.ogg",
+      "size": 7894,
+      "sha256": "2ed72fe7cbbdd7822ff9d97d69833942489871a6c01a90e82b2750a4fcb52b38"
+    },
+    "sound/potion_swallow_2.ogg": {
+      "file": "hires/sound/potion_swallow_2.05be1d03.ogg",
+      "size": 9113,
+      "sha256": "05be1d0375cd1b59fa9d4740912454bd6463814117796b19432a6544c149258f"
+    },
+    "sound/quake.ogg": {
+      "file": "hires/sound/quake.07e2b574.ogg",
+      "size": 38497,
+      "sha256": "07e2b57474a1b74a56cef23e2782643cdbe1d8937db1f23504fe1182836a985f"
+    },
+    "sound/rock_fall_1.ogg": {
+      "file": "hires/sound/rock_fall_1.509542d9.ogg",
+      "size": 11749,
+      "sha256": "509542d9e90b54bd051bae8b53c5cc79b010ce586e035fc1af0bac8b0344d437"
+    },
+    "sound/rock_fall_2.ogg": {
+      "file": "hires/sound/rock_fall_2.0350772f.ogg",
+      "size": 10954,
+      "sha256": "0350772fad5db320a12d8ab4c813f20d717f7fad04ab753f6126ee035347cb91"
+    },
+    "sound/splash_1.ogg": {
+      "file": "hires/sound/splash_1.da19dffe.ogg",
+      "size": 20051,
+      "sha256": "da19dffe902d876f93e95e69995aa9bc09c00a78de120ac6421653968828f21c"
+    },
+    "sound/splash_2.ogg": {
+      "file": "hires/sound/splash_2.8b44b873.ogg",
+      "size": 17600,
+      "sha256": "8b44b8736e3b98b67f3cd934318bb428d46eb8c5b2fdc694508b603d7b01f383"
+    },
+    "sound/stake_fire.ogg": {
+      "file": "hires/sound/stake_fire.ccab3969.ogg",
+      "size": 35734,
+      "sha256": "ccab3969d4bb70907dcad461ffb2a29981ac87ff6e01888c34a2fd5e30856cf1"
+    },
+    "sound/step_sand_1.ogg": {
+      "file": "hires/sound/step_sand_1.e578ddcf.ogg",
+      "size": 8450,
+      "sha256": "e578ddcf6c12740f179ea213a80d8e502b51fbaaf0084bf8f86dc84afc16d162"
+    },
+    "sound/step_sand_2.ogg": {
+      "file": "hires/sound/step_sand_2.f7a6a9f9.ogg",
+      "size": 8089,
+      "sha256": "f7a6a9f90d0775ec5470f5782a59e8a54b7c5ef9177e57df055861839cd2d5bc"
+    },
+    "sound/step_sand_3.ogg": {
+      "file": "hires/sound/step_sand_3.c814386c.ogg",
+      "size": 7336,
+      "sha256": "c814386c2649bdfda5c5c7a61f6081c28b16238f7f18e9ae8af24e4919152eba"
+    },
+    "sound/step_sand_4.ogg": {
+      "file": "hires/sound/step_sand_4.40b15862.ogg",
+      "size": 7431,
+      "sha256": "40b158628ab02197323f02543026d1dd8c1064ca27235985a232df12f25a1198"
+    },
+    "sound/step_stone_1.ogg": {
+      "file": "hires/sound/step_stone_1.eee9adef.ogg",
+      "size": 7519,
+      "sha256": "eee9adefef77d6ea95e669a768de2bfbf3f8f292a8765c9080e97f4ab218229a"
+    },
+    "sound/step_stone_2.ogg": {
+      "file": "hires/sound/step_stone_2.ce017c6c.ogg",
+      "size": 7280,
+      "sha256": "ce017c6c0b372bc2df02dc35234d30f7b392c35a2e334dbb6b88afd1ee14eaf0"
+    },
+    "sound/step_stone_3.ogg": {
+      "file": "hires/sound/step_stone_3.bc3a7899.ogg",
+      "size": 7294,
+      "sha256": "bc3a78992b9317fe71c9f11428f6d0efd60d01598aa321cbe2fb1cd92d9fac7d"
+    },
+    "sound/step_stone_4.ogg": {
+      "file": "hires/sound/step_stone_4.b0362727.ogg",
+      "size": 7319,
+      "sha256": "b0362727f47cbd20dcf5dd47305345fa8473c4acd2f7699eb69998e203412b10"
+    },
+    "sound/step_wood_1.ogg": {
+      "file": "hires/sound/step_wood_1.8ca55465.ogg",
+      "size": 6209,
+      "sha256": "8ca55465ae1f2eafb3d37bea8b54a38895f04645044af5abc274fd11081d75f0"
+    },
+    "sound/step_wood_2.ogg": {
+      "file": "hires/sound/step_wood_2.f3e437c3.ogg",
+      "size": 6534,
+      "sha256": "f3e437c386f30175d4df62e48e551e557fbce3db0070027f8b9ad924caf0cf28"
+    },
+    "sound/step_wood_3.ogg": {
+      "file": "hires/sound/step_wood_3.be4997af.ogg",
+      "size": 6696,
+      "sha256": "be4997af860d48ce95dac276245370b091a85d7872eae6aa91e756aea295e0f1"
+    },
+    "sound/step_wood_4.ogg": {
+      "file": "hires/sound/step_wood_4.8c6e0d3d.ogg",
+      "size": 6673,
+      "sha256": "8c6e0d3dddab29f7320131220741421bcd77724a61420f474d207c12a9935a70"
+    },
+    "sound/swing_heavy_1.ogg": {
+      "file": "hires/sound/swing_heavy_1.04eb6bf7.ogg",
+      "size": 5605,
+      "sha256": "04eb6bf7849627927f3def200fbae5cbdecbf1ed4ab285bb48ef5b3ac96e69a7"
+    },
+    "sound/swing_heavy_2.ogg": {
+      "file": "hires/sound/swing_heavy_2.b7dcab88.ogg",
+      "size": 5625,
+      "sha256": "b7dcab88e36651a5e90d8f2322be1a955d97825bfcef820379a26edad7edb38c"
+    },
+    "sound/swing_heavy_3.ogg": {
+      "file": "hires/sound/swing_heavy_3.336d5a62.ogg",
+      "size": 5191,
+      "sha256": "336d5a622f8ba7b300c4b4b0a3abab7c8b77d1b36c621a4d0120fb8ca2947a93"
+    },
+    "sound/swing_light_1.ogg": {
+      "file": "hires/sound/swing_light_1.01fa8b48.ogg",
+      "size": 5104,
+      "sha256": "01fa8b4897c189fa755fc2a3822d519f6b6f46a5015c4625c78d706088fd2287"
+    },
+    "sound/swing_light_2.ogg": {
+      "file": "hires/sound/swing_light_2.dcf59633.ogg",
+      "size": 4931,
+      "sha256": "dcf59633d99e0cb345261b93931b548afde7a93f3ac8afb4f65fb9426a38c673"
+    },
+    "sound/swing_light_3.ogg": {
+      "file": "hires/sound/swing_light_3.13f22162.ogg",
+      "size": 5179,
+      "sha256": "13f22162ccbfac3e6ee8713ef162e5ef2171a9310d7f44938339bd65519f607b"
+    },
+    "sound/swing_light_4.ogg": {
+      "file": "hires/sound/swing_light_4.f59fb94e.ogg",
+      "size": 5265,
+      "sha256": "f59fb94e4bfb05556c6d330564bd20ebe47ea227c3a2bf546c2bf0bbba4d6037"
+    },
+    "sound/ui_blade.ogg": {
+      "file": "hires/sound/ui_blade.4c363beb.ogg",
+      "size": 7237,
+      "sha256": "4c363bebe58ad1709f5b1683cd397aaddda701d5c8c35514d131e76ee235d7ea"
+    },
+    "sound/ui_book.ogg": {
+      "file": "hires/sound/ui_book.d27735da.ogg",
+      "size": 6019,
+      "sha256": "d27735da03a6471c8782633dd1d009a8b3335c29773b4cbe0e7873ae1a24674f"
+    },
+    "sound/ui_click_1.ogg": {
+      "file": "hires/sound/ui_click_1.de196509.ogg",
+      "size": 5078,
+      "sha256": "de196509870df4ef9baf1378720df692a55ff59d25ee04b1b2fe68c104bd0e7a"
+    },
+    "sound/ui_click_2.ogg": {
+      "file": "hires/sound/ui_click_2.a1c893e0.ogg",
+      "size": 4808,
+      "sha256": "a1c893e0a83f8af12e628dddab506b68931b5011305c0a3bd48f5990f3bb9721"
+    },
+    "sound/ui_close.ogg": {
+      "file": "hires/sound/ui_close.0e59a240.ogg",
+      "size": 6200,
+      "sha256": "0e59a2405b47482078f916274f28ea631340831bfec15458d638971f751a9826"
+    },
+    "sound/ui_confirm.ogg": {
+      "file": "hires/sound/ui_confirm.3fd61f22.ogg",
+      "size": 7377,
+      "sha256": "3fd61f220dd513e60a2fb833d39c8b05a888acdb845f3a2abb6aeaecc68e4a26"
+    },
+    "sound/ui_drop.ogg": {
+      "file": "hires/sound/ui_drop.c42686d8.ogg",
+      "size": 5124,
+      "sha256": "c42686d89c5ad3d06f5ef746f857a7f31bcc198b7e741db26d03f90b7750dbfd"
+    },
+    "sound/ui_equip_1.ogg": {
+      "file": "hires/sound/ui_equip_1.a307b599.ogg",
+      "size": 7030,
+      "sha256": "a307b599f62bf9d2569ac72c99e9676ef13c4ab7cc5fba8a9cb1394731242da6"
+    },
+    "sound/ui_equip_2.ogg": {
+      "file": "hires/sound/ui_equip_2.f2f1eeab.ogg",
+      "size": 6999,
+      "sha256": "f2f1eeabc3f4eed1db0c8d5c47bae572385c691495e0ec61e0ce125bf2345ba2"
+    },
+    "sound/ui_equip_metal.ogg": {
+      "file": "hires/sound/ui_equip_metal.3466e5d0.ogg",
+      "size": 6809,
+      "sha256": "3466e5d079f47e5ab4a8c5b932808941e64a7bf98fcbfd1cc1bfc9551a164383"
+    },
+    "sound/ui_error.ogg": {
+      "file": "hires/sound/ui_error.d8f40ee3.ogg",
+      "size": 5274,
+      "sha256": "d8f40ee34cf4f369ce15eaadfeadff691a1dd6c9daf2cfe4dda84cdb131ac535"
+    },
+    "sound/ui_hover.ogg": {
+      "file": "hires/sound/ui_hover.63741bd4.ogg",
+      "size": 4439,
+      "sha256": "63741bd436ec85695148704ee30a800fc8f98720533273eafdb8d712b20c789b"
+    },
+    "sound/ui_open.ogg": {
+      "file": "hires/sound/ui_open.254267fb.ogg",
+      "size": 5859,
+      "sha256": "254267fb202c65afc617f09732a3b9f0d41e3a133de2a278d56d9e6971e9e029"
+    },
+    "sound/ui_page.ogg": {
+      "file": "hires/sound/ui_page.a14764de.ogg",
+      "size": 10889,
+      "sha256": "a14764de08e47b69338f4cc05da8dee745407b336556ed8bf835646d7dab5cd8"
+    },
+    "sound/ui_pickup.ogg": {
+      "file": "hires/sound/ui_pickup.5d2841ab.ogg",
+      "size": 7579,
+      "sha256": "5d2841ab1b5fac9654e31d471ecf64432acfd339cf9c308fc6d5c9b56b5b3770"
+    },
+    "sound/ui_socket.ogg": {
+      "file": "hires/sound/ui_socket.e9643a12.ogg",
+      "size": 4596,
+      "sha256": "e9643a12aa8f40eaf8b8adb6d07bc0453fc010ea6e8d8fb19d78db3401dd9000"
+    },
+    "sound/ui_switch.ogg": {
+      "file": "hires/sound/ui_switch.d1a9481f.ogg",
+      "size": 5753,
+      "sha256": "d1a9481f51e80e86768dc5db198a3ce1749ce540347832cbb05ffd97b347ba1e"
+    },
+    "sound/wave_1.ogg": {
+      "file": "hires/sound/wave_1.42a35848.ogg",
+      "size": 20682,
+      "sha256": "42a35848f74bf52fda3691e56def06778953af773011585a1b54771b285daaae"
+    },
+    "sound/wave_2.ogg": {
+      "file": "hires/sound/wave_2.37a3a5aa.ogg",
+      "size": 36729,
+      "sha256": "37a3a5aa3c5686bb4c10977ed724493072de952c8081a2673a3eab4941aa71ef"
+    },
+    "sound/wave_3.ogg": {
+      "file": "hires/sound/wave_3.52875f57.ogg",
+      "size": 26638,
+      "sha256": "52875f5754c6001e0abd99054fb76c6cb63faf71a5cceb607b5976770b438133"
+    },
+    "sound/wave_4.ogg": {
+      "file": "hires/sound/wave_4.5810107f.ogg",
+      "size": 24004,
+      "sha256": "5810107fe2a3a320210b9cb7a5984042d3253759bbdf417fc5d307f4cc713b59"
+    },
+    "sound/wreck_crash.ogg": {
+      "file": "hires/sound/wreck_crash.867bc087.ogg",
+      "size": 34909,
+      "sha256": "867bc0875dcd2b8787a0947961244009007fb8d95ebabfe412e35dd4c66c0516"
+    }
+  }
+}
