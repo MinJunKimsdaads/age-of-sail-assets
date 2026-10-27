@@ -261,6 +261,16 @@
       "size": 34526,
       "sha256": "7e2a9c1a3266d4e55887325c5f14b97bdf43934236ce1467dc153f2e9df6f871"
     },
+    "hr_catacomb_skulls.png": {
+      "file": "hires/hr_catacomb_skulls.ebf09784.png",
+      "size": 19893,
+      "sha256": "ebf09784927ebf0272709a6b39a0745997e5a558e57ad43db90d3d74b8203c17"
+    },
+    "hr_catacomb_wall.png": {
+      "file": "hires/hr_catacomb_wall.0f9156fd.png",
+      "size": 156057,
+      "sha256": "0f9156fd003e01391ad78e21b6ec66a6f8b7a251ed350fde49bf4c2dae703113"
+    },
     "hr_cave_crevice.png": {
       "file": "hires/hr_cave_crevice.7d196574.png",
       "size": 77294,
@@ -1236,6 +1246,21 @@
       "size": 1317869,
       "sha256": "6a243c088f926e8bafecc1b22b89b03a2f2aadc6a1b5ca091fedce3c1ae2b4e6"
     },
+    "hr_ground_catacomb_dry.png": {
+      "file": "hires/hr_ground_catacomb_dry.b47880e4.png",
+      "size": 349384,
+      "sha256": "b47880e4709722e01cc579a50ae65b038778ffabe371999b57cf77a19abd875d"
+    },
+    "hr_ground_catacomb_pebble.png": {
+      "file": "hires/hr_ground_catacomb_pebble.51a72135.png",
+      "size": 444480,
+      "sha256": "51a72135782f3debd1802edbf908220f58eff43faf0b938985a5ea879ae1b234"
+    },
+    "hr_ground_catacomb_wet.png": {
+      "file": "hires/hr_ground_catacomb_wet.2b0a0356.png",
+      "size": 395414,
+      "sha256": "2b0a0356f909037e193b879cacb3ce4604b4abb324c4f1da342c1adb0265550c"
+    },
     "hr_ground_cave_dry.png": {
       "file": "hires/hr_ground_cave_dry.e176c50d.png",
       "size": 1447512,
@@ -1596,6 +1621,41 @@
       "size": 1323483,
       "sha256": "754a3609c90f297e407385247537c827dba8cbeebc676aaa204b711dacbdf5bd"
     },
+    "hr_iron_mask_attack.png": {
+      "file": "hires/hr_iron_mask_attack.f491b873.png",
+      "size": 1074959,
+      "sha256": "f491b8737093e6c097bd2aa2837faf1758ebac1de991b187885ff905491328eb"
+    },
+    "hr_iron_mask_cast.png": {
+      "file": "hires/hr_iron_mask_cast.2190aedb.png",
+      "size": 1242343,
+      "sha256": "2190aedb8f16a2a639d9016977dcf30c9331d0d2fd81715c355bce0907a14e4b"
+    },
+    "hr_iron_mask_death.png": {
+      "file": "hires/hr_iron_mask_death.8b6cde20.png",
+      "size": 1384690,
+      "sha256": "8b6cde204c09a8dd40d623787878d609c2c22086dcd0343ddb47330ec913d487"
+    },
+    "hr_iron_mask_idle.png": {
+      "file": "hires/hr_iron_mask_idle.88d4c026.png",
+      "size": 504111,
+      "sha256": "88d4c026021ee54618fb2cb0dd5f04a61a7b675d5d8b8b23091737df77991b39"
+    },
+    "hr_iron_mask_pistol.png": {
+      "file": "hires/hr_iron_mask_pistol.16d5666c.png",
+      "size": 1050203,
+      "sha256": "16d5666c42e6ed12c3ac2aabebfa5d9c72cabdd4403d4684f75ce92478ac5876"
+    },
+    "hr_iron_mask_throw.png": {
+      "file": "hires/hr_iron_mask_throw.40203677.png",
+      "size": 1302376,
+      "sha256": "40203677be8c645f59c801fe719b55ee70a2e5b57364f0d6afdc87703ae09cb8"
+    },
+    "hr_iron_mask_walk.png": {
+      "file": "hires/hr_iron_mask_walk.2ecd1b80.png",
+      "size": 1300372,
+      "sha256": "2ecd1b808b18ff70057162a6ebd7d4b8cf178961efb7ffdcada8c9a1b361b1d0"
+    },
     "hr_item_abyss_key.png": {
       "file": "hires/hr_item_abyss_key.117e6737.png",
       "size": 5746,
@@ -1610,6 +1670,16 @@
       "file": "hires/hr_item_abyss_key_2_ground.4ecf513f.png",
       "size": 1036,
       "sha256": "4ecf513fe79192874f92ba94275f526ded3ed24b7984fd7825a7bff350fca7e8"
+    },
+    "hr_item_abyss_key_3.png": {
+      "file": "hires/hr_item_abyss_key_3.2ae2c8d3.png",
+      "size": 5742,
+      "sha256": "2ae2c8d324dab27d816301b07ab12d6f7d443fb778c623bfab512f638372159d"
+    },
+    "hr_item_abyss_key_3_ground.png": {
+      "file": "hires/hr_item_abyss_key_3_ground.6f6c4b45.png",
+      "size": 1106,
+      "sha256": "6f6c4b455cec21860fbb8f76616e07a46b3cd357afe09e592da4c21fa43d8b04"
     },
     "hr_item_abyss_key_ground.png": {
       "file": "hires/hr_item_abyss_key_ground.504dc36a.png",
@@ -2051,6 +2121,36 @@
       "size": 1474,
       "sha256": "ef1033202431ce8be75b6c6dfe00030df1b68114278ff79917ba7c07a98c3c69"
     },
+    "hr_item_s_musk_cassock.png": {
+      "file": "hires/hr_item_s_musk_cassock.194bcec7.png",
+      "size": 81887,
+      "sha256": "194bcec79038eb5b6d73e5105b20cb1363dc543005ec512a0fc95f6fb77c6112"
+    },
+    "hr_item_s_musk_cassock_ground.png": {
+      "file": "hires/hr_item_s_musk_cassock_ground.26abf3f2.png",
+      "size": 2584,
+      "sha256": "26abf3f2f8743d70911a9624256a22cefaa698f37357006af8239e4c42b26677"
+    },
+    "hr_item_s_musk_hat.png": {
+      "file": "hires/hr_item_s_musk_hat.aab9811b.png",
+      "size": 32930,
+      "sha256": "aab9811b07957e72c498d017a5bd520b1f9a782d5ce30d8cf08eb5e040f3984c"
+    },
+    "hr_item_s_musk_hat_ground.png": {
+      "file": "hires/hr_item_s_musk_hat_ground.40768094.png",
+      "size": 1127,
+      "sha256": "40768094c4fab8c9765d69751108b1cd27220c4f740aad00fe33000ccab2be78"
+    },
+    "hr_item_s_musk_musket.png": {
+      "file": "hires/hr_item_s_musk_musket.d7f0d46b.png",
+      "size": 15552,
+      "sha256": "d7f0d46bf03a94f29468397145a59d3c047f4fb7beb126654c3db15e81efdab9"
+    },
+    "hr_item_s_musk_musket_ground.png": {
+      "file": "hires/hr_item_s_musk_musket_ground.8eeb4f33.png",
+      "size": 2799,
+      "sha256": "8eeb4f3338cc04c5ad8a4a144db8195e39c49cd8ec27bf4436cb1cb5736b7fc0"
+    },
     "hr_item_sailor_clothes.png": {
       "file": "hires/hr_item_sailor_clothes.c6ab5211.png",
       "size": 63822,
@@ -2221,6 +2321,16 @@
       "size": 1148,
       "sha256": "1d6146d836002b9d9bfff2d73d4be1367221654eebfef9ccc71e10d100e5293d"
     },
+    "hr_item_u_black_knight_plate.png": {
+      "file": "hires/hr_item_u_black_knight_plate.3a8ebe14.png",
+      "size": 57179,
+      "sha256": "3a8ebe14499961da4dd750cb3c16bb1590792fa587aea520406ea5282afcca01"
+    },
+    "hr_item_u_black_knight_plate_ground.png": {
+      "file": "hires/hr_item_u_black_knight_plate_ground.a5c67691.png",
+      "size": 2645,
+      "sha256": "a5c67691e301dfad60b081716338d68a9800c63b5bfe2d4320ea85a28077a381"
+    },
     "hr_item_u_blackbeard_fang.png": {
       "file": "hires/hr_item_u_blackbeard_fang.d61c3404.png",
       "size": 10022,
@@ -2261,6 +2371,16 @@
       "size": 1489,
       "sha256": "538d8fce73f43e027d8f3e14673a99b28e44754119e4cc607b48d20ad200411f"
     },
+    "hr_item_u_gascon_rapier.png": {
+      "file": "hires/hr_item_u_gascon_rapier.ad836d46.png",
+      "size": 7847,
+      "sha256": "ad836d469e386cb352707b655dcf8417581a0d60e44d27d0abaedde24ee2ae24"
+    },
+    "hr_item_u_gascon_rapier_ground.png": {
+      "file": "hires/hr_item_u_gascon_rapier_ground.e9cc97a1.png",
+      "size": 2185,
+      "sha256": "e9cc97a134309206b00895c0f901e37f21a112b084ea11c2452a95e41b89f711"
+    },
     "hr_item_u_hernan_ambition.png": {
       "file": "hires/hr_item_u_hernan_ambition.f6e6ca7c.png",
       "size": 63812,
@@ -2270,6 +2390,26 @@
       "file": "hires/hr_item_u_hernan_ambition_ground.f019ef53.png",
       "size": 2689,
       "sha256": "f019ef5310da23adc2ba3e6cbb9290657c5d275560e82aff5da5958df97c3347"
+    },
+    "hr_item_u_iron_mask_pistol.png": {
+      "file": "hires/hr_item_u_iron_mask_pistol.2d7a8323.png",
+      "size": 6290,
+      "sha256": "2d7a8323ca8788b677c040b43e18c60bebfe073ade0264fa3f655cd06a88c382"
+    },
+    "hr_item_u_iron_mask_pistol_ground.png": {
+      "file": "hires/hr_item_u_iron_mask_pistol_ground.31a67a13.png",
+      "size": 1695,
+      "sha256": "31a67a133a936a0cd47a97ebb71acd676898a9ba94dc97adfb708b759532f3ba"
+    },
+    "hr_item_u_melusine_tear.png": {
+      "file": "hires/hr_item_u_melusine_tear.c7d6efe6.png",
+      "size": 4942,
+      "sha256": "c7d6efe6bbdb7f418d59e39b01fad106097e31f143dd74c8023f1b80332e913d"
+    },
+    "hr_item_u_melusine_tear_ground.png": {
+      "file": "hires/hr_item_u_melusine_tear_ground.4fbecf4f.png",
+      "size": 1604,
+      "sha256": "4fbecf4f53a93b6cf1776d83efdd74123e27faeb5b1cd6f239c8c490c64be62c"
     },
     "hr_item_u_moon_tide.png": {
       "file": "hires/hr_item_u_moon_tide.682f99df.png",
@@ -2321,6 +2461,16 @@
       "size": 1864,
       "sha256": "a3c7100a67e844883bc0d5ea0251ccda373a9e0622d61a8b5fea0764fb8b8857"
     },
+    "hr_item_u_siren_song.png": {
+      "file": "hires/hr_item_u_siren_song.1fee1d73.png",
+      "size": 10259,
+      "sha256": "1fee1d73b2e798d86d9de2be7bf83ad3a27298c1be6a0eb32b1a75939b3a465b"
+    },
+    "hr_item_u_siren_song_ground.png": {
+      "file": "hires/hr_item_u_siren_song_ground.4a2d8e9a.png",
+      "size": 1639,
+      "sha256": "4a2d8e9ac282e1b7ace070e6b0a5b0531bb781160ac8bc445d74aea8028ecf6c"
+    },
     "hr_item_u_st_elmo_fire.png": {
       "file": "hires/hr_item_u_st_elmo_fire.b7094255.png",
       "size": 11986,
@@ -2350,6 +2500,36 @@
       "file": "hires/hr_item_u_vasco_baton_ground.952deb7a.png",
       "size": 1166,
       "sha256": "952deb7a011a34ca6c4770ae8d47e7b228b2c5c69b099bc75229fd494e237430"
+    },
+    "hr_item_u_vintage_alembic.png": {
+      "file": "hires/hr_item_u_vintage_alembic.b4ba9662.png",
+      "size": 13941,
+      "sha256": "b4ba96622fd9c1b1f5d04d213836909a2138b3e3173da9e50d50a6d2bb0f0518"
+    },
+    "hr_item_u_vintage_alembic_ground.png": {
+      "file": "hires/hr_item_u_vintage_alembic_ground.36605eef.png",
+      "size": 1237,
+      "sha256": "36605eef601d13354a056d1a8ad5de32e1caefca14af039cb4dc0661baa8449a"
+    },
+    "hr_item_u_witch_lantern.png": {
+      "file": "hires/hr_item_u_witch_lantern.3266a5c3.png",
+      "size": 12972,
+      "sha256": "3266a5c3c2f80776a30e0608aa2f0b86c35a531e798630f6b2aa2a3d8ba371e3"
+    },
+    "hr_item_u_witch_lantern_ground.png": {
+      "file": "hires/hr_item_u_witch_lantern_ground.320f3fe0.png",
+      "size": 4903,
+      "sha256": "320f3fe071a865b94feb14d648f9744e45f73aa0ea5d4de6a49d179fb7c11398"
+    },
+    "hr_item_u_wolf_lord_pelt.png": {
+      "file": "hires/hr_item_u_wolf_lord_pelt.ddaf24a1.png",
+      "size": 32293,
+      "sha256": "ddaf24a1cd83dce43b2d0fd1e5c941d2bd03cae5218249ba93f5f0d849031be4"
+    },
+    "hr_item_u_wolf_lord_pelt_ground.png": {
+      "file": "hires/hr_item_u_wolf_lord_pelt_ground.566b7bf6.png",
+      "size": 3358,
+      "sha256": "566b7bf64b6dc44029899ad80839f419065cc52b254e5f7fcef4d86e0907ea14"
     },
     "hr_item_wolf_fang.png": {
       "file": "hires/hr_item_wolf_fang.42552609.png",
@@ -3766,6 +3946,16 @@
       "size": 216258,
       "sha256": "8edae952e33cab840313c18fc614c5b54d67ff427bc8781443eb2b170b5f5975"
     },
+    "atlas/w_catacomb_0.ktx2": {
+      "file": "hires/atlas/w_catacomb_0.e4b440b4.ktx2",
+      "size": 3180141,
+      "sha256": "e4b440b4c7eb0c03dd455c0be11aff5f5e285d721b82a24813dc545edabc6ba0"
+    },
+    "atlas/w_catacomb_1.ktx2": {
+      "file": "hires/atlas/w_catacomb_1.abf93821.ktx2",
+      "size": 2486204,
+      "sha256": "abf93821230256c1a28c4a8bf5d281c0eb66c55e08fceb5e7b04bb9c21850462"
+    },
     "atlas/w_cave_0.ktx2": {
       "file": "hires/atlas/w_cave_0.734eccfb.ktx2",
       "size": 3907590,
@@ -3972,29 +4162,29 @@
       "sha256": "5ec431e361e498a509b15ba6276dba0819f4ca77802b5b2c6ec006437bc089a9"
     },
     "atlas/world_0.ktx2": {
-      "file": "hires/atlas/world_0.5a0cd8cb.ktx2",
-      "size": 3979920,
-      "sha256": "5a0cd8cb5fbb2685470f1734168100bde0f5b53df216f9e34719362a3fc1b43c"
+      "file": "hires/atlas/world_0.fdc53b2f.ktx2",
+      "size": 3903303,
+      "sha256": "fdc53b2f3726d3b484416fea2236eab525fc70515e039cb9c8b11041f43d2a60"
     },
     "atlas/world_1.ktx2": {
-      "file": "hires/atlas/world_1.d5193e62.ktx2",
-      "size": 4239048,
-      "sha256": "d5193e6237b3f4df2d3bb2fab6a5329949130406a2482e91ed3e02420b582ea0"
+      "file": "hires/atlas/world_1.a124a376.ktx2",
+      "size": 4420509,
+      "sha256": "a124a3768041af8548ade1db5ae5f2aed9f3e97b0ae6acf2b88f60af487a4ad0"
     },
     "atlas/world_2.ktx2": {
-      "file": "hires/atlas/world_2.63d8d82e.ktx2",
-      "size": 3778384,
-      "sha256": "63d8d82ea610905ded67f6f46936180464f7cd69db12315fe35b530ec3451f30"
+      "file": "hires/atlas/world_2.29c289a8.ktx2",
+      "size": 3752819,
+      "sha256": "29c289a8e1fd8679f611a331b1ca63bb5a918839e34595b4af1b2842513aac01"
     },
     "atlas/world_3.ktx2": {
-      "file": "hires/atlas/world_3.7f0747b2.ktx2",
-      "size": 4023295,
-      "sha256": "7f0747b241be9aa13ab98849e6e69613032de69d8ad3d9fe7fbeb90864a0a0b2"
+      "file": "hires/atlas/world_3.d67860f5.ktx2",
+      "size": 3889226,
+      "sha256": "d67860f58fff4a906bdc2e8c63c9baa4f74671dc60de6b68ca2cb011bec2f631"
     },
     "atlas/world_4.ktx2": {
-      "file": "hires/atlas/world_4.319de378.ktx2",
-      "size": 1672503,
-      "sha256": "319de3783956662b262d0677f60988aa5d2339350887fa12fcd686ac4f63b025"
+      "file": "hires/atlas/world_4.be91732c.ktx2",
+      "size": 1963693,
+      "sha256": "be91732c7b62c6d0d3ccb9139072625c88cd7d6e1bf0ed044863593cdfa8faa9"
     },
     "sound/acid_sizzle_1.ogg": {
       "file": "hires/sound/acid_sizzle_1.68c41a58.ogg",
@@ -5256,6 +5446,16 @@
       "size": 786,
       "sha256": "8ce244f6845395c114780506ffeb7f03b03fbe3fd45652e357b5aff75086ca10"
     },
+    "pixel/px_catacomb_skulls.png": {
+      "file": "hires/pixel/px_catacomb_skulls.84ad2ae6.png",
+      "size": 787,
+      "sha256": "84ad2ae69ee43be9fb32290f679ddfdf0bb49f91158a4a1652bfed6a0bc4be6e"
+    },
+    "pixel/px_catacomb_wall.png": {
+      "file": "hires/pixel/px_catacomb_wall.5af8972f.png",
+      "size": 2611,
+      "sha256": "5af8972f66498ffdf94ae7b994dcb0a4545948ea145af2d6dc352ef307dc37cb"
+    },
     "pixel/px_cave_crevice.png": {
       "file": "hires/pixel/px_cave_crevice.caa7c47d.png",
       "size": 3044,
@@ -6230,6 +6430,21 @@
       "file": "hires/pixel/px_ground_camp_wet.201d81a4.png",
       "size": 73402,
       "sha256": "201d81a425450480aa52b1b49b535e63e4bde43423c01d2f57d432b87dc3641c"
+    },
+    "pixel/px_ground_catacomb_dry.png": {
+      "file": "hires/pixel/px_ground_catacomb_dry.1344f925.png",
+      "size": 48708,
+      "sha256": "1344f92538f6a0e3236ebc141cfac71b86204ee2fa85fc267772d26e0b1b73ed"
+    },
+    "pixel/px_ground_catacomb_pebble.png": {
+      "file": "hires/pixel/px_ground_catacomb_pebble.61688392.png",
+      "size": 60084,
+      "sha256": "6168839290aa2d8a9d2d99da293ef213f83265655d35f0c86c1f54875178b02d"
+    },
+    "pixel/px_ground_catacomb_wet.png": {
+      "file": "hires/pixel/px_ground_catacomb_wet.a0a6c307.png",
+      "size": 60121,
+      "sha256": "a0a6c307fa50f09314811892061d2442017fe131ddc077aec53ba3bc28782829"
     },
     "pixel/px_ground_cave_dry.png": {
       "file": "hires/pixel/px_ground_cave_dry.6a9d5279.png",
@@ -12031,6 +12246,41 @@
       "size": 39511,
       "sha256": "914b79d06ee55f27eac7aca535bbb3b656c8e95ce89cf6a5959ea48cf881d562"
     },
+    "pixel/px_iron_mask_attack.png": {
+      "file": "hires/pixel/px_iron_mask_attack.535e1a91.png",
+      "size": 47952,
+      "sha256": "535e1a913df326157547cbedecfd833177e96b941530991d682d8ad475e5fcef"
+    },
+    "pixel/px_iron_mask_cast.png": {
+      "file": "hires/pixel/px_iron_mask_cast.531f4dd0.png",
+      "size": 49150,
+      "sha256": "531f4dd07c766ec3e33055dbf9e97c86e67e159597f2cebc0ee97a16b00c8b4a"
+    },
+    "pixel/px_iron_mask_death.png": {
+      "file": "hires/pixel/px_iron_mask_death.bd7a84da.png",
+      "size": 62310,
+      "sha256": "bd7a84da7ceaacbdcd2f25496a29742137987b3f9ab70fa21c3f9e50fa300aea"
+    },
+    "pixel/px_iron_mask_idle.png": {
+      "file": "hires/pixel/px_iron_mask_idle.22b1d4a1.png",
+      "size": 18397,
+      "sha256": "22b1d4a14a946c3a28327fcdb015154a57a84a2ae3d7711ddca22bdb377c4874"
+    },
+    "pixel/px_iron_mask_pistol.png": {
+      "file": "hires/pixel/px_iron_mask_pistol.d9e8dec9.png",
+      "size": 42071,
+      "sha256": "d9e8dec90fabc1a2e08af93b3d73a628d9305d0a979d0beb2478e963f510c081"
+    },
+    "pixel/px_iron_mask_throw.png": {
+      "file": "hires/pixel/px_iron_mask_throw.392dd337.png",
+      "size": 51363,
+      "sha256": "392dd337ed88482860ddbf0f0231abac506cc973665eba247f741352bf7284b7"
+    },
+    "pixel/px_iron_mask_walk.png": {
+      "file": "hires/pixel/px_iron_mask_walk.426cd748.png",
+      "size": 48055,
+      "sha256": "426cd748e4adf13ae3cb317fa17fed40127c2d988a32f09588adaf7849733017"
+    },
     "pixel/px_item_abyss_key.png": {
       "file": "hires/pixel/px_item_abyss_key.9ffb108b.png",
       "size": 219,
@@ -12045,6 +12295,16 @@
       "file": "hires/pixel/px_item_abyss_key_2_ground.7faf0be1.png",
       "size": 124,
       "sha256": "7faf0be1b1d8d0d01cfa779b6271cb323ebbf419424d4c34de92d8c090cc1315"
+    },
+    "pixel/px_item_abyss_key_3.png": {
+      "file": "hires/pixel/px_item_abyss_key_3.89e3227d.png",
+      "size": 219,
+      "sha256": "89e3227d7fcc5e2ec6140d2900ce8fab1f4c79fab0f501272f15ef62a1220472"
+    },
+    "pixel/px_item_abyss_key_3_ground.png": {
+      "file": "hires/pixel/px_item_abyss_key_3_ground.89f18b72.png",
+      "size": 129,
+      "sha256": "89f18b72e7ee372171eb51ccef52cf7d2aaca8831384a6b50ab1fe7ee20729f9"
     },
     "pixel/px_item_abyss_key_ground.png": {
       "file": "hires/pixel/px_item_abyss_key_ground.2161db17.png",
@@ -12486,6 +12746,36 @@
       "size": 160,
       "sha256": "dc25c5524a78ad02a1af12272472a0de3fb71c67fcc0658f75676d421551ac37"
     },
+    "pixel/px_item_s_musk_cassock.png": {
+      "file": "hires/pixel/px_item_s_musk_cassock.f995667d.png",
+      "size": 502,
+      "sha256": "f995667ddb857b2ab98dfa9627aa1bb87319bfe13c24c8d6e17d8c829c5fe846"
+    },
+    "pixel/px_item_s_musk_cassock_ground.png": {
+      "file": "hires/pixel/px_item_s_musk_cassock_ground.308780a6.png",
+      "size": 165,
+      "sha256": "308780a6ae5f6170817baa608b7a89b8a9838263a9025abf3f21aad41ae5256a"
+    },
+    "pixel/px_item_s_musk_hat.png": {
+      "file": "hires/pixel/px_item_s_musk_hat.2373d698.png",
+      "size": 281,
+      "sha256": "2373d69873cc79dd9e199e630de828849cc93bc8ca8a05bd39cb8b8c5b6127d1"
+    },
+    "pixel/px_item_s_musk_hat_ground.png": {
+      "file": "hires/pixel/px_item_s_musk_hat_ground.30dde22e.png",
+      "size": 128,
+      "sha256": "30dde22e61ccf4d875904caa75a86959eefc77f76f34c0cc451785acaa6beccc"
+    },
+    "pixel/px_item_s_musk_musket.png": {
+      "file": "hires/pixel/px_item_s_musk_musket.87842f7f.png",
+      "size": 322,
+      "sha256": "87842f7f601cc5554c4e834d46fbce11a8150ede81c7975b75025c7987c3629b"
+    },
+    "pixel/px_item_s_musk_musket_ground.png": {
+      "file": "hires/pixel/px_item_s_musk_musket_ground.04739a33.png",
+      "size": 182,
+      "sha256": "04739a33518b194a6d10338cb0a6097f557bba6962bdf421b77ccbc6a10a831c"
+    },
     "pixel/px_item_sailor_clothes.png": {
       "file": "hires/pixel/px_item_sailor_clothes.d6acdc9b.png",
       "size": 753,
@@ -12656,6 +12946,16 @@
       "size": 128,
       "sha256": "42b819cd724fea3d305477ea13672b84663542678ea91df38f1ae5245ed47db7"
     },
+    "pixel/px_item_u_black_knight_plate.png": {
+      "file": "hires/pixel/px_item_u_black_knight_plate.de454bbf.png",
+      "size": 478,
+      "sha256": "de454bbf64e8a00ddc59df39ab7c22762de4b41655d14f2191fd48f36bb275d8"
+    },
+    "pixel/px_item_u_black_knight_plate_ground.png": {
+      "file": "hires/pixel/px_item_u_black_knight_plate_ground.e2050464.png",
+      "size": 144,
+      "sha256": "e2050464de8c8db03d80988542247c3d15e0719a0379b4c5fe5af3af5b0d251a"
+    },
     "pixel/px_item_u_blackbeard_fang.png": {
       "file": "hires/pixel/px_item_u_blackbeard_fang.d28afc38.png",
       "size": 308,
@@ -12696,6 +12996,16 @@
       "size": 155,
       "sha256": "7449b146de3fba7321160912168e5f8436d49330be54f3ae04e1159fc52ad16c"
     },
+    "pixel/px_item_u_gascon_rapier.png": {
+      "file": "hires/pixel/px_item_u_gascon_rapier.2cf37c03.png",
+      "size": 267,
+      "sha256": "2cf37c03f8ad9f0c425739eb842e18dfb3a001f886d7539220ed642d6b314045"
+    },
+    "pixel/px_item_u_gascon_rapier_ground.png": {
+      "file": "hires/pixel/px_item_u_gascon_rapier_ground.52dafddb.png",
+      "size": 179,
+      "sha256": "52dafddbc05520311ff822037b43db207bf7aed4b0a41b8dc353a29b75364640"
+    },
     "pixel/px_item_u_hernan_ambition.png": {
       "file": "hires/pixel/px_item_u_hernan_ambition.6abeb01c.png",
       "size": 597,
@@ -12705,6 +13015,26 @@
       "file": "hires/pixel/px_item_u_hernan_ambition_ground.d84d611b.png",
       "size": 167,
       "sha256": "d84d611b8247ba9b8a5c77368a254e8bfe67cfb2fbdc8634f0a2b1d2c7647eda"
+    },
+    "pixel/px_item_u_iron_mask_pistol.png": {
+      "file": "hires/pixel/px_item_u_iron_mask_pistol.9352cf3e.png",
+      "size": 234,
+      "sha256": "9352cf3e5d15020f841272352f604a1218361203b9eb2012290aebc454259041"
+    },
+    "pixel/px_item_u_iron_mask_pistol_ground.png": {
+      "file": "hires/pixel/px_item_u_iron_mask_pistol_ground.8862609b.png",
+      "size": 156,
+      "sha256": "8862609b19feb97a7e980196b7809710b31cb7fc61b92fcef0e275cf211f86be"
+    },
+    "pixel/px_item_u_melusine_tear.png": {
+      "file": "hires/pixel/px_item_u_melusine_tear.63a18d2c.png",
+      "size": 242,
+      "sha256": "63a18d2c2a5fdd2a15e0bd860621ba6b59221ab1ad73f7ff3f78550ecbbb2100"
+    },
+    "pixel/px_item_u_melusine_tear_ground.png": {
+      "file": "hires/pixel/px_item_u_melusine_tear_ground.53baacb2.png",
+      "size": 151,
+      "sha256": "53baacb264336db4c9d5fdea65218745d3776846e3c76e18554ce9ab7fbef76f"
     },
     "pixel/px_item_u_moon_tide.png": {
       "file": "hires/pixel/px_item_u_moon_tide.3f3f4cb1.png",
@@ -12756,6 +13086,16 @@
       "size": 156,
       "sha256": "f555725e2f5b5071df4b454b9ff2870ca4d6c763ba5f9dbda9d63bdd8401be7a"
     },
+    "pixel/px_item_u_siren_song.png": {
+      "file": "hires/pixel/px_item_u_siren_song.c8696ab9.png",
+      "size": 274,
+      "sha256": "c8696ab9783c9b0f0f83477a70b38288be05fba837b1e43104c3f9bcfc4afc11"
+    },
+    "pixel/px_item_u_siren_song_ground.png": {
+      "file": "hires/pixel/px_item_u_siren_song_ground.57130958.png",
+      "size": 163,
+      "sha256": "5713095819ce8c40051bfdec58498aa79b7b8b9a77cb6a1bc55be7c7aa0c7e4f"
+    },
     "pixel/px_item_u_st_elmo_fire.png": {
       "file": "hires/pixel/px_item_u_st_elmo_fire.fdfd2193.png",
       "size": 282,
@@ -12785,6 +13125,36 @@
       "file": "hires/pixel/px_item_u_vasco_baton_ground.0a372fa2.png",
       "size": 134,
       "sha256": "0a372fa29d4af579a7e051fdc984fcd111fa0520fc398c3ce080297bf58399af"
+    },
+    "pixel/px_item_u_vintage_alembic.png": {
+      "file": "hires/pixel/px_item_u_vintage_alembic.25d63f6f.png",
+      "size": 377,
+      "sha256": "25d63f6f61b42246d1a16889f9217e0b1b5ff00e43be37b0542042480d37c587"
+    },
+    "pixel/px_item_u_vintage_alembic_ground.png": {
+      "file": "hires/pixel/px_item_u_vintage_alembic_ground.784f950a.png",
+      "size": 154,
+      "sha256": "784f950a96374d620f3e48d4c0b208b47188c3a4762e865cf9abb45f3acf365f"
+    },
+    "pixel/px_item_u_witch_lantern.png": {
+      "file": "hires/pixel/px_item_u_witch_lantern.aedbbe5f.png",
+      "size": 320,
+      "sha256": "aedbbe5f23986211aba96c88188182add0f77c724abc2cc5f0ac6638ad4d753e"
+    },
+    "pixel/px_item_u_witch_lantern_ground.png": {
+      "file": "hires/pixel/px_item_u_witch_lantern_ground.b1db96fb.png",
+      "size": 227,
+      "sha256": "b1db96fbd06a4a2bf8d14f81ee4ff6665929dfaa4bf7d98c6371ee878e154255"
+    },
+    "pixel/px_item_u_wolf_lord_pelt.png": {
+      "file": "hires/pixel/px_item_u_wolf_lord_pelt.1cf177ec.png",
+      "size": 418,
+      "sha256": "1cf177ecc966a5c935180e866bdd20603a61b8e02e8a09c8ec2859bfff7cc126"
+    },
+    "pixel/px_item_u_wolf_lord_pelt_ground.png": {
+      "file": "hires/pixel/px_item_u_wolf_lord_pelt_ground.5a0bc6a6.png",
+      "size": 161,
+      "sha256": "5a0bc6a6768a3f017b69c0c82b52a8a225cbbee2a3429b916d4644461afd7e3d"
     },
     "pixel/px_item_wolf_fang.png": {
       "file": "hires/pixel/px_item_wolf_fang.ded0f402.png",
