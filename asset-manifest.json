@@ -5181,11 +5181,6 @@
       "size": 34909,
       "sha256": "867bc0875dcd2b8787a0947961244009007fb8d95ebabfe412e35dd4c66c0516"
     },
-    "pixel/px_%EB%B6%80%EC%A0%81%EC%A4%91_%EB%95%85.png": {
-      "file": "hires/pixel/px_%EB%B6%80%EC%A0%81%EC%A4%91_%EB%95%85.563f2429.png",
-      "size": 129,
-      "sha256": "563f2429a728f98cbfb5b7fdb60feb55be93d3f949482998eb7651e14672012b"
-    },
     "pixel/px_abbey.png": {
       "file": "hires/pixel/px_abbey.bdcefe51.png",
       "size": 5444,
@@ -12405,6 +12400,11 @@
       "file": "hires/pixel/px_item_charm_medium.0656a34d.png",
       "size": 325,
       "sha256": "0656a34db84c2e26e5babb38d9bd9f8c79b9b0b4b0449c34cd447b6bbffa04f6"
+    },
+    "pixel/px_item_charm_medium_ground.png": {
+      "file": "hires/pixel/px_item_charm_medium_ground.563f2429.png",
+      "size": 129,
+      "sha256": "563f2429a728f98cbfb5b7fdb60feb55be93d3f949482998eb7651e14672012b"
     },
     "pixel/px_item_charm_small.png": {
       "file": "hires/pixel/px_item_charm_small.b793f21f.png",
