@@ -1006,6 +1006,21 @@
       "size": 1375865,
       "sha256": "6b9746055b4943f22fd50275571c713f01cb617dbf16180f2f13d431432cb201"
     },
+    "hr_fx_sea_smoke.png": {
+      "file": "hires/hr_fx_sea_smoke.1280e974.png",
+      "size": 247436,
+      "sha256": "1280e9743942fd4d848d2ae2164d82a04ffc158f3a82892ac484ddc6da36c3bf"
+    },
+    "hr_fx_sea_splash.png": {
+      "file": "hires/hr_fx_sea_splash.4a4b126f.png",
+      "size": 178691,
+      "sha256": "4a4b126f0e48e7fbdad160bf7241d3a22f80ecda62c04b112b8bb572e578b297"
+    },
+    "hr_fx_sea_splinters.png": {
+      "file": "hires/hr_fx_sea_splinters.c4784138.png",
+      "size": 73576,
+      "sha256": "c4784138ef5894708baee76208e7e4f97ff38dba0fd1c430d9cfd3f63ac9c6fc"
+    },
     "hr_fx_shatter.png": {
       "file": "hires/hr_fx_shatter.cb0a5a6b.png",
       "size": 416298,
@@ -1746,6 +1761,16 @@
       "size": 750,
       "sha256": "a7ecd347519804658ba825d54f9178add60fd802d3557a120c698f1aae0e1c34"
     },
+    "hr_item_bronze.png": {
+      "file": "hires/hr_item_bronze.a43a0b9d.png",
+      "size": 4970,
+      "sha256": "a43a0b9d64ae417c8802548f38e103c9649f1d83d01a1a675a6129564e23a4cd"
+    },
+    "hr_item_bronze_ground.png": {
+      "file": "hires/hr_item_bronze_ground.8d438ab0.png",
+      "size": 2302,
+      "sha256": "8d438ab0c9783768cf66d539e44444e9013d3f610d9c095158d96c50c87d37c5"
+    },
     "hr_item_captain_baton.png": {
       "file": "hires/hr_item_captain_baton.bc7c095c.png",
       "size": 7500,
@@ -1790,6 +1815,36 @@
       "file": "hires/hr_item_charm_small_ground.2f823491.png",
       "size": 1632,
       "sha256": "2f8234914b29b56c097d963876ed16b6fdcd857077d9028fd23593266caa8b28"
+    },
+    "hr_item_chart_1.png": {
+      "file": "hires/hr_item_chart_1.9aa1cd0b.png",
+      "size": 10428,
+      "sha256": "9aa1cd0bbdc7b1e3a770405bee0d9691411e33c640bcc38dc6cfaf9167083c3d"
+    },
+    "hr_item_chart_1_ground.png": {
+      "file": "hires/hr_item_chart_1_ground.12bed148.png",
+      "size": 1246,
+      "sha256": "12bed1485f9b5e0fbd574c7ff65b1f588e8dbc507e192d92f92a58a67d7a233e"
+    },
+    "hr_item_chart_2.png": {
+      "file": "hires/hr_item_chart_2.dba86662.png",
+      "size": 10711,
+      "sha256": "dba8666289cfc8e9c8e535d4b5897ce974d2f1de4e54df6625165e7454ce3d53"
+    },
+    "hr_item_chart_2_ground.png": {
+      "file": "hires/hr_item_chart_2_ground.e7b26e84.png",
+      "size": 1362,
+      "sha256": "e7b26e844571b211880e3a638ad5f036e9da4a93a8d44c9eb32aa57588b63a43"
+    },
+    "hr_item_chart_3.png": {
+      "file": "hires/hr_item_chart_3.53503324.png",
+      "size": 11264,
+      "sha256": "53503324ae194754b78be50c59759e4aba08ab8df01df2e89b983df222a2b7f2"
+    },
+    "hr_item_chart_3_ground.png": {
+      "file": "hires/hr_item_chart_3_ground.43fff0bf.png",
+      "size": 1478,
+      "sha256": "43fff0bf4fe2962af5115a8d589623a2bc25129a24a9d7aed2a4fc9ced69116f"
     },
     "hr_item_coral_wand.png": {
       "file": "hires/hr_item_coral_wand.ab64f371.png",
@@ -1840,6 +1895,356 @@
       "file": "hires/hr_item_flintlock_ground.075d7e05.png",
       "size": 1755,
       "sha256": "075d7e059851fdffe70fc64c82ffcf6bc0341d06b6867601c4cb6e35c84bfdaf"
+    },
+    "hr_item_gem_amber_1.png": {
+      "file": "hires/hr_item_gem_amber_1.07131f6b.png",
+      "size": 2148,
+      "sha256": "07131f6b450df8e0d0d7ad624188ec004e56f1cdd9e6b7b0f436fb42803ff547"
+    },
+    "hr_item_gem_amber_1_ground.png": {
+      "file": "hires/hr_item_gem_amber_1_ground.60214282.png",
+      "size": 336,
+      "sha256": "60214282150515f07758350103ec6f707c8628018a78e6db11a25a608bd911ab"
+    },
+    "hr_item_gem_amber_2.png": {
+      "file": "hires/hr_item_gem_amber_2.45357b64.png",
+      "size": 3700,
+      "sha256": "45357b64720441ee14246deba4d1de524ad2eccbe24dc02b8e05d8bc047de9d0"
+    },
+    "hr_item_gem_amber_2_ground.png": {
+      "file": "hires/hr_item_gem_amber_2_ground.96ab4d3b.png",
+      "size": 465,
+      "sha256": "96ab4d3b685c6093eb98485e9a61ff76d133b4302b9374772345b6c4d43d4c10"
+    },
+    "hr_item_gem_amber_3.png": {
+      "file": "hires/hr_item_gem_amber_3.e4e1abb4.png",
+      "size": 3919,
+      "sha256": "e4e1abb4cf039345f31be0c01c364eaef70a087e52e328387ea3484c136dc14a"
+    },
+    "hr_item_gem_amber_3_ground.png": {
+      "file": "hires/hr_item_gem_amber_3_ground.219e72f4.png",
+      "size": 599,
+      "sha256": "219e72f4c4b5eab634b460b2b30e8d2dcf9b58559b50c84626abe8e644fa8668"
+    },
+    "hr_item_gem_amber_4.png": {
+      "file": "hires/hr_item_gem_amber_4.f2f351cb.png",
+      "size": 4429,
+      "sha256": "f2f351cbb42c1221afcbee107712f4dca1619b1c5da9859895a7738d5baa76ba"
+    },
+    "hr_item_gem_amber_4_ground.png": {
+      "file": "hires/hr_item_gem_amber_4_ground.966be843.png",
+      "size": 728,
+      "sha256": "966be843c2d9430037168f26b458bacecf5589caffc82c1f79a525c0bc02f4d4"
+    },
+    "hr_item_gem_amber_5.png": {
+      "file": "hires/hr_item_gem_amber_5.be3c5312.png",
+      "size": 4896,
+      "sha256": "be3c531260279de1d245587d67d755d910bd689783a3f54196574b8c6e0ed2f6"
+    },
+    "hr_item_gem_amber_5_ground.png": {
+      "file": "hires/hr_item_gem_amber_5_ground.297d2f6e.png",
+      "size": 885,
+      "sha256": "297d2f6e335964e54b875371fd4e752e5890288fafb211d9675df895ef2d6d03"
+    },
+    "hr_item_gem_coral_1.png": {
+      "file": "hires/hr_item_gem_coral_1.1ec856eb.png",
+      "size": 2013,
+      "sha256": "1ec856eb69f35872ad23a05e9a131af5358701ea0a1e3b92a0703830735f5291"
+    },
+    "hr_item_gem_coral_1_ground.png": {
+      "file": "hires/hr_item_gem_coral_1_ground.b14502c1.png",
+      "size": 336,
+      "sha256": "b14502c17e73d27a77e4693c31198d4b2ea1235f78aae9643c526dd39dd5b9c4"
+    },
+    "hr_item_gem_coral_2.png": {
+      "file": "hires/hr_item_gem_coral_2.8aaff537.png",
+      "size": 3600,
+      "sha256": "8aaff53747091a974d74e9e7f67edb5d196ee9b54cde9d034656d9e2fb06ea8c"
+    },
+    "hr_item_gem_coral_2_ground.png": {
+      "file": "hires/hr_item_gem_coral_2_ground.16f47af8.png",
+      "size": 467,
+      "sha256": "16f47af870d990e2d466db0a28de94ecada1bb85be8aa06f8e6b20ff8b504783"
+    },
+    "hr_item_gem_coral_3.png": {
+      "file": "hires/hr_item_gem_coral_3.8b97a525.png",
+      "size": 3681,
+      "sha256": "8b97a525514cb7b0f6df155b5043fbd21faf8e0ccd8e24b75169907ce8591cc7"
+    },
+    "hr_item_gem_coral_3_ground.png": {
+      "file": "hires/hr_item_gem_coral_3_ground.71d3f430.png",
+      "size": 600,
+      "sha256": "71d3f430cab3b3546bb0ba75cc6c586b504dc17436862293e8bbdba8007938f5"
+    },
+    "hr_item_gem_coral_4.png": {
+      "file": "hires/hr_item_gem_coral_4.623371aa.png",
+      "size": 4410,
+      "sha256": "623371aaf682449d212d1f31f12d763020c7bb4041d8a3d860629a2344ffb871"
+    },
+    "hr_item_gem_coral_4_ground.png": {
+      "file": "hires/hr_item_gem_coral_4_ground.b4798ee1.png",
+      "size": 738,
+      "sha256": "b4798ee19f7db34db888d641772f3eb808bb748443512789107feb9235233f39"
+    },
+    "hr_item_gem_coral_5.png": {
+      "file": "hires/hr_item_gem_coral_5.deee24d6.png",
+      "size": 4617,
+      "sha256": "deee24d691fdd4385c8371b30c02aed58d946167483bd73cdebb120f283bae64"
+    },
+    "hr_item_gem_coral_5_ground.png": {
+      "file": "hires/hr_item_gem_coral_5_ground.064e94a2.png",
+      "size": 880,
+      "sha256": "064e94a2479a8afa9bb245b9801c6cb662e79d6ec95721c7b0cb330f18170d61"
+    },
+    "hr_item_gem_diamond_1.png": {
+      "file": "hires/hr_item_gem_diamond_1.7e173536.png",
+      "size": 1511,
+      "sha256": "7e173536c65d5e3e51a6c463acbbb2f9e205efacfaae3fdd282876885107459e"
+    },
+    "hr_item_gem_diamond_1_ground.png": {
+      "file": "hires/hr_item_gem_diamond_1_ground.0da58ab7.png",
+      "size": 338,
+      "sha256": "0da58ab7b2000325e1ff4b5abfd9200072d3f09a26746758785409ffd2284cda"
+    },
+    "hr_item_gem_diamond_2.png": {
+      "file": "hires/hr_item_gem_diamond_2.a343cedf.png",
+      "size": 2456,
+      "sha256": "a343cedf9cddbc9125d355547e856a31081821abd74ae6f5b9f2a6cad2e54097"
+    },
+    "hr_item_gem_diamond_2_ground.png": {
+      "file": "hires/hr_item_gem_diamond_2_ground.f72e4617.png",
+      "size": 450,
+      "sha256": "f72e46178883bf27caacd092d82bb490d8c4714b76ef5f9e15899b98eab4d944"
+    },
+    "hr_item_gem_diamond_3.png": {
+      "file": "hires/hr_item_gem_diamond_3.ada9b728.png",
+      "size": 2158,
+      "sha256": "ada9b7289149d1ea7c620e24006d53448492f6fcf449206732ff0ee34d3cf1ec"
+    },
+    "hr_item_gem_diamond_3_ground.png": {
+      "file": "hires/hr_item_gem_diamond_3_ground.459df38c.png",
+      "size": 573,
+      "sha256": "459df38c6c5ed2ed866374fb494456734dfd674eea0ef9feda6d683deaf26512"
+    },
+    "hr_item_gem_diamond_4.png": {
+      "file": "hires/hr_item_gem_diamond_4.eaae2b98.png",
+      "size": 2801,
+      "sha256": "eaae2b98b6988bebf85046212dd3bceed9af6343c6c8b115a149e235fc599cf4"
+    },
+    "hr_item_gem_diamond_4_ground.png": {
+      "file": "hires/hr_item_gem_diamond_4_ground.ce746026.png",
+      "size": 693,
+      "sha256": "ce7460263686be6273e1760881bdf701fe711ed9ea3d0e2674547ceee894f272"
+    },
+    "hr_item_gem_diamond_5.png": {
+      "file": "hires/hr_item_gem_diamond_5.d9bfd209.png",
+      "size": 3245,
+      "sha256": "d9bfd209cb2e857860e62f0d767e662dff798535b089bac34a6668d35da648ba"
+    },
+    "hr_item_gem_diamond_5_ground.png": {
+      "file": "hires/hr_item_gem_diamond_5_ground.df72d73d.png",
+      "size": 795,
+      "sha256": "df72d73d16dd22d9459684bbda765976649552acbdb274e5419760bd13813d6c"
+    },
+    "hr_item_gem_obsidian_1.png": {
+      "file": "hires/hr_item_gem_obsidian_1.d2213b5b.png",
+      "size": 2243,
+      "sha256": "d2213b5b76be91c92d97bbdce8893a3cb8f649eef3a83c5a342be056f1238b9c"
+    },
+    "hr_item_gem_obsidian_1_ground.png": {
+      "file": "hires/hr_item_gem_obsidian_1_ground.4b792f33.png",
+      "size": 328,
+      "sha256": "4b792f33fa63551ef7886b0736b186f6db9e801e4d15e53f4755dbe0f3ba2a70"
+    },
+    "hr_item_gem_obsidian_2.png": {
+      "file": "hires/hr_item_gem_obsidian_2.dc8e0e50.png",
+      "size": 4572,
+      "sha256": "dc8e0e50eab545df06ef2232b6f5c7f55f073f2cb99e1aef7341c4b014f7fec4"
+    },
+    "hr_item_gem_obsidian_2_ground.png": {
+      "file": "hires/hr_item_gem_obsidian_2_ground.aee528e2.png",
+      "size": 459,
+      "sha256": "aee528e2aa60b4425b592e5987c3134fd8865ff856f5bf8360d631270c1f89fa"
+    },
+    "hr_item_gem_obsidian_3.png": {
+      "file": "hires/hr_item_gem_obsidian_3.2d9dd872.png",
+      "size": 4956,
+      "sha256": "2d9dd87233f8db7dab24677f8c088e51bda46af7177f3ea7debd91c4476a7267"
+    },
+    "hr_item_gem_obsidian_3_ground.png": {
+      "file": "hires/hr_item_gem_obsidian_3_ground.b869a3ea.png",
+      "size": 569,
+      "sha256": "b869a3ea58ebb1a38580f078e7c8efb5659e57cf288e95ff376630bca9a41f76"
+    },
+    "hr_item_gem_obsidian_4.png": {
+      "file": "hires/hr_item_gem_obsidian_4.1dc42ffd.png",
+      "size": 5511,
+      "sha256": "1dc42ffd0b8a1ca14ed244e457649fe6485fd07b79e841b6c5b6fbfdfa906b30"
+    },
+    "hr_item_gem_obsidian_4_ground.png": {
+      "file": "hires/hr_item_gem_obsidian_4_ground.559c97e7.png",
+      "size": 724,
+      "sha256": "559c97e74d595fcdd23a952d660b4499dba6f8d709d62946ff7930e14e6edc42"
+    },
+    "hr_item_gem_obsidian_5.png": {
+      "file": "hires/hr_item_gem_obsidian_5.333662b9.png",
+      "size": 5721,
+      "sha256": "333662b98afe03fd51963863a10e92fea2e9133470ddeb2e0bb57b8b9def877c"
+    },
+    "hr_item_gem_obsidian_5_ground.png": {
+      "file": "hires/hr_item_gem_obsidian_5_ground.063af862.png",
+      "size": 866,
+      "sha256": "063af8629d42d7b9f13c1189015cd27a7f7a95f6b457f2a284f30b7cccf6a538"
+    },
+    "hr_item_gem_pearl_1.png": {
+      "file": "hires/hr_item_gem_pearl_1.e41c282c.png",
+      "size": 5039,
+      "sha256": "e41c282c534ebb997371cc5980ce5e9a1272cfb096b9bfdf307a2b601a8b02c0"
+    },
+    "hr_item_gem_pearl_1_ground.png": {
+      "file": "hires/hr_item_gem_pearl_1_ground.b42f9067.png",
+      "size": 375,
+      "sha256": "b42f906785b8c398f0c0c42c12065d68522c5df6333ace4532d042ccbd1c43a6"
+    },
+    "hr_item_gem_pearl_2.png": {
+      "file": "hires/hr_item_gem_pearl_2.c99845cd.png",
+      "size": 5516,
+      "sha256": "c99845cd0cb564abdfb1d800a1888b9c3468ad64e85cf7957cd66e36a22c8f5a"
+    },
+    "hr_item_gem_pearl_2_ground.png": {
+      "file": "hires/hr_item_gem_pearl_2_ground.bcbd17fa.png",
+      "size": 488,
+      "sha256": "bcbd17fac64ae6c0a99fa355057584cf773abb53e423a168d231a2500d934090"
+    },
+    "hr_item_gem_pearl_3.png": {
+      "file": "hires/hr_item_gem_pearl_3.e53f7a1a.png",
+      "size": 6021,
+      "sha256": "e53f7a1a5032d8fbcb11eb7af979f952b06aafee5183af053d669af8a441641e"
+    },
+    "hr_item_gem_pearl_3_ground.png": {
+      "file": "hires/hr_item_gem_pearl_3_ground.8939007e.png",
+      "size": 617,
+      "sha256": "8939007ef5db017a7fb26c75fdc4a5fdc6147dac761df0d99a666786b89a23e3"
+    },
+    "hr_item_gem_pearl_4.png": {
+      "file": "hires/hr_item_gem_pearl_4.fc455de3.png",
+      "size": 6418,
+      "sha256": "fc455de3b676a6c016e50b90517647c91060b2e4086814d44c9e3ff9b6e6af5d"
+    },
+    "hr_item_gem_pearl_4_ground.png": {
+      "file": "hires/hr_item_gem_pearl_4_ground.59a54e13.png",
+      "size": 755,
+      "sha256": "59a54e130c99051468182bd6c2e841bda6311f0f0891785e78a01972873927a9"
+    },
+    "hr_item_gem_pearl_5.png": {
+      "file": "hires/hr_item_gem_pearl_5.44e3d997.png",
+      "size": 6917,
+      "sha256": "44e3d997a1aca9b89da3b4fcdf503f5db32505556840de216af3e00011c28c32"
+    },
+    "hr_item_gem_pearl_5_ground.png": {
+      "file": "hires/hr_item_gem_pearl_5_ground.46f6d4ea.png",
+      "size": 955,
+      "sha256": "46f6d4ea08af1c0058bf3a3a3e39e144ce8613d868f2afcdcc5573cc23acc58a"
+    },
+    "hr_item_gem_ruby_1.png": {
+      "file": "hires/hr_item_gem_ruby_1.3005863c.png",
+      "size": 2445,
+      "sha256": "3005863c4779cd23fff583f3d573ae94ac435ce220016b85ece4c67ed17fb11c"
+    },
+    "hr_item_gem_ruby_1_ground.png": {
+      "file": "hires/hr_item_gem_ruby_1_ground.3807c21a.png",
+      "size": 333,
+      "sha256": "3807c21a7fa946d082a988f4cb7ed62878c2131c39f997889a1492461fd2db27"
+    },
+    "hr_item_gem_ruby_2.png": {
+      "file": "hires/hr_item_gem_ruby_2.4e180fdb.png",
+      "size": 4241,
+      "sha256": "4e180fdb4c4c0ad72501faee754c07efd2888c5e25aa4f3621676a3efd1e401c"
+    },
+    "hr_item_gem_ruby_2_ground.png": {
+      "file": "hires/hr_item_gem_ruby_2_ground.0fdd4b60.png",
+      "size": 466,
+      "sha256": "0fdd4b60f2e69628c404d82bd829dea7798e038a0e162289103925977c0c07e1"
+    },
+    "hr_item_gem_ruby_3.png": {
+      "file": "hires/hr_item_gem_ruby_3.38cee0d6.png",
+      "size": 4373,
+      "sha256": "38cee0d6a69cc0d03c91014aa079a482b4ca6296cdf34d6287c4430c97795ec9"
+    },
+    "hr_item_gem_ruby_3_ground.png": {
+      "file": "hires/hr_item_gem_ruby_3_ground.bb67e882.png",
+      "size": 598,
+      "sha256": "bb67e8828b99ebe02faef054c0911f551e62d5b29e9be52b351db72e88007e79"
+    },
+    "hr_item_gem_ruby_4.png": {
+      "file": "hires/hr_item_gem_ruby_4.0c1bc515.png",
+      "size": 5089,
+      "sha256": "0c1bc515f228e7be3f260b49746d6ab28e54be16e807241717d60d45c48e9a11"
+    },
+    "hr_item_gem_ruby_4_ground.png": {
+      "file": "hires/hr_item_gem_ruby_4_ground.2a87005d.png",
+      "size": 759,
+      "sha256": "2a87005d29297a6f9bff9e53041fae1571e489941b9814a9229b43446f6cb1c4"
+    },
+    "hr_item_gem_ruby_5.png": {
+      "file": "hires/hr_item_gem_ruby_5.e3d2f9f2.png",
+      "size": 5375,
+      "sha256": "e3d2f9f20bca63585ab197083e903d6a318e6a057e5634dd06e9b7efeff952e7"
+    },
+    "hr_item_gem_ruby_5_ground.png": {
+      "file": "hires/hr_item_gem_ruby_5_ground.e68fe878.png",
+      "size": 912,
+      "sha256": "e68fe878e6a685bf6ae8dbf160376ba2fc353e56bb57da85ede23f687bbf2b01"
+    },
+    "hr_item_gem_sapphire_1.png": {
+      "file": "hires/hr_item_gem_sapphire_1.1b44b8a9.png",
+      "size": 1960,
+      "sha256": "1b44b8a9a24d2e3a6e8366fbe9202261565022df359bd2ddcfa93f39e2d842bc"
+    },
+    "hr_item_gem_sapphire_1_ground.png": {
+      "file": "hires/hr_item_gem_sapphire_1_ground.6267eb17.png",
+      "size": 335,
+      "sha256": "6267eb1771a3d005676d7bfe3451aeaba7ab2d9b6f4f066fb1ec7cadcb1447cb"
+    },
+    "hr_item_gem_sapphire_2.png": {
+      "file": "hires/hr_item_gem_sapphire_2.0450beca.png",
+      "size": 4060,
+      "sha256": "0450beca2ccc0d421df9b694160f00da120762da9703844e0a0e6f7d0d80e177"
+    },
+    "hr_item_gem_sapphire_2_ground.png": {
+      "file": "hires/hr_item_gem_sapphire_2_ground.c8693196.png",
+      "size": 464,
+      "sha256": "c869319669a283c86a48e8ca09558d7efa9fab3f7f8a2aead40be5f6b858e9c7"
+    },
+    "hr_item_gem_sapphire_3.png": {
+      "file": "hires/hr_item_gem_sapphire_3.6c32bf95.png",
+      "size": 4184,
+      "sha256": "6c32bf9573552371d878562b0b7740c004019464ce9d446ebb3e14c97663039f"
+    },
+    "hr_item_gem_sapphire_3_ground.png": {
+      "file": "hires/hr_item_gem_sapphire_3_ground.c8bf68c0.png",
+      "size": 597,
+      "sha256": "c8bf68c05bf4db9767db26564dfd9f001512603f2d986b7af2321cc6467b632e"
+    },
+    "hr_item_gem_sapphire_4.png": {
+      "file": "hires/hr_item_gem_sapphire_4.608c9f66.png",
+      "size": 4882,
+      "sha256": "608c9f66140c15782b1eb013bf42b10de9271bfa7f73ec28c3299591249ae93b"
+    },
+    "hr_item_gem_sapphire_4_ground.png": {
+      "file": "hires/hr_item_gem_sapphire_4_ground.d164275d.png",
+      "size": 752,
+      "sha256": "d164275d1ea4972bf801c1a248426fe3dbf5cbe91950ffccacbf9d3eb99271a5"
+    },
+    "hr_item_gem_sapphire_5.png": {
+      "file": "hires/hr_item_gem_sapphire_5.05f3e7b7.png",
+      "size": 5168,
+      "sha256": "05f3e7b71bfe285d62661bc8cb9a56e376b4b394ba0b8905a6db75b7fdfde14f"
+    },
+    "hr_item_gem_sapphire_5_ground.png": {
+      "file": "hires/hr_item_gem_sapphire_5_ground.5fe55616.png",
+      "size": 885,
+      "sha256": "5fe5561696e97ebe8df014fcb40199cf57a144b097a2c1352f5e4d8c33d03625"
     },
     "hr_item_gold.png": {
       "file": "hires/hr_item_gold.dd97543c.png",
@@ -1931,6 +2336,16 @@
       "size": 2106,
       "sha256": "5e6626e3fac0ec5f1a5b9dddf3a1db232b79245fa0178d2f6525446e1342fd7d"
     },
+    "hr_item_log_fragment.png": {
+      "file": "hires/hr_item_log_fragment.02332724.png",
+      "size": 3563,
+      "sha256": "02332724de1592238629742bf3f03206076c797508d4bb4c73799e2e3160397c"
+    },
+    "hr_item_log_fragment_ground.png": {
+      "file": "hires/hr_item_log_fragment_ground.32964dd3.png",
+      "size": 580,
+      "sha256": "32964dd323c8420cc7256ce12d49ba003177d1617a00263a499eaa5d7d019bde"
+    },
     "hr_item_logbook.png": {
       "file": "hires/hr_item_logbook.8f74d2d6.png",
       "size": 21015,
@@ -2001,6 +2416,16 @@
       "size": 1161,
       "sha256": "fac83367cedb6df03d4182f81393afffaf8864d695c58e03a8b9a5c44c2191ba"
     },
+    "hr_item_plank.png": {
+      "file": "hires/hr_item_plank.fc138161.png",
+      "size": 3903,
+      "sha256": "fc13816113eb9968e1d5519a4eaa3a0f74c1f36c70d7db4b5c2dec9b76993668"
+    },
+    "hr_item_plank_ground.png": {
+      "file": "hires/hr_item_plank_ground.3ec82309.png",
+      "size": 2201,
+      "sha256": "3ec8230917a659e90fb39bf0b80c1c4b93d5658b6617e8ee2f44b13108678565"
+    },
     "hr_item_plate_cuirass.png": {
       "file": "hires/hr_item_plate_cuirass.c0d5ba74.png",
       "size": 59927,
@@ -2031,6 +2456,11 @@
       "size": 1675,
       "sha256": "db09a6a914fc29d086b150214a5c114133c856ff1c0081c4080cf7dd2312630c"
     },
+    "hr_item_rope.png": {
+      "file": "hires/hr_item_rope.1ae2a360.png",
+      "size": 13762,
+      "sha256": "1ae2a360ca7fa64d19f0711d64205e98b4913ec02eda5fc8545fdcf7e938aef3"
+    },
     "hr_item_rope_belt.png": {
       "file": "hires/hr_item_rope_belt.39f67ad2.png",
       "size": 13118,
@@ -2040,6 +2470,11 @@
       "file": "hires/hr_item_rope_belt_ground.74cd6d2a.png",
       "size": 1126,
       "sha256": "74cd6d2a1c85d356aa3f43e0b97b301208ac5358e1e0eced37479a4400579518"
+    },
+    "hr_item_rope_ground.png": {
+      "file": "hires/hr_item_rope_ground.5b21dccc.png",
+      "size": 2291,
+      "sha256": "5b21dccc96b16f10c11858abeb9b74ded58a32cc3a1c1e3d67e74a339a9c952d"
     },
     "hr_item_round_shield.png": {
       "file": "hires/hr_item_round_shield.bee1b51c.png",
@@ -2151,6 +2586,16 @@
       "size": 2799,
       "sha256": "8eeb4f3338cc04c5ad8a4a144db8195e39c49cd8ec27bf4436cb1cb5736b7fc0"
     },
+    "hr_item_sailcloth.png": {
+      "file": "hires/hr_item_sailcloth.4c99b836.png",
+      "size": 3924,
+      "sha256": "4c99b8369f995a0bf1bf356112c067bc21f85bcc87ed1f08ca6b2636a7213141"
+    },
+    "hr_item_sailcloth_ground.png": {
+      "file": "hires/hr_item_sailcloth_ground.14bf5b85.png",
+      "size": 2182,
+      "sha256": "14bf5b85d8ab40725f4a1ff636623442af1873ce8a57cc3c492ff3026c8117cc"
+    },
     "hr_item_sailor_clothes.png": {
       "file": "hires/hr_item_sailor_clothes.c6ab5211.png",
       "size": 63822,
@@ -2181,6 +2626,26 @@
       "size": 1843,
       "sha256": "e7929fd8b7affcdda8df05c88ae86b472f66f12fa715a40c045eb2d3d63dcf88"
     },
+    "hr_item_serpent_scale.png": {
+      "file": "hires/hr_item_serpent_scale.047a4293.png",
+      "size": 4035,
+      "sha256": "047a4293a428efeb2ef7e6050691926fffd1cdeea2bd4382468eed61d24eaacc"
+    },
+    "hr_item_serpent_scale_ground.png": {
+      "file": "hires/hr_item_serpent_scale_ground.7b56d175.png",
+      "size": 1384,
+      "sha256": "7b56d175648f7edf33a7b2a12c57104837af30d3f476e160a475027310c8df55"
+    },
+    "hr_item_sigil_abyss.png": {
+      "file": "hires/hr_item_sigil_abyss.d6a726ed.png",
+      "size": 7521,
+      "sha256": "d6a726ed9a0d0155c307963768b1612c0ff1a710de6c2310d64a608d0e0283ef"
+    },
+    "hr_item_sigil_abyss_ground.png": {
+      "file": "hires/hr_item_sigil_abyss_ground.5c9f01c1.png",
+      "size": 1293,
+      "sha256": "5c9f01c1c6fd82f8c115da5c2be69c70da0601efaccf3c23256cccfec4dc97e6"
+    },
     "hr_item_sigil_anchor.png": {
       "file": "hires/hr_item_sigil_anchor.c3eb241f.png",
       "size": 10546,
@@ -2201,6 +2666,26 @@
       "size": 1364,
       "sha256": "312f79d975f07f8c95a35e2347294a824447bada8a323e710d5527702a6eca72"
     },
+    "hr_item_sigil_cannon.png": {
+      "file": "hires/hr_item_sigil_cannon.0369169b.png",
+      "size": 6374,
+      "sha256": "0369169b079181e7c91b6f1f2b33455db78bb8503635be2477e64144e0c771c9"
+    },
+    "hr_item_sigil_cannon_ground.png": {
+      "file": "hires/hr_item_sigil_cannon_ground.60ce938a.png",
+      "size": 1250,
+      "sha256": "60ce938ac2e4b354cd97d7edb55d90b8f982c0fcffdaf3f09216ee37337e4c9f"
+    },
+    "hr_item_sigil_chart.png": {
+      "file": "hires/hr_item_sigil_chart.a1aeb6ce.png",
+      "size": 5194,
+      "sha256": "a1aeb6ce0ee161d69214743573edbe2307543a717b0b6b211a51ae3fa942f423"
+    },
+    "hr_item_sigil_chart_ground.png": {
+      "file": "hires/hr_item_sigil_chart_ground.8da3b8ac.png",
+      "size": 1380,
+      "sha256": "8da3b8ac0357a1d651f28effc32f9348d03fc4d8f6e5ac851f57632dd11948c6"
+    },
     "hr_item_sigil_coral.png": {
       "file": "hires/hr_item_sigil_coral.1a81b88b.png",
       "size": 11577,
@@ -2211,6 +2696,86 @@
       "size": 1531,
       "sha256": "6165ab3a5828c7c0f6f2e94c0d796ae69fba5998fcff39cad8aefbf73646ba84"
     },
+    "hr_item_sigil_crux.png": {
+      "file": "hires/hr_item_sigil_crux.4d3f73d4.png",
+      "size": 6378,
+      "sha256": "4d3f73d4df1769cf8cc75173a4bdc010f693788a5b4eb37131440bc6aed67bf0"
+    },
+    "hr_item_sigil_crux_ground.png": {
+      "file": "hires/hr_item_sigil_crux_ground.d89497e1.png",
+      "size": 1278,
+      "sha256": "d89497e1aa0e0d3a57e99408881f23968358eafa4f8c2202bf4755900f621cb6"
+    },
+    "hr_item_sigil_eclipse.png": {
+      "file": "hires/hr_item_sigil_eclipse.f1c7c408.png",
+      "size": 6973,
+      "sha256": "f1c7c408b9d95381e0d61db07844e67a0c7ab0f4b455ff0bd27d32803a5041e4"
+    },
+    "hr_item_sigil_eclipse_ground.png": {
+      "file": "hires/hr_item_sigil_eclipse_ground.62cd3e96.png",
+      "size": 1331,
+      "sha256": "62cd3e969a2a52c2c37b999b0fbd94e874a37fcd2ab3fba847af7231e8d12724"
+    },
+    "hr_item_sigil_ghostship.png": {
+      "file": "hires/hr_item_sigil_ghostship.26d7e0ce.png",
+      "size": 6202,
+      "sha256": "26d7e0ce8f4449b5714b262b2d4b8e99f8a1be075ccccecb81161797cdb265ad"
+    },
+    "hr_item_sigil_ghostship_ground.png": {
+      "file": "hires/hr_item_sigil_ghostship_ground.39404fb2.png",
+      "size": 1258,
+      "sha256": "39404fb228992b1380824a3cd0a776292734bad921f2a6b1f570e1aa0e53c23d"
+    },
+    "hr_item_sigil_gull.png": {
+      "file": "hires/hr_item_sigil_gull.2534f08e.png",
+      "size": 4978,
+      "sha256": "2534f08e87399bb060d77d9398f134108b2e80ffefccc93c2a8d13a489fd1d38"
+    },
+    "hr_item_sigil_gull_ground.png": {
+      "file": "hires/hr_item_sigil_gull_ground.90a801bc.png",
+      "size": 1255,
+      "sha256": "90a801bc3884245b943848d6eef872878b020fe6df21f3e862c3b610bcebfae2"
+    },
+    "hr_item_sigil_helm.png": {
+      "file": "hires/hr_item_sigil_helm.88b29c18.png",
+      "size": 6361,
+      "sha256": "88b29c18eb98cc8ed03bc095db6741dc401fcb2e9192bebc49787046882e5825"
+    },
+    "hr_item_sigil_helm_ground.png": {
+      "file": "hires/hr_item_sigil_helm_ground.1e968084.png",
+      "size": 1278,
+      "sha256": "1e9680844db8c42108088624d6a315f0d98d5c2fa6370a882f38a7e234df884f"
+    },
+    "hr_item_sigil_hourglass.png": {
+      "file": "hires/hr_item_sigil_hourglass.914a705e.png",
+      "size": 4968,
+      "sha256": "914a705ec9349ceaafa403432110e8f5a2f286ae00df170f69e639b82563eac3"
+    },
+    "hr_item_sigil_hourglass_ground.png": {
+      "file": "hires/hr_item_sigil_hourglass_ground.7472b631.png",
+      "size": 1294,
+      "sha256": "7472b63185d2042823421bff3dfaad9c55c74c91613a646dc18bba3331a55bc9"
+    },
+    "hr_item_sigil_hull.png": {
+      "file": "hires/hr_item_sigil_hull.410668dc.png",
+      "size": 6058,
+      "sha256": "410668dcd6e9dd22d8c17109d86bd58ea075a298063ba007efbc4b7c0d1cea8a"
+    },
+    "hr_item_sigil_hull_ground.png": {
+      "file": "hires/hr_item_sigil_hull_ground.9e7e2bfe.png",
+      "size": 1182,
+      "sha256": "9e7e2bfe87d15b0c3cb3ba6fdbbb23705b03fd8d89e3c64868b6c60ebf38e081"
+    },
+    "hr_item_sigil_kraken.png": {
+      "file": "hires/hr_item_sigil_kraken.b4373334.png",
+      "size": 7211,
+      "sha256": "b437333433b517585287d34f123d9d3adfe6088c22446bac528734050157d4c2"
+    },
+    "hr_item_sigil_kraken_ground.png": {
+      "file": "hires/hr_item_sigil_kraken_ground.ddd63708.png",
+      "size": 1210,
+      "sha256": "ddd63708ed8e592d8109d078730ae3f443075b5d538ab71e9c896dfe288f24e2"
+    },
     "hr_item_sigil_lantern.png": {
       "file": "hires/hr_item_sigil_lantern.bf74b3ff.png",
       "size": 10690,
@@ -2220,6 +2785,16 @@
       "file": "hires/hr_item_sigil_lantern_ground.498b47f1.png",
       "size": 1635,
       "sha256": "498b47f1014138487d23185efad982cf29137463a56182df8d2b017e4c1da7ef"
+    },
+    "hr_item_sigil_needle.png": {
+      "file": "hires/hr_item_sigil_needle.6719fe89.png",
+      "size": 5647,
+      "sha256": "6719fe890a06c83299029aaecb71ddeafd0391bf866099cb7e997234d8ed6df5"
+    },
+    "hr_item_sigil_needle_ground.png": {
+      "file": "hires/hr_item_sigil_needle_ground.d78c0bcc.png",
+      "size": 1208,
+      "sha256": "d78c0bcc8b569d6f15663ce379fae2b6f588bb0a887f920891c226cfbe9fa0f5"
     },
     "hr_item_sigil_oar.png": {
       "file": "hires/hr_item_sigil_oar.2dc04298.png",
@@ -2241,6 +2816,16 @@
       "size": 1457,
       "sha256": "72a774e17506e1168c47dfdf9e9b7f7df7428864d34caded79d377419bcc9562"
     },
+    "hr_item_sigil_polaris.png": {
+      "file": "hires/hr_item_sigil_polaris.19c4b00f.png",
+      "size": 6873,
+      "sha256": "19c4b00f68b59c73ce3ca829ea054f50c785f49885ae5710966894e6dee348c8"
+    },
+    "hr_item_sigil_polaris_ground.png": {
+      "file": "hires/hr_item_sigil_polaris_ground.203dced4.png",
+      "size": 1342,
+      "sha256": "203dced4fdc3b751464c555a411e23d73fd5566d6f88a4205a74d84a524d0786"
+    },
     "hr_item_sigil_sail.png": {
       "file": "hires/hr_item_sigil_sail.430e96e0.png",
       "size": 9272,
@@ -2251,6 +2836,26 @@
       "size": 1391,
       "sha256": "6738a9a8b8295857b2b40a13954b5d0d8602725956059ef531bd3b5868c35a51"
     },
+    "hr_item_sigil_sextant.png": {
+      "file": "hires/hr_item_sigil_sextant.a1c45212.png",
+      "size": 5849,
+      "sha256": "a1c452124027232d2be629b1cb3541f68fe7adfc1177cbe204cf1f1c98a218a0"
+    },
+    "hr_item_sigil_sextant_ground.png": {
+      "file": "hires/hr_item_sigil_sextant_ground.96b93671.png",
+      "size": 1302,
+      "sha256": "96b93671b261cc2608d01b1e63ae18f6713c2e2a611aca677fe1350d6f6efbce"
+    },
+    "hr_item_sigil_storm.png": {
+      "file": "hires/hr_item_sigil_storm.5d24dbc7.png",
+      "size": 5340,
+      "sha256": "5d24dbc78be3e874b07bcb99006b8fecf8ca3ec052b1eddffde23898de1be395"
+    },
+    "hr_item_sigil_storm_ground.png": {
+      "file": "hires/hr_item_sigil_storm_ground.ff2dd875.png",
+      "size": 1245,
+      "sha256": "ff2dd8751de1cda7cc63781b12c49b1ac25f650a491e73a18f044a603a2ee102"
+    },
     "hr_item_sigil_wave.png": {
       "file": "hires/hr_item_sigil_wave.a4e7654d.png",
       "size": 11774,
@@ -2260,6 +2865,16 @@
       "file": "hires/hr_item_sigil_wave_ground.0ec386ac.png",
       "size": 1591,
       "sha256": "0ec386ac1787a284a27d7bdbb6ee20f42d408e65da2f5abaf68bc85f1768113e"
+    },
+    "hr_item_sigil_worldtree.png": {
+      "file": "hires/hr_item_sigil_worldtree.b72b13f7.png",
+      "size": 6360,
+      "sha256": "b72b13f7e2021237c4a0ef14b05c5015f3365c1200fb1cbced6be3730a63aebc"
+    },
+    "hr_item_sigil_worldtree_ground.png": {
+      "file": "hires/hr_item_sigil_worldtree_ground.21d8f08b.png",
+      "size": 1282,
+      "sha256": "21d8f08b9ffc723f67f2deb30bce48471219d92e78a4c04cdf071320544248e4"
     },
     "hr_item_silver_crate.png": {
       "file": "hires/hr_item_silver_crate.7c8e8e2e.png",
@@ -2776,6 +3391,11 @@
       "size": 452141,
       "sha256": "924be9a7d0722ad1bee9b8b1815f84332b445537fcad878aeb33c76fe73ca8c0"
     },
+    "hr_npc_adrien_idle.png": {
+      "file": "hires/hr_npc_adrien_idle.97daff46.png",
+      "size": 425760,
+      "sha256": "97daff4691385de3725b845495fd8ae6639c2b4505bfa07cd6afa7cbc2a85e9f"
+    },
     "hr_npc_alonso_idle.png": {
       "file": "hires/hr_npc_alonso_idle.a7cd88c0.png",
       "size": 412472,
@@ -2800,6 +3420,16 @@
       "file": "hires/hr_npc_carmen_idle.f7216c96.png",
       "size": 400247,
       "sha256": "f7216c961d2495c31cdb4656936525f3989da10bfb93fd1432f5ecb83395e087"
+    },
+    "hr_npc_celeste_idle.png": {
+      "file": "hires/hr_npc_celeste_idle.eef709a6.png",
+      "size": 406725,
+      "sha256": "eef709a6db6efb66ddd6c1b663ff4c1411c2fe7ce78d5ce2c27de7db4c5f43dd"
+    },
+    "hr_npc_diego_idle.png": {
+      "file": "hires/hr_npc_diego_idle.5715cb9e.png",
+      "size": 423078,
+      "sha256": "5715cb9e3d90e77928a3efffb1b23a8386912e229a326c3877b1f0c91f248341"
     },
     "hr_npc_fairy_queen_idle.png": {
       "file": "hires/hr_npc_fairy_queen_idle.ffc9e4d3.png",
@@ -2826,6 +3456,11 @@
       "size": 414853,
       "sha256": "a3e5bb9c06284ea4500f2ad355907222eb59d37d257c635e2ccef8f99bec1488"
     },
+    "hr_npc_joana_idle.png": {
+      "file": "hires/hr_npc_joana_idle.2e49935a.png",
+      "size": 398957,
+      "sha256": "2e49935a76e65062365a80ea375d56931581beb57f94c3868a974a09ff7bdde1"
+    },
     "hr_npc_juan_idle.png": {
       "file": "hires/hr_npc_juan_idle.5f920442.png",
       "size": 468944,
@@ -2835,6 +3470,11 @@
       "file": "hires/hr_npc_king_ghost_idle.fd925c62.png",
       "size": 612892,
       "sha256": "fd925c62b9c2a6f55733a33c072b2983f9eaa99e455f08a791723cd29afc8a85"
+    },
+    "hr_npc_lucia_idle.png": {
+      "file": "hires/hr_npc_lucia_idle.001f4d85.png",
+      "size": 397529,
+      "sha256": "001f4d85e27945e812d7706fd490de201bbd092846e3e25796498da742ed743c"
     },
     "hr_npc_lucien_idle.png": {
       "file": "hires/hr_npc_lucien_idle.5761f595.png",
@@ -2861,6 +3501,11 @@
       "size": 432611,
       "sha256": "4623de66d7cf51f414908cd0055cf9e387f84ab22bd556506304dd8911064d79"
     },
+    "hr_npc_mathieu_idle.png": {
+      "file": "hires/hr_npc_mathieu_idle.e58012dc.png",
+      "size": 460437,
+      "sha256": "e58012dca6452a75af2b7dc226d9624d287063126e344cc20f26013fc2f170d8"
+    },
     "hr_npc_pedro_idle.png": {
       "file": "hires/hr_npc_pedro_idle.63fbd560.png",
       "size": 427814,
@@ -2876,10 +3521,30 @@
       "size": 437558,
       "sha256": "0d09ce2b8e4601db99be63a4ffdcc12a5bbfd45c27a6cab59f797f10881b44e9"
     },
+    "hr_npc_rodrigo_idle.png": {
+      "file": "hires/hr_npc_rodrigo_idle.9608a598.png",
+      "size": 428059,
+      "sha256": "9608a5980bc6702a91203973ae510e44aeb5b49362a55b96998c619f9e73c592"
+    },
+    "hr_npc_tiago_idle.png": {
+      "file": "hires/hr_npc_tiago_idle.4c8845d2.png",
+      "size": 437218,
+      "sha256": "4c8845d23c3e999d4f7b74717d71f312045ad2423e5e97a84a5f6a67661ae5aa"
+    },
+    "hr_npc_tiagu_idle.png": {
+      "file": "hires/hr_npc_tiagu_idle.a19dd72d.png",
+      "size": 445947,
+      "sha256": "a19dd72d0537cae401f24fa5a0efa4521c4718aa533c2638d9b3c8ff7d392c2c"
+    },
     "hr_npc_tomas_idle.png": {
       "file": "hires/hr_npc_tomas_idle.9de911c3.png",
       "size": 413096,
       "sha256": "9de911c326f206a33d4b32f9612d96f4776a0491bee5fb488f476adf0585bab2"
+    },
+    "hr_npc_yves_idle.png": {
+      "file": "hires/hr_npc_yves_idle.9856eee4.png",
+      "size": 373605,
+      "sha256": "9856eee4e441080d323635ccbcef56dee9f9645bc7c9377beae14f5e5b597de5"
     },
     "hr_olive_tree.png": {
       "file": "hires/hr_olive_tree.1c51f488.png",
@@ -2946,6 +3611,21 @@
       "size": 11642,
       "sha256": "ba748c62c4cd875aa99bd8affaf3a5aafb5eb3ba72f98a9b9748a0a4cc56338b"
     },
+    "hr_pirate_brig_death.png": {
+      "file": "hires/hr_pirate_brig_death.5bcd75be.png",
+      "size": 2235019,
+      "sha256": "5bcd75bef0070e28289ae10a595d3fd2837e3698796984fd8b9094ac6d9b32f5"
+    },
+    "hr_pirate_brig_idle.png": {
+      "file": "hires/hr_pirate_brig_idle.af713aac.png",
+      "size": 2299744,
+      "sha256": "af713aacfde52cf65279415ebc6c74d0afdf7ad42ceef9819f326a7c7ac648e7"
+    },
+    "hr_pirate_brig_walk.png": {
+      "file": "hires/hr_pirate_brig_walk.6a425d65.png",
+      "size": 9102236,
+      "sha256": "6a425d65c224ecd4a428bb7c771d98e74db36efc2d181d74bf58844b9cad59df"
+    },
     "hr_pirate_scout_attack.png": {
       "file": "hires/hr_pirate_scout_attack.daba9c3e.png",
       "size": 787060,
@@ -2965,6 +3645,21 @@
       "file": "hires/hr_pirate_scout_walk.e2b4b7d9.png",
       "size": 1107802,
       "sha256": "e2b4b7d96fe8e1d6cc4a1033f235ad8c5c55a0921a1da946f037e1541f9ad40e"
+    },
+    "hr_pirate_sloop_death.png": {
+      "file": "hires/hr_pirate_sloop_death.c83e654c.png",
+      "size": 1025234,
+      "sha256": "c83e654cc867a78d5810b9426ccdb0ade66620de3d582011cc38a6d5ec200944"
+    },
+    "hr_pirate_sloop_idle.png": {
+      "file": "hires/hr_pirate_sloop_idle.5bbf4b34.png",
+      "size": 1142837,
+      "sha256": "5bbf4b34fa1cd30af5fae838af285c85301153b0ceeef90b119ba1a9464012f1"
+    },
+    "hr_pirate_sloop_walk.png": {
+      "file": "hires/hr_pirate_sloop_walk.a757ed3c.png",
+      "size": 4527666,
+      "sha256": "a757ed3cb5b90240831f3185d3828fd10183f5e1a2f0e6b43734d8536c9785ee"
     },
     "hr_prison_bars.png": {
       "file": "hires/hr_prison_bars.93611e0c.png",
@@ -3071,10 +3766,40 @@
       "size": 213719,
       "sha256": "ef80081fab468c94cc306a40061d2311acdabc8e105f351c33d331b4cbfb9027"
     },
+    "hr_santa_lucia_death.png": {
+      "file": "hires/hr_santa_lucia_death.be9f53aa.png",
+      "size": 1833259,
+      "sha256": "be9f53aaa341213aae128f5471d7fe1de1b0b1a1532219965047982cb445a28b"
+    },
+    "hr_santa_lucia_idle.png": {
+      "file": "hires/hr_santa_lucia_idle.6d9f8c75.png",
+      "size": 1874728,
+      "sha256": "6d9f8c7574318aaa5315cc56b139c28fcc57f5e42863584326712052af937c0e"
+    },
+    "hr_santa_lucia_walk.png": {
+      "file": "hires/hr_santa_lucia_walk.7c77e2fb.png",
+      "size": 7555300,
+      "sha256": "7c77e2fb8cd55f8e4006e456a3bb668ad8e1ab328a21a4ce166f7221b11cc391"
+    },
     "hr_sarcophagus.png": {
       "file": "hires/hr_sarcophagus.6a8e4b81.png",
       "size": 105302,
       "sha256": "6a8e4b816a811c33b64b9070aa48853a64afb102554e7b0b9d1a9241f3432996"
+    },
+    "hr_sea_serpent_death.png": {
+      "file": "hires/hr_sea_serpent_death.3142fed8.png",
+      "size": 513687,
+      "sha256": "3142fed811781034e339812ed57b2bea462a1450d423ded1c3b4b760353945d4"
+    },
+    "hr_sea_serpent_idle.png": {
+      "file": "hires/hr_sea_serpent_idle.8625e4e6.png",
+      "size": 525626,
+      "sha256": "8625e4e657970786d9ef471b5b3cc2eafcee8206b5fdc8c1048ef80327c9c418"
+    },
+    "hr_sea_serpent_walk.png": {
+      "file": "hires/hr_sea_serpent_walk.cf365fd4.png",
+      "size": 2180968,
+      "sha256": "cf365fd450db985f65ed2596dbf9ebf5bb220f801d17720f10d5092f3db3de17"
     },
     "hr_seaweed.png": {
       "file": "hires/hr_seaweed.7ce2b5af.png",
@@ -3826,10 +4551,20 @@
       "size": 79417,
       "sha256": "ec0f4d70e5cb80d6eb4d8eb8ad8594f5aec37a3a4ca795be88f61a30e9d125ad"
     },
+    "hr_wreck_death.png": {
+      "file": "hires/hr_wreck_death.fb55c73a.png",
+      "size": 849339,
+      "sha256": "fb55c73ae2905d63557afaab8038ff95775996fff51bcf485dd90cc738ad8b1a"
+    },
     "hr_wreck_debris.png": {
       "file": "hires/hr_wreck_debris.3b6ac29d.png",
       "size": 4954,
       "sha256": "3b6ac29d5a80b84c451b5bb4b313ace4b964b12e3dae48ecc8f7c95a23209390"
+    },
+    "hr_wreck_idle.png": {
+      "file": "hires/hr_wreck_idle.2cc9e7f1.png",
+      "size": 1234972,
+      "sha256": "2cc9e7f1920c9651ba4cb99bda12d14a3ab5294a91862e11109c69cce148759f"
     },
     "hr_wreck_rubble.png": {
       "file": "hires/hr_wreck_rubble.60870a5f.png",
@@ -3852,9 +4587,9 @@
       "sha256": "45610da5621a465ed2503ceb2bfc76d7e6f63e666db585dd29c6a90cc0bc2a46"
     },
     "atlas/glow_10.ktx2": {
-      "file": "hires/atlas/glow_10.75229616.ktx2",
-      "size": 2153996,
-      "sha256": "752296169443635a97a66626a069814f5c649eff5d730f7bc89f00992f1cc57e"
+      "file": "hires/atlas/glow_10.d4b80fb3.ktx2",
+      "size": 2279492,
+      "sha256": "d4b80fb3ddfdbc67ce9a3b83d8110db91e5ae1f4bf4332eb0354985afb776f96"
     },
     "atlas/glow_2.ktx2": {
       "file": "hires/atlas/glow_2.65a43403.ktx2",
@@ -3882,24 +4617,24 @@
       "sha256": "764eec9cd8ea41f4498d337288b06c1d578b17b15ee72c7c0d3b8e5585804fae"
     },
     "atlas/glow_7.ktx2": {
-      "file": "hires/atlas/glow_7.725b0f87.ktx2",
-      "size": 1815347,
-      "sha256": "725b0f87d780af7da73b4ddd13a4aa9b4df1187d82e9801f4a571187486a2d0c"
+      "file": "hires/atlas/glow_7.438d67b6.ktx2",
+      "size": 1821938,
+      "sha256": "438d67b61b62de50c5f9165eadd2ad00a7686212bcab941d535ef66bab8e6002"
     },
     "atlas/glow_8.ktx2": {
-      "file": "hires/atlas/glow_8.7f231e2b.ktx2",
-      "size": 1981825,
-      "sha256": "7f231e2b8a957acc14c1010a50ba74844bdb06dbea7e5140c4d70dac9ecc9a10"
+      "file": "hires/atlas/glow_8.7918fff5.ktx2",
+      "size": 1989316,
+      "sha256": "7918fff5ddad63bc2c0c54ffc1de8d603764fed059ff1c985f86df09eb508046"
     },
     "atlas/glow_9.ktx2": {
-      "file": "hires/atlas/glow_9.cd5c781e.ktx2",
-      "size": 1995256,
-      "sha256": "cd5c781e4484f13cd56815aa0062e8fd0365823f204fcfa6e8c234115225275e"
+      "file": "hires/atlas/glow_9.82392818.ktx2",
+      "size": 1983915,
+      "sha256": "82392818af388cc398044fec7dc6f241444b42c9999db9176338e5494c0c1332"
     },
     "atlas/hud_0.ktx2": {
-      "file": "hires/atlas/hud_0.2afa955e.ktx2",
-      "size": 2111212,
-      "sha256": "2afa955e52c5655afcda320e239a83e5d8261084ebf1a8af54d05c33a7114e89"
+      "file": "hires/atlas/hud_0.5930706d.ktx2",
+      "size": 2407361,
+      "sha256": "5930706da7d80263309e063509f53f5c6e1f8c552fedd0707961d81190bb390d"
     },
     "atlas/w_alhambra_0.ktx2": {
       "file": "hires/atlas/w_alhambra_0.81afaa11.ktx2",
@@ -3922,9 +4657,9 @@
       "sha256": "c5cfa5b623fd18f54e3531f4b5a914d3ef4023dfeae5f86209837a42cb84b85b"
     },
     "atlas/w_bordeaux_1.ktx2": {
-      "file": "hires/atlas/w_bordeaux_1.520b3d9b.ktx2",
-      "size": 2265297,
-      "sha256": "520b3d9b9a2f88e4d701e7ace121a6b97f621f09b9ef520550560892db4a7076"
+      "file": "hires/atlas/w_bordeaux_1.305a336e.ktx2",
+      "size": 3024661,
+      "sha256": "305a336eef83bdd09134ac4de7dd05a79ffea64b5cdf44510c08380ece76dd7d"
     },
     "atlas/w_bullring_0.ktx2": {
       "file": "hires/atlas/w_bullring_0.7055490f.ktx2",
@@ -4096,15 +4831,45 @@
       "size": 2306335,
       "sha256": "6e7e60f98fbe709347e581c3a16483cc442c231533989d1771e4f6dfd1762ab2"
     },
+    "atlas/w_sea2_0.ktx2": {
+      "file": "hires/atlas/w_sea2_0.cff295d2.ktx2",
+      "size": 3192408,
+      "sha256": "cff295d247bd668b7642d2991594deb4b7eafeb2e0bf027a5503c56a9285e8bb"
+    },
+    "atlas/w_sea_0.ktx2": {
+      "file": "hires/atlas/w_sea_0.78addacb.ktx2",
+      "size": 5096025,
+      "sha256": "78addacb68cd86ffcc07b291370c38880e3662ccc58a31fd4fe4654c971258e5"
+    },
+    "atlas/w_sea_1.ktx2": {
+      "file": "hires/atlas/w_sea_1.9445a58d.ktx2",
+      "size": 4706172,
+      "sha256": "9445a58d7f0efb0701fad64705086138a36a24576e66c1137d8f03ae475c88d2"
+    },
+    "atlas/w_sea_2.ktx2": {
+      "file": "hires/atlas/w_sea_2.f18b09e6.ktx2",
+      "size": 4474008,
+      "sha256": "f18b09e651e2eb239e307980ba3aab04f3900b1c1809b3d1bc24eb54001bbee3"
+    },
+    "atlas/w_sea_3.ktx2": {
+      "file": "hires/atlas/w_sea_3.6c3c3722.ktx2",
+      "size": 4154898,
+      "sha256": "6c3c3722f252999cd8877d944a6fe88c7eb9e66d37648d3c8d60457305563da6"
+    },
+    "atlas/w_sea_4.ktx2": {
+      "file": "hires/atlas/w_sea_4.d7f338af.ktx2",
+      "size": 2199374,
+      "sha256": "d7f338af95f27bda91abb578fef65971b4407aaa086b2f79911e9eec465f7d85"
+    },
     "atlas/w_seville_0.ktx2": {
-      "file": "hires/atlas/w_seville_0.3f26af8e.ktx2",
-      "size": 2537481,
-      "sha256": "3f26af8ecefe9f0257a64fdbbb49b9f7d5456064e4e2ed951eabfcdea1f18808"
+      "file": "hires/atlas/w_seville_0.c2085fe7.ktx2",
+      "size": 2511190,
+      "sha256": "c2085fe74e8cb9b4c1f7d112caf6bb68e809dc2975f36e8b909e2db12ee85803"
     },
     "atlas/w_seville_1.ktx2": {
-      "file": "hires/atlas/w_seville_1.0104eee2.ktx2",
-      "size": 1032650,
-      "sha256": "0104eee23cd96262e8a8a5cd35439c46f21f58366e4c126a220795ad2f77f486"
+      "file": "hires/atlas/w_seville_1.c6aa1e81.ktx2",
+      "size": 1423501,
+      "sha256": "c6aa1e81030d5729286261551b21f9f62e684e30f1f5f9120114c0e2dce10b1f"
     },
     "atlas/w_ship_0.ktx2": {
       "file": "hires/atlas/w_ship_0.4d058f00.ktx2",
@@ -4122,14 +4887,14 @@
       "sha256": "4284a43e0dbbab145a2887c5a9ab7e1d71e6ad2675e9bf1adf435d7894fc04ca"
     },
     "atlas/w_town_0.ktx2": {
-      "file": "hires/atlas/w_town_0.1d31e27e.ktx2",
-      "size": 2971909,
-      "sha256": "1d31e27e82c68631d7c9287cf9aac10ae7e3a7976499b889d1468f549d6416ee"
+      "file": "hires/atlas/w_town_0.9364e206.ktx2",
+      "size": 2922369,
+      "sha256": "9364e2064e1a87def1c07938edc495fee002c0653f636fedff4cdc01cf5aa072"
     },
     "atlas/w_town_1.ktx2": {
-      "file": "hires/atlas/w_town_1.fba23c7c.ktx2",
-      "size": 169975,
-      "sha256": "fba23c7cbb4ce7fd45a3e1b6e1ce44803b7abbbc390dac2ea0f8515cd7c18642"
+      "file": "hires/atlas/w_town_1.2f80bbb4.ktx2",
+      "size": 600666,
+      "sha256": "2f80bbb4975a9fc8b19d6ba1fb8286704e1ddf2df8e8a6286bd10165672c9995"
     },
     "atlas/w_vineyard_0.ktx2": {
       "file": "hires/atlas/w_vineyard_0.2f8c7c94.ktx2",
@@ -4172,19 +4937,24 @@
       "sha256": "a124a3768041af8548ade1db5ae5f2aed9f3e97b0ae6acf2b88f60af487a4ad0"
     },
     "atlas/world_2.ktx2": {
-      "file": "hires/atlas/world_2.29c289a8.ktx2",
-      "size": 3752819,
-      "sha256": "29c289a8e1fd8679f611a331b1ca63bb5a918839e34595b4af1b2842513aac01"
+      "file": "hires/atlas/world_2.32a7bb6f.ktx2",
+      "size": 3753907,
+      "sha256": "32a7bb6fc07597d66c1744742f275c7dfdb1fb62f939734d69f2f2c091ee5bf6"
     },
     "atlas/world_3.ktx2": {
-      "file": "hires/atlas/world_3.d67860f5.ktx2",
-      "size": 3889226,
-      "sha256": "d67860f58fff4a906bdc2e8c63c9baa4f74671dc60de6b68ca2cb011bec2f631"
+      "file": "hires/atlas/world_3.0fe0bf81.ktx2",
+      "size": 3577456,
+      "sha256": "0fe0bf812f408cb990bd8c169d37e3b644fda9829cb13feec1ad5ebbc20f6d83"
     },
     "atlas/world_4.ktx2": {
-      "file": "hires/atlas/world_4.be91732c.ktx2",
-      "size": 1963693,
-      "sha256": "be91732c7b62c6d0d3ccb9139072625c88cd7d6e1bf0ed044863593cdfa8faa9"
+      "file": "hires/atlas/world_4.42810026.ktx2",
+      "size": 4314654,
+      "sha256": "42810026217215a8feb8062c57559238615c6d5e1ce3170b07ce10eee051e972"
+    },
+    "atlas/world_5.ktx2": {
+      "file": "hires/atlas/world_5.88ec9d16.ktx2",
+      "size": 459456,
+      "sha256": "88ec9d168303eaa2f5492f57ca75428f7d71c3ae6a0629a9e3d32bb1cfd6116a"
     },
     "sound/acid_sizzle_1.ogg": {
       "file": "hires/sound/acid_sizzle_1.68c41a58.ogg",
@@ -6185,6 +6955,21 @@
       "file": "hires/pixel/px_fx_sanctuary.b1f5877c.png",
       "size": 29883,
       "sha256": "b1f5877c2c908bbf8a662a59f22325caf02a290ad18ca0936d7aca1b51157b88"
+    },
+    "pixel/px_fx_sea_smoke.png": {
+      "file": "hires/pixel/px_fx_sea_smoke.ebb3a4a9.png",
+      "size": 1669,
+      "sha256": "ebb3a4a91efd0cda8e90c6c2ee3bdbe968e18fd973f855c1ebc9e78c334bf70a"
+    },
+    "pixel/px_fx_sea_splash.png": {
+      "file": "hires/pixel/px_fx_sea_splash.d25ae53e.png",
+      "size": 3672,
+      "sha256": "d25ae53e6689a8de56ebd74adebfbf6ccd5a141b67bb05c49fd37fec5823f7e7"
+    },
+    "pixel/px_fx_sea_splinters.png": {
+      "file": "hires/pixel/px_fx_sea_splinters.5be573f0.png",
+      "size": 910,
+      "sha256": "5be573f0dbb5be462e2ec3debd8fdb0f5bbb90dd6728c690957f69c6fd3e008f"
     },
     "pixel/px_fx_shatter.png": {
       "file": "hires/pixel/px_fx_shatter.754dc1a5.png",
@@ -12366,6 +13151,16 @@
       "size": 117,
       "sha256": "9a0a48e090e3e8069786954db2c36f9893eda3ce0121cbccb74b00b5e29571ef"
     },
+    "pixel/px_item_bronze.png": {
+      "file": "hires/pixel/px_item_bronze.f7ba4ab4.png",
+      "size": 181,
+      "sha256": "f7ba4ab44b790dce0ce093e9bcfd84855e1d9f710f10e5f8866487c9a84dc1d7"
+    },
+    "pixel/px_item_bronze_ground.png": {
+      "file": "hires/pixel/px_item_bronze_ground.a9b02b08.png",
+      "size": 172,
+      "sha256": "a9b02b0876d74cb0b5563c15f4f4ed741927b87cf7aa43be9361bf4d177082c4"
+    },
     "pixel/px_item_captain_baton.png": {
       "file": "hires/pixel/px_item_captain_baton.fd46b5d7.png",
       "size": 185,
@@ -12416,6 +13211,36 @@
       "size": 148,
       "sha256": "cafe3cddf513d3210b6e56dd23884746b045fc0126ef1faddaeab429f6b523f4"
     },
+    "pixel/px_item_chart_1.png": {
+      "file": "hires/pixel/px_item_chart_1.e005bc53.png",
+      "size": 184,
+      "sha256": "e005bc53a6397329781c1472f9f14bdc7089fac2b7a759db6dab75564b2ec935"
+    },
+    "pixel/px_item_chart_1_ground.png": {
+      "file": "hires/pixel/px_item_chart_1_ground.72bedcba.png",
+      "size": 138,
+      "sha256": "72bedcbab923788f29dc16a43c0ab71b9005dd7a2f34e79c1ea66cbb2026d03d"
+    },
+    "pixel/px_item_chart_2.png": {
+      "file": "hires/pixel/px_item_chart_2.c0e27a4b.png",
+      "size": 205,
+      "sha256": "c0e27a4bb07b44905a6f3718d7da037877e615234eff313a070c44f1307df3bd"
+    },
+    "pixel/px_item_chart_2_ground.png": {
+      "file": "hires/pixel/px_item_chart_2_ground.ea22979f.png",
+      "size": 147,
+      "sha256": "ea22979fe28f77959ef242d0e9ff9b71e5972ad081c272d84109eb2ee73153d3"
+    },
+    "pixel/px_item_chart_3.png": {
+      "file": "hires/pixel/px_item_chart_3.7ac732a6.png",
+      "size": 205,
+      "sha256": "7ac732a6453dde40ca6b6ef9decc583aff9682182e04c03c8322b3edb2760f4f"
+    },
+    "pixel/px_item_chart_3_ground.png": {
+      "file": "hires/pixel/px_item_chart_3_ground.ae5e50f9.png",
+      "size": 142,
+      "sha256": "ae5e50f9566bea61e847e5c3837dcec53f50be41a35b7c0edcfdd8ef7d7a7c05"
+    },
     "pixel/px_item_coral_wand.png": {
       "file": "hires/pixel/px_item_coral_wand.a98383da.png",
       "size": 192,
@@ -12465,6 +13290,356 @@
       "file": "hires/pixel/px_item_flintlock_ground.df791d0c.png",
       "size": 159,
       "sha256": "df791d0c95bc73337bac667e6f7dff75a0f7b98267602bcc925fb14fd3db86f4"
+    },
+    "pixel/px_item_gem_amber_1.png": {
+      "file": "hires/pixel/px_item_gem_amber_1.41ecafca.png",
+      "size": 159,
+      "sha256": "41ecafca1cddef4a2dc8b54462bbacc4cbb17dd6326fbd1d8af278c9baff5a33"
+    },
+    "pixel/px_item_gem_amber_1_ground.png": {
+      "file": "hires/pixel/px_item_gem_amber_1_ground.4645c079.png",
+      "size": 89,
+      "sha256": "4645c079ef4f91fe4c626d11d5f3e7aeadbed7faf242648b0befc7a28d27d47b"
+    },
+    "pixel/px_item_gem_amber_2.png": {
+      "file": "hires/pixel/px_item_gem_amber_2.05dcd5ba.png",
+      "size": 184,
+      "sha256": "05dcd5bad390c294b20b48c40dc28ad8344a262473f4d41daab0c23ff631ab13"
+    },
+    "pixel/px_item_gem_amber_2_ground.png": {
+      "file": "hires/pixel/px_item_gem_amber_2_ground.faf2530c.png",
+      "size": 95,
+      "sha256": "faf2530c7afa2cc1850dc9e03798085815e28e0d5aba2f1f504ed816a7b51bb4"
+    },
+    "pixel/px_item_gem_amber_3.png": {
+      "file": "hires/pixel/px_item_gem_amber_3.1fc23422.png",
+      "size": 188,
+      "sha256": "1fc23422221372db49fd6036b3b9a8c111583059a8d4865b96690aff5c848970"
+    },
+    "pixel/px_item_gem_amber_3_ground.png": {
+      "file": "hires/pixel/px_item_gem_amber_3_ground.b65c265a.png",
+      "size": 115,
+      "sha256": "b65c265a89201b8ee7ac27a18bf1e37560e4446bad57d81e4f55da670e88840e"
+    },
+    "pixel/px_item_gem_amber_4.png": {
+      "file": "hires/pixel/px_item_gem_amber_4.56aa0c6c.png",
+      "size": 199,
+      "sha256": "56aa0c6cc7fc2793d9d457d274621db5704ab05097cc5c87efe867dc71998337"
+    },
+    "pixel/px_item_gem_amber_4_ground.png": {
+      "file": "hires/pixel/px_item_gem_amber_4_ground.1d118f56.png",
+      "size": 117,
+      "sha256": "1d118f56de91ee8b7e87f91fb30d9c0dab7e1a7ed60cf522d99dad9a74d7852d"
+    },
+    "pixel/px_item_gem_amber_5.png": {
+      "file": "hires/pixel/px_item_gem_amber_5.1f0e430d.png",
+      "size": 214,
+      "sha256": "1f0e430d7982e7a47cb417e769109836eff4cf127a18a827314961bf5ccfa734"
+    },
+    "pixel/px_item_gem_amber_5_ground.png": {
+      "file": "hires/pixel/px_item_gem_amber_5_ground.9b23aeb9.png",
+      "size": 129,
+      "sha256": "9b23aeb9c0c9891ca967ae53f26cf3b5c951927019566da3171436c1b17617ca"
+    },
+    "pixel/px_item_gem_coral_1.png": {
+      "file": "hires/pixel/px_item_gem_coral_1.cb9c2357.png",
+      "size": 163,
+      "sha256": "cb9c235741354500cb4077891164e78b4e67c778c482dc3df2b6f4b5974a8657"
+    },
+    "pixel/px_item_gem_coral_1_ground.png": {
+      "file": "hires/pixel/px_item_gem_coral_1_ground.d05dd664.png",
+      "size": 90,
+      "sha256": "d05dd6649c231a66974b2845690f57281609b573eb556d45f929f6da9191f0b1"
+    },
+    "pixel/px_item_gem_coral_2.png": {
+      "file": "hires/pixel/px_item_gem_coral_2.01afa700.png",
+      "size": 192,
+      "sha256": "01afa700561c5cf2996f25b74afa0bcf5a5a263e56561ce815426551944b8352"
+    },
+    "pixel/px_item_gem_coral_2_ground.png": {
+      "file": "hires/pixel/px_item_gem_coral_2_ground.d2be8751.png",
+      "size": 96,
+      "sha256": "d2be87510145191e220f18c216c7309420c7e12657ec7880961ba1cff0ad5acc"
+    },
+    "pixel/px_item_gem_coral_3.png": {
+      "file": "hires/pixel/px_item_gem_coral_3.857eca75.png",
+      "size": 200,
+      "sha256": "857eca753d50ef436fe3c494e53521653f766956e92642dcfe9d5655352c616d"
+    },
+    "pixel/px_item_gem_coral_3_ground.png": {
+      "file": "hires/pixel/px_item_gem_coral_3_ground.cffe6460.png",
+      "size": 118,
+      "sha256": "cffe6460d3f141508db032860b4f278afbb034a1fa8465816dff5f383ecfbf68"
+    },
+    "pixel/px_item_gem_coral_4.png": {
+      "file": "hires/pixel/px_item_gem_coral_4.b22aab7a.png",
+      "size": 210,
+      "sha256": "b22aab7a0e72673cbadf8e5a71281a06d622477b0216a46d8559b5bb5b080405"
+    },
+    "pixel/px_item_gem_coral_4_ground.png": {
+      "file": "hires/pixel/px_item_gem_coral_4_ground.8dd371f7.png",
+      "size": 118,
+      "sha256": "8dd371f729c0c8aea7afa062f0b05c5224ffa0c2c616805bf09c580446c2b9d5"
+    },
+    "pixel/px_item_gem_coral_5.png": {
+      "file": "hires/pixel/px_item_gem_coral_5.2dea71b3.png",
+      "size": 225,
+      "sha256": "2dea71b3e890aa8feabe42498e218880d35ee09c24f18a90acf0bf9afec93d39"
+    },
+    "pixel/px_item_gem_coral_5_ground.png": {
+      "file": "hires/pixel/px_item_gem_coral_5_ground.eec599d7.png",
+      "size": 131,
+      "sha256": "eec599d79d2eeec9d1c2fde10d543214bc9f66af10b3070b6d507a5343a02a82"
+    },
+    "pixel/px_item_gem_diamond_1.png": {
+      "file": "hires/pixel/px_item_gem_diamond_1.99579335.png",
+      "size": 158,
+      "sha256": "9957933505218822ec9ae164591cfc8b75250aafead64c75822d80b9a7f4aa03"
+    },
+    "pixel/px_item_gem_diamond_1_ground.png": {
+      "file": "hires/pixel/px_item_gem_diamond_1_ground.2a921901.png",
+      "size": 86,
+      "sha256": "2a92190156cf9b898bf808e866d9f3f788138c2f59a01435d88986a5484fa22a"
+    },
+    "pixel/px_item_gem_diamond_2.png": {
+      "file": "hires/pixel/px_item_gem_diamond_2.bbe9b1aa.png",
+      "size": 183,
+      "sha256": "bbe9b1aa8af6187ec710e648418c4a3504c0789df7bd37c7b65bcbb0d96b2998"
+    },
+    "pixel/px_item_gem_diamond_2_ground.png": {
+      "file": "hires/pixel/px_item_gem_diamond_2_ground.0465599c.png",
+      "size": 93,
+      "sha256": "0465599c2df82da3fc51215d0752d24670a70515be841542c1745f5ac8021597"
+    },
+    "pixel/px_item_gem_diamond_3.png": {
+      "file": "hires/pixel/px_item_gem_diamond_3.a9106f2d.png",
+      "size": 185,
+      "sha256": "a9106f2df237b94d162ef8e16ca3a3972f0849f6a32ab99be5b39cc718271a8d"
+    },
+    "pixel/px_item_gem_diamond_3_ground.png": {
+      "file": "hires/pixel/px_item_gem_diamond_3_ground.afba60ac.png",
+      "size": 115,
+      "sha256": "afba60acad3aa49a402a8158c183eeba2a275d4abf5360aa4d379cd329bb6d82"
+    },
+    "pixel/px_item_gem_diamond_4.png": {
+      "file": "hires/pixel/px_item_gem_diamond_4.2212e24a.png",
+      "size": 200,
+      "sha256": "2212e24a9134a7d714af02aaca16a825eac33c3da936208864c894e0015da86e"
+    },
+    "pixel/px_item_gem_diamond_4_ground.png": {
+      "file": "hires/pixel/px_item_gem_diamond_4_ground.c7a56792.png",
+      "size": 115,
+      "sha256": "c7a567921dd3c95d59bbd4ab00abdef370ba1f4c000e4981e6b0dccc1bdd11ca"
+    },
+    "pixel/px_item_gem_diamond_5.png": {
+      "file": "hires/pixel/px_item_gem_diamond_5.ee599ac7.png",
+      "size": 212,
+      "sha256": "ee599ac7cf93e1562e83e46794fe60843658c9066e3a1f5e897a84492d3c53ea"
+    },
+    "pixel/px_item_gem_diamond_5_ground.png": {
+      "file": "hires/pixel/px_item_gem_diamond_5_ground.b36b8a74.png",
+      "size": 128,
+      "sha256": "b36b8a74c8e89203cd3600e2750c3197d75640688d08510b56c8a42b28b96b0e"
+    },
+    "pixel/px_item_gem_obsidian_1.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_1.e0981105.png",
+      "size": 164,
+      "sha256": "e098110584116546c5a0043cb585f953e08f30fc1bc03cfc14f63326501ffd15"
+    },
+    "pixel/px_item_gem_obsidian_1_ground.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_1_ground.deb117ba.png",
+      "size": 91,
+      "sha256": "deb117baa19197fd9bf39b703bb7070d7e109d256bd1347cbd382170ac1795c3"
+    },
+    "pixel/px_item_gem_obsidian_2.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_2.326eafe7.png",
+      "size": 194,
+      "sha256": "326eafe7a22040d579c63e3442ace5915936cb93853679f70514e177120fc956"
+    },
+    "pixel/px_item_gem_obsidian_2_ground.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_2_ground.0abeb192.png",
+      "size": 98,
+      "sha256": "0abeb1920a08a2f7f6e1623d4a15654e105d418b360e5200c663a9b4710835c0"
+    },
+    "pixel/px_item_gem_obsidian_3.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_3.a93cc167.png",
+      "size": 201,
+      "sha256": "a93cc167c884a7a0c9747b14d4d12bb42817f2d40afd529d0e1d1afc7d11d7e0"
+    },
+    "pixel/px_item_gem_obsidian_3_ground.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_3_ground.c7a1396d.png",
+      "size": 118,
+      "sha256": "c7a1396d8e92dca1a585c295af4fa1e0fc1c389c4053423b1eeee96d724576b3"
+    },
+    "pixel/px_item_gem_obsidian_4.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_4.bf842ec7.png",
+      "size": 215,
+      "sha256": "bf842ec73be3771385f47e090da5c6282161d22e6aabcee2d05a7f6086abc364"
+    },
+    "pixel/px_item_gem_obsidian_4_ground.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_4_ground.f6a9631c.png",
+      "size": 119,
+      "sha256": "f6a9631ccc237986c4def303ad9bedbe5230d87c37b04517c863e1ed9b9a4093"
+    },
+    "pixel/px_item_gem_obsidian_5.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_5.b9c9d871.png",
+      "size": 232,
+      "sha256": "b9c9d8713fdfffe8dc8dff4db240aa426ccc223a6d093f8dd60b94db79410cb6"
+    },
+    "pixel/px_item_gem_obsidian_5_ground.png": {
+      "file": "hires/pixel/px_item_gem_obsidian_5_ground.00391b88.png",
+      "size": 133,
+      "sha256": "00391b88ee2257674afff5a81e0277187e32c7ed74caddaec304508e32087e03"
+    },
+    "pixel/px_item_gem_pearl_1.png": {
+      "file": "hires/pixel/px_item_gem_pearl_1.132678de.png",
+      "size": 175,
+      "sha256": "132678dee30c9029f28af012028e5fd036805f51fd4f8ccc2e84a192398e1103"
+    },
+    "pixel/px_item_gem_pearl_1_ground.png": {
+      "file": "hires/pixel/px_item_gem_pearl_1_ground.1bd8fb0f.png",
+      "size": 89,
+      "sha256": "1bd8fb0f24a19b6f4ac67d019db273203e8cc0d3f32f8e53dcae87b67435d692"
+    },
+    "pixel/px_item_gem_pearl_2.png": {
+      "file": "hires/pixel/px_item_gem_pearl_2.b15f61f4.png",
+      "size": 187,
+      "sha256": "b15f61f4326416c8590cad91a684a47e876a2f5679e4e726f64d9f407925289f"
+    },
+    "pixel/px_item_gem_pearl_2_ground.png": {
+      "file": "hires/pixel/px_item_gem_pearl_2_ground.a1675e0e.png",
+      "size": 96,
+      "sha256": "a1675e0e50ef271e05c09f61b73e8f262a35ca945f6fdb3f50f904cfb3838b2c"
+    },
+    "pixel/px_item_gem_pearl_3.png": {
+      "file": "hires/pixel/px_item_gem_pearl_3.3a347418.png",
+      "size": 207,
+      "sha256": "3a347418a448c802a7330a7d3587879d93a63096c35a80f5857a428831c73ad1"
+    },
+    "pixel/px_item_gem_pearl_3_ground.png": {
+      "file": "hires/pixel/px_item_gem_pearl_3_ground.0e9f948c.png",
+      "size": 109,
+      "sha256": "0e9f948cbc4a0f91075612bd2cbb0d78d16f41107b59efced0b03e93d82e044d"
+    },
+    "pixel/px_item_gem_pearl_4.png": {
+      "file": "hires/pixel/px_item_gem_pearl_4.187239cd.png",
+      "size": 218,
+      "sha256": "187239cde17fd7a79e0e33c7e4f033f5317464918951fb6c65aba41df3920bd3"
+    },
+    "pixel/px_item_gem_pearl_4_ground.png": {
+      "file": "hires/pixel/px_item_gem_pearl_4_ground.f475c0ec.png",
+      "size": 115,
+      "sha256": "f475c0ec42e205047cc493c0d2f95b97f749018f3b7f2905df3f0a9200660a26"
+    },
+    "pixel/px_item_gem_pearl_5.png": {
+      "file": "hires/pixel/px_item_gem_pearl_5.bf7f4241.png",
+      "size": 211,
+      "sha256": "bf7f424129ada2d91ae4494a390f55c7fb8167cadce41d82fb59b09e9dbcd79c"
+    },
+    "pixel/px_item_gem_pearl_5_ground.png": {
+      "file": "hires/pixel/px_item_gem_pearl_5_ground.03181686.png",
+      "size": 129,
+      "sha256": "0318168638794757c58f9eed7d6fb49f0a79b9663276f717977e23ac7265420d"
+    },
+    "pixel/px_item_gem_ruby_1.png": {
+      "file": "hires/pixel/px_item_gem_ruby_1.349428d0.png",
+      "size": 153,
+      "sha256": "349428d0e8bdde3faeae41fb80d4d44d10be85be9a4dd713ba923918e3c4bec5"
+    },
+    "pixel/px_item_gem_ruby_1_ground.png": {
+      "file": "hires/pixel/px_item_gem_ruby_1_ground.3e726fee.png",
+      "size": 89,
+      "sha256": "3e726feec10a08eda4519e35c152de48ee0046c7a8ad58d45e12f1ab4345614f"
+    },
+    "pixel/px_item_gem_ruby_2.png": {
+      "file": "hires/pixel/px_item_gem_ruby_2.5e636e70.png",
+      "size": 178,
+      "sha256": "5e636e7038fcffa1dba765ef81634c619ed9771764855f94d9e527d8341b4a49"
+    },
+    "pixel/px_item_gem_ruby_2_ground.png": {
+      "file": "hires/pixel/px_item_gem_ruby_2_ground.4a7068d3.png",
+      "size": 95,
+      "sha256": "4a7068d3d19914233ae350b49534f1813b81b5f90ffe7d479382308a8351eef9"
+    },
+    "pixel/px_item_gem_ruby_3.png": {
+      "file": "hires/pixel/px_item_gem_ruby_3.2e01e635.png",
+      "size": 179,
+      "sha256": "2e01e6352895fa604bff7e0a9fc79ad07283049e14d5f040b08e322642ae760a"
+    },
+    "pixel/px_item_gem_ruby_3_ground.png": {
+      "file": "hires/pixel/px_item_gem_ruby_3_ground.9cd055cc.png",
+      "size": 113,
+      "sha256": "9cd055ccdf60f626396476eacff620c16fe5e98baa886cdc60151ae1837b5791"
+    },
+    "pixel/px_item_gem_ruby_4.png": {
+      "file": "hires/pixel/px_item_gem_ruby_4.2b7ad01c.png",
+      "size": 193,
+      "sha256": "2b7ad01c167508cc8d0f88f643428b2cd0d017dea80f538194805a1a03f0be5d"
+    },
+    "pixel/px_item_gem_ruby_4_ground.png": {
+      "file": "hires/pixel/px_item_gem_ruby_4_ground.94a253c9.png",
+      "size": 117,
+      "sha256": "94a253c914fc08b4bc2824f1688cb91eed3172dbe18495e84bd9d271b490eb9a"
+    },
+    "pixel/px_item_gem_ruby_5.png": {
+      "file": "hires/pixel/px_item_gem_ruby_5.200bdebb.png",
+      "size": 208,
+      "sha256": "200bdebb3785f5706e5b0c8811df49de7b048b28240fbef1bfdc10e78145dee5"
+    },
+    "pixel/px_item_gem_ruby_5_ground.png": {
+      "file": "hires/pixel/px_item_gem_ruby_5_ground.929fb637.png",
+      "size": 128,
+      "sha256": "929fb637bd0e274722b75904032f542af67d6c8d5ac4714fd3360cfdddb6ca4f"
+    },
+    "pixel/px_item_gem_sapphire_1.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_1.65dc2221.png",
+      "size": 161,
+      "sha256": "65dc2221d6f86fbe8e2e646342776b68e0dfa81f672e991584527c097c7e94b2"
+    },
+    "pixel/px_item_gem_sapphire_1_ground.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_1_ground.7dae63cc.png",
+      "size": 91,
+      "sha256": "7dae63cc5f76ec02253e99b8eaa4839dce15032e6db01924c3397fac19bb0f89"
+    },
+    "pixel/px_item_gem_sapphire_2.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_2.65f9f8e5.png",
+      "size": 190,
+      "sha256": "65f9f8e5de99382be69b3b8c3eb351026fec20da5867e3d37c38d052cf893813"
+    },
+    "pixel/px_item_gem_sapphire_2_ground.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_2_ground.2bac44d9.png",
+      "size": 98,
+      "sha256": "2bac44d973d22315b2cfd62cbb9cbe9c5fd70142961ac61999f2ac12902ef5a3"
+    },
+    "pixel/px_item_gem_sapphire_3.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_3.f5425f33.png",
+      "size": 196,
+      "sha256": "f5425f33a278212470ffa3cea6768149ae39f5f78a58c313f5be11d9dbaa8c16"
+    },
+    "pixel/px_item_gem_sapphire_3_ground.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_3_ground.170309d0.png",
+      "size": 117,
+      "sha256": "170309d03d9a9d21705d7094d13d51364a88d446dfb43ab889ef8bd01a45b2b6"
+    },
+    "pixel/px_item_gem_sapphire_4.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_4.08a98745.png",
+      "size": 206,
+      "sha256": "08a987451e2dda58fcaeeb6a23c3fac22ddd45278d8ba531138c7f713f7bffea"
+    },
+    "pixel/px_item_gem_sapphire_4_ground.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_4_ground.547e50e9.png",
+      "size": 119,
+      "sha256": "547e50e9c9623b1651e9a368083f985f3d5b46dab1c023bbdaff5b734e739b50"
+    },
+    "pixel/px_item_gem_sapphire_5.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_5.41046630.png",
+      "size": 219,
+      "sha256": "41046630d322c8c4a2b19e29952a4ba19ec33fd851e7ba3ce0149df668a84d55"
+    },
+    "pixel/px_item_gem_sapphire_5_ground.png": {
+      "file": "hires/pixel/px_item_gem_sapphire_5_ground.cd6acc06.png",
+      "size": 130,
+      "sha256": "cd6acc066f580975439fe4bfd2b9355fc1739129bcfe969a72dc448c9d604c43"
     },
     "pixel/px_item_gold.png": {
       "file": "hires/pixel/px_item_gold.fb638dd6.png",
@@ -12556,6 +13731,16 @@
       "size": 163,
       "sha256": "e1b02ebb20ea6c521e195fbd50124ec327fe73ea3e1ae5db9f207b4736c73861"
     },
+    "pixel/px_item_log_fragment.png": {
+      "file": "hires/pixel/px_item_log_fragment.66de06eb.png",
+      "size": 177,
+      "sha256": "66de06eb8004e0bd908c2b2bea015fcdaa852de1a0a90a9ece08962ef86c670b"
+    },
+    "pixel/px_item_log_fragment_ground.png": {
+      "file": "hires/pixel/px_item_log_fragment_ground.faeddf64.png",
+      "size": 97,
+      "sha256": "faeddf64e6570c4e6e6efdd08fb7147c7b8c617ffd4b43d2e444f39a7e7a9406"
+    },
     "pixel/px_item_logbook.png": {
       "file": "hires/pixel/px_item_logbook.1f7d537e.png",
       "size": 254,
@@ -12626,6 +13811,16 @@
       "size": 145,
       "sha256": "9c9ba150006681e963e7a555c26aa2a4894433c8a6cee3468c789e3c588ed1e3"
     },
+    "pixel/px_item_plank.png": {
+      "file": "hires/pixel/px_item_plank.2bbfe28f.png",
+      "size": 225,
+      "sha256": "2bbfe28f1ae953ba27a862f5beefb66b896b6b24eca074bd953982523115ff29"
+    },
+    "pixel/px_item_plank_ground.png": {
+      "file": "hires/pixel/px_item_plank_ground.067acbd4.png",
+      "size": 202,
+      "sha256": "067acbd4819511469a3fe41498fc8a7ab64b2442b3768b6ab6dfc6fdd6ce5cdc"
+    },
     "pixel/px_item_plate_cuirass.png": {
       "file": "hires/pixel/px_item_plate_cuirass.94dfd603.png",
       "size": 478,
@@ -12656,6 +13851,11 @@
       "size": 165,
       "sha256": "bae5a78810229033649069aac8a998ed2f86225e8fef6d61c848ecff186c41c0"
     },
+    "pixel/px_item_rope.png": {
+      "file": "hires/pixel/px_item_rope.4bf33059.png",
+      "size": 268,
+      "sha256": "4bf3305939ed87fe35279c4ce8d03160c9276ffcdd4415ad422cd50aa8c3a348"
+    },
     "pixel/px_item_rope_belt.png": {
       "file": "hires/pixel/px_item_rope_belt.b84a938a.png",
       "size": 307,
@@ -12665,6 +13865,11 @@
       "file": "hires/pixel/px_item_rope_belt_ground.1c8ff84d.png",
       "size": 136,
       "sha256": "1c8ff84de5e17089d6ff133250efe080fffdff90186f045c166e8aa6b522607e"
+    },
+    "pixel/px_item_rope_ground.png": {
+      "file": "hires/pixel/px_item_rope_ground.9b14c680.png",
+      "size": 173,
+      "sha256": "9b14c680fcdc54dea82a6c29c5f4bf31bae5e8c6dc47ab4c2e6cc0736c7fc351"
     },
     "pixel/px_item_round_shield.png": {
       "file": "hires/pixel/px_item_round_shield.8c7784fa.png",
@@ -12776,6 +13981,16 @@
       "size": 182,
       "sha256": "04739a33518b194a6d10338cb0a6097f557bba6962bdf421b77ccbc6a10a831c"
     },
+    "pixel/px_item_sailcloth.png": {
+      "file": "hires/pixel/px_item_sailcloth.1870788f.png",
+      "size": 231,
+      "sha256": "1870788fc16de87b9075f1123d838ad457a99c99e4eaa960d7eb83bc908120cb"
+    },
+    "pixel/px_item_sailcloth_ground.png": {
+      "file": "hires/pixel/px_item_sailcloth_ground.51016659.png",
+      "size": 173,
+      "sha256": "510166594c8bac6bb49a5f71d75de7a5ee89df5688f66eeeabbc1c57334a70f7"
+    },
     "pixel/px_item_sailor_clothes.png": {
       "file": "hires/pixel/px_item_sailor_clothes.d6acdc9b.png",
       "size": 753,
@@ -12806,6 +14021,26 @@
       "size": 163,
       "sha256": "70b94853fb150cfa7cdbcf452163731712235ca89368c7427bd3c470ee95b787"
     },
+    "pixel/px_item_serpent_scale.png": {
+      "file": "hires/pixel/px_item_serpent_scale.dfd1e342.png",
+      "size": 175,
+      "sha256": "dfd1e342c3ed39c8bb6666a7fb48af1bcfd15ecad1242a25eb65f2ad92226e06"
+    },
+    "pixel/px_item_serpent_scale_ground.png": {
+      "file": "hires/pixel/px_item_serpent_scale_ground.bc7d8651.png",
+      "size": 132,
+      "sha256": "bc7d86516a91a66870c3e5eab8249b11baadf407068c5fa1dd846ff7be4a1f5a"
+    },
+    "pixel/px_item_sigil_abyss.png": {
+      "file": "hires/pixel/px_item_sigil_abyss.7dec4410.png",
+      "size": 222,
+      "sha256": "7dec441053bd8f5888733ef2ed00d7cf0afdca83a6ae0791f5a10a9e01a6a384"
+    },
+    "pixel/px_item_sigil_abyss_ground.png": {
+      "file": "hires/pixel/px_item_sigil_abyss_ground.ae4c3df6.png",
+      "size": 139,
+      "sha256": "ae4c3df69f99b064a9324a331f262468052b32a3b6ef0b5d8570936aadc34bb1"
+    },
     "pixel/px_item_sigil_anchor.png": {
       "file": "hires/pixel/px_item_sigil_anchor.039bcafc.png",
       "size": 231,
@@ -12826,6 +14061,26 @@
       "size": 128,
       "sha256": "33b37a4ba09312685a7e1e8f69df55117008ec037cc906b9ffe32e0935eb0318"
     },
+    "pixel/px_item_sigil_cannon.png": {
+      "file": "hires/pixel/px_item_sigil_cannon.b1394573.png",
+      "size": 229,
+      "sha256": "b13945737e470eb72e5f0d861aee06b6a65a36784a161a961f7429b5dbe73efa"
+    },
+    "pixel/px_item_sigil_cannon_ground.png": {
+      "file": "hires/pixel/px_item_sigil_cannon_ground.0b57e9b3.png",
+      "size": 135,
+      "sha256": "0b57e9b3d34bdf41aff045ae9cb636d83049da0d7f3dc75a2883daf6bd602327"
+    },
+    "pixel/px_item_sigil_chart.png": {
+      "file": "hires/pixel/px_item_sigil_chart.31079b05.png",
+      "size": 214,
+      "sha256": "31079b05db4ce024e7a1305124fb584018d29c31ef62c618d8709032719833fc"
+    },
+    "pixel/px_item_sigil_chart_ground.png": {
+      "file": "hires/pixel/px_item_sigil_chart_ground.701922e1.png",
+      "size": 133,
+      "sha256": "701922e18e364cb8e825b1060773f3a7bd2f1e12ffa0aad051796265e70fba8c"
+    },
     "pixel/px_item_sigil_coral.png": {
       "file": "hires/pixel/px_item_sigil_coral.84cbef3f.png",
       "size": 219,
@@ -12836,6 +14091,86 @@
       "size": 143,
       "sha256": "064b8ce0fdcb2f3163f105cd929b4f525055bdb77c53024c3225ea1018a308ca"
     },
+    "pixel/px_item_sigil_crux.png": {
+      "file": "hires/pixel/px_item_sigil_crux.4c5822f3.png",
+      "size": 221,
+      "sha256": "4c5822f3ff73ce0d7740e75c47ba200b56ae3264d534ec8be1f8e3fb358fc505"
+    },
+    "pixel/px_item_sigil_crux_ground.png": {
+      "file": "hires/pixel/px_item_sigil_crux_ground.58e2375c.png",
+      "size": 138,
+      "sha256": "58e2375c1bfda8710489b24bdb0f70bd44c20918280847c569fb9a66f06f1287"
+    },
+    "pixel/px_item_sigil_eclipse.png": {
+      "file": "hires/pixel/px_item_sigil_eclipse.733e7c33.png",
+      "size": 217,
+      "sha256": "733e7c33eaa85d946b7d8d418e813a7acf068dce2fc46484196ee42c848f5453"
+    },
+    "pixel/px_item_sigil_eclipse_ground.png": {
+      "file": "hires/pixel/px_item_sigil_eclipse_ground.87f22757.png",
+      "size": 134,
+      "sha256": "87f22757bcd8018f0aac1e25f1aa8e3f4d6d9beb4f50ff8e696158da2a581006"
+    },
+    "pixel/px_item_sigil_ghostship.png": {
+      "file": "hires/pixel/px_item_sigil_ghostship.6ddb0be4.png",
+      "size": 232,
+      "sha256": "6ddb0be4542fcb972d94e90f57405f56e9cdaa62154cc3ba0bbf91ca65e8556f"
+    },
+    "pixel/px_item_sigil_ghostship_ground.png": {
+      "file": "hires/pixel/px_item_sigil_ghostship_ground.cd7f086f.png",
+      "size": 138,
+      "sha256": "cd7f086f6e371297ebe737c7518bfd3cd1b083b9d533d2c6992704122ce63df0"
+    },
+    "pixel/px_item_sigil_gull.png": {
+      "file": "hires/pixel/px_item_sigil_gull.55b8f090.png",
+      "size": 197,
+      "sha256": "55b8f0905b31c8f7a42db8c275377d06031c4e1030970d5011b138ff07d92878"
+    },
+    "pixel/px_item_sigil_gull_ground.png": {
+      "file": "hires/pixel/px_item_sigil_gull_ground.df65ea79.png",
+      "size": 136,
+      "sha256": "df65ea795e9559285adbc3dcbc005f9b4e9d8b5094ddf98396ef620be026e7c3"
+    },
+    "pixel/px_item_sigil_helm.png": {
+      "file": "hires/pixel/px_item_sigil_helm.3b58ecc3.png",
+      "size": 223,
+      "sha256": "3b58ecc3f7d9da4ce0716916919584510a4ca6361929d817b1f8df1ad4891daf"
+    },
+    "pixel/px_item_sigil_helm_ground.png": {
+      "file": "hires/pixel/px_item_sigil_helm_ground.9b579bdd.png",
+      "size": 137,
+      "sha256": "9b579bdd374fa53e49ebbe82fb2053e8fc510c9f2f71dddcebb6a1633e411517"
+    },
+    "pixel/px_item_sigil_hourglass.png": {
+      "file": "hires/pixel/px_item_sigil_hourglass.2ba68d49.png",
+      "size": 191,
+      "sha256": "2ba68d49b706b5d93ed9d4358a568542ce5246dd29f0f081918ae6b042a597b7"
+    },
+    "pixel/px_item_sigil_hourglass_ground.png": {
+      "file": "hires/pixel/px_item_sigil_hourglass_ground.7a0c20b1.png",
+      "size": 138,
+      "sha256": "7a0c20b1e7a4ef73510a287ad47ba824b5c7f5319bdd136b02e179eb3b0bad19"
+    },
+    "pixel/px_item_sigil_hull.png": {
+      "file": "hires/pixel/px_item_sigil_hull.ee93848c.png",
+      "size": 224,
+      "sha256": "ee93848c3d53b7f86bd81782097488a12a8a988901141226989cca59605fc1b6"
+    },
+    "pixel/px_item_sigil_hull_ground.png": {
+      "file": "hires/pixel/px_item_sigil_hull_ground.2c16f715.png",
+      "size": 145,
+      "sha256": "2c16f71580ecb9c2be9cba7d7da8f0e4dc7f691d0f214814c3984247bc716fa4"
+    },
+    "pixel/px_item_sigil_kraken.png": {
+      "file": "hires/pixel/px_item_sigil_kraken.a7d2cb36.png",
+      "size": 229,
+      "sha256": "a7d2cb36739e1ff591e5f7e0c96b6e2435fe32de6235cdc4ca446b5dbdba2b70"
+    },
+    "pixel/px_item_sigil_kraken_ground.png": {
+      "file": "hires/pixel/px_item_sigil_kraken_ground.0f36be06.png",
+      "size": 144,
+      "sha256": "0f36be06d8413dc8613ddbaf2e2743d3db48266ca0d94518bef0429789749d32"
+    },
     "pixel/px_item_sigil_lantern.png": {
       "file": "hires/pixel/px_item_sigil_lantern.ddd984c1.png",
       "size": 220,
@@ -12845,6 +14180,16 @@
       "file": "hires/pixel/px_item_sigil_lantern_ground.ac7e086f.png",
       "size": 138,
       "sha256": "ac7e086f15d3719417eb00e4667af4321e163179face3ad9a3a1f691c48c9558"
+    },
+    "pixel/px_item_sigil_needle.png": {
+      "file": "hires/pixel/px_item_sigil_needle.4439f815.png",
+      "size": 214,
+      "sha256": "4439f815865b4236425342f17b775ef7e6c8e0f917dfcf9c6dd06b057a952eb9"
+    },
+    "pixel/px_item_sigil_needle_ground.png": {
+      "file": "hires/pixel/px_item_sigil_needle_ground.8491f944.png",
+      "size": 134,
+      "sha256": "8491f944830e3066fb4eda116011f6b6370efc7f5bb0727a1585e7b62c86cd2a"
     },
     "pixel/px_item_sigil_oar.png": {
       "file": "hires/pixel/px_item_sigil_oar.6b3ac46d.png",
@@ -12866,6 +14211,16 @@
       "size": 153,
       "sha256": "e4d36a154cb64fa21f65d2cffe959656bfdc1cbc58b9acc4d9a58504a1437121"
     },
+    "pixel/px_item_sigil_polaris.png": {
+      "file": "hires/pixel/px_item_sigil_polaris.ef440e48.png",
+      "size": 245,
+      "sha256": "ef440e48470c75974021b3cb10d94cae4e0a490ba8d2333de86a6c0d1a0cfc5d"
+    },
+    "pixel/px_item_sigil_polaris_ground.png": {
+      "file": "hires/pixel/px_item_sigil_polaris_ground.2e83ce5d.png",
+      "size": 139,
+      "sha256": "2e83ce5db410654e2066517681440c0f059e576bb087cae7a39036354c23253c"
+    },
     "pixel/px_item_sigil_sail.png": {
       "file": "hires/pixel/px_item_sigil_sail.c172c68d.png",
       "size": 229,
@@ -12876,6 +14231,26 @@
       "size": 136,
       "sha256": "e21532a97206757d82f0c9d8c5a2a497ac7a66b95b4ef86ddcbf5644d58baa3b"
     },
+    "pixel/px_item_sigil_sextant.png": {
+      "file": "hires/pixel/px_item_sigil_sextant.1fc3d73a.png",
+      "size": 211,
+      "sha256": "1fc3d73a8582aec111ec9788e9eee2050132e05a1ba4f39dce9458e9dcfe05e4"
+    },
+    "pixel/px_item_sigil_sextant_ground.png": {
+      "file": "hires/pixel/px_item_sigil_sextant_ground.1cd91b69.png",
+      "size": 135,
+      "sha256": "1cd91b69f6fb4ef5437a6bf1b35e6ce32e790d587b3f4a60e8de18eb539f1067"
+    },
+    "pixel/px_item_sigil_storm.png": {
+      "file": "hires/pixel/px_item_sigil_storm.4b2932bf.png",
+      "size": 214,
+      "sha256": "4b2932bf11edcc4287e2242d7a3d04c623e3836f636efeca1b6aecf638434307"
+    },
+    "pixel/px_item_sigil_storm_ground.png": {
+      "file": "hires/pixel/px_item_sigil_storm_ground.4254e7ac.png",
+      "size": 138,
+      "sha256": "4254e7ac70abe2d7dbd081467de9d827712316d026a1f44d2dc3aea9eb47936f"
+    },
     "pixel/px_item_sigil_wave.png": {
       "file": "hires/pixel/px_item_sigil_wave.4fcc6d71.png",
       "size": 220,
@@ -12885,6 +14260,16 @@
       "file": "hires/pixel/px_item_sigil_wave_ground.0581031e.png",
       "size": 133,
       "sha256": "0581031e000f7f6c57f1f3e25c21a049d8cbe106f7914c12c42acdbe53f4fe29"
+    },
+    "pixel/px_item_sigil_worldtree.png": {
+      "file": "hires/pixel/px_item_sigil_worldtree.27184f36.png",
+      "size": 231,
+      "sha256": "27184f36317d3c74c82be57ec1cdca250189458d1ea9c1ae5714ca5ca27843c2"
+    },
+    "pixel/px_item_sigil_worldtree_ground.png": {
+      "file": "hires/pixel/px_item_sigil_worldtree_ground.a46a7795.png",
+      "size": 142,
+      "sha256": "a46a779541a0bcc436b5dcabda09603dcb1248b3596ff0a812a590ecb9995991"
     },
     "pixel/px_item_silver_crate.png": {
       "file": "hires/pixel/px_item_silver_crate.31872723.png",
@@ -13401,6 +14786,11 @@
       "size": 250926,
       "sha256": "361af7cbc71d78405f9e10f165439e196c19e95bf13db4fe33cf727ddcc5840b"
     },
+    "pixel/px_npc_adrien_idle.png": {
+      "file": "hires/pixel/px_npc_adrien_idle.31994415.png",
+      "size": 7351,
+      "sha256": "319944159fb160cc00c1ac8e7f9e41cb9f33ac544dfcb9c8305c31e3734a5335"
+    },
     "pixel/px_npc_alonso_idle.png": {
       "file": "hires/pixel/px_npc_alonso_idle.02c4e185.png",
       "size": 8102,
@@ -13425,6 +14815,16 @@
       "file": "hires/pixel/px_npc_carmen_idle.ea2b0734.png",
       "size": 7216,
       "sha256": "ea2b0734c1c102fd3eab4236d29d1aebc3b3c418c8db9caf076c9361be93b284"
+    },
+    "pixel/px_npc_celeste_idle.png": {
+      "file": "hires/pixel/px_npc_celeste_idle.3bc3c42b.png",
+      "size": 6532,
+      "sha256": "3bc3c42b7f0a90fdc6b3947660cf575c70815e3194f4c8614bd901f8b03106ff"
+    },
+    "pixel/px_npc_diego_idle.png": {
+      "file": "hires/pixel/px_npc_diego_idle.339940cf.png",
+      "size": 8115,
+      "sha256": "339940cfeaef12875f0e2086476ed285252857951f94021011cb6375abd48a1d"
     },
     "pixel/px_npc_fairy_queen_idle.png": {
       "file": "hires/pixel/px_npc_fairy_queen_idle.2b5e34e6.png",
@@ -13451,6 +14851,11 @@
       "size": 7317,
       "sha256": "0e5abfd8f176fa2edec8182ebdb89594517cc4a3f5df46c548c5e0ccd644c8cc"
     },
+    "pixel/px_npc_joana_idle.png": {
+      "file": "hires/pixel/px_npc_joana_idle.2e93c4c3.png",
+      "size": 6738,
+      "sha256": "2e93c4c3800d912e06e1e996581c6c3940c4331d0d2337cc926abdadf613ef05"
+    },
     "pixel/px_npc_juan_idle.png": {
       "file": "hires/pixel/px_npc_juan_idle.1c2bb5fa.png",
       "size": 8326,
@@ -13460,6 +14865,11 @@
       "file": "hires/pixel/px_npc_king_ghost_idle.51ec524f.png",
       "size": 12472,
       "sha256": "51ec524f071dc5d3eb00236960ae05bc4e4395b409dde11eefddc4ddb38df07d"
+    },
+    "pixel/px_npc_lucia_idle.png": {
+      "file": "hires/pixel/px_npc_lucia_idle.dfee5ae2.png",
+      "size": 6375,
+      "sha256": "dfee5ae22114a620f9b3ae062941240930909c96d37a09ad2b30a8a60b638656"
     },
     "pixel/px_npc_lucien_idle.png": {
       "file": "hires/pixel/px_npc_lucien_idle.e4a96c94.png",
@@ -13486,6 +14896,11 @@
       "size": 8376,
       "sha256": "c09f731144c9dd72c7d75ffcd919372cafe1fa7101e6d24bd3aa06b20f3079ec"
     },
+    "pixel/px_npc_mathieu_idle.png": {
+      "file": "hires/pixel/px_npc_mathieu_idle.36eead8a.png",
+      "size": 9038,
+      "sha256": "36eead8a36f3549de1d6aab43269852f516161885e748a7e348bfcb9faae7139"
+    },
     "pixel/px_npc_pedro_idle.png": {
       "file": "hires/pixel/px_npc_pedro_idle.09f3ddba.png",
       "size": 7893,
@@ -13501,10 +14916,30 @@
       "size": 8196,
       "sha256": "29310772e4de6cc6fe2d26f87e34b672e3688e6e6a58352f73d9b166156cc1c3"
     },
+    "pixel/px_npc_rodrigo_idle.png": {
+      "file": "hires/pixel/px_npc_rodrigo_idle.085b70f9.png",
+      "size": 8535,
+      "sha256": "085b70f94db12ea21e27f403f593b41257f946bb1b8eb76657663b5257ee169d"
+    },
+    "pixel/px_npc_tiago_idle.png": {
+      "file": "hires/pixel/px_npc_tiago_idle.3d87cd36.png",
+      "size": 8114,
+      "sha256": "3d87cd3654890abda887d8aff0ceb5ac6c81381f4794b15ac6c1ffee2b952870"
+    },
+    "pixel/px_npc_tiagu_idle.png": {
+      "file": "hires/pixel/px_npc_tiagu_idle.1f304f0d.png",
+      "size": 9214,
+      "sha256": "1f304f0d8514d280a4cac68e900a9cf10cb4d86f55b9dbb3c7a257f7d9b2aa3e"
+    },
     "pixel/px_npc_tomas_idle.png": {
       "file": "hires/pixel/px_npc_tomas_idle.4f1eaf2d.png",
       "size": 6248,
       "sha256": "4f1eaf2db63af4e7a999ced638579aadec9f45ae4fee1e4605eeed54c5b0b84e"
+    },
+    "pixel/px_npc_yves_idle.png": {
+      "file": "hires/pixel/px_npc_yves_idle.fd8ff2c1.png",
+      "size": 6743,
+      "sha256": "fd8ff2c1741ee8b3ba55a9870f6e4b9afd0fa61dcfa129a3394c614a80c3f5cc"
     },
     "pixel/px_olive_tree.png": {
       "file": "hires/pixel/px_olive_tree.0211530d.png",
@@ -13571,6 +15006,21 @@
       "size": 496,
       "sha256": "13a9ee8d946d9e6b9a3fafac548e17dfb4df27bd7287194d218314ea2ca76f50"
     },
+    "pixel/px_pirate_brig_death.png": {
+      "file": "hires/pixel/px_pirate_brig_death.93f96d68.png",
+      "size": 48840,
+      "sha256": "93f96d6823aea336748f0a66a54f58b49a22c36892c890e7f72bc8b090da65a8"
+    },
+    "pixel/px_pirate_brig_idle.png": {
+      "file": "hires/pixel/px_pirate_brig_idle.9834e7f8.png",
+      "size": 37611,
+      "sha256": "9834e7f853f7d9796fec4f1e90ff7ef6a3cdedc1df6bc2bc7c7402751376700f"
+    },
+    "pixel/px_pirate_brig_walk.png": {
+      "file": "hires/pixel/px_pirate_brig_walk.cc306cec.png",
+      "size": 120690,
+      "sha256": "cc306cec646112f0c5838931b90d9c54bd05bc68fb10841f28746cbce425bf2c"
+    },
     "pixel/px_pirate_scout_attack.png": {
       "file": "hires/pixel/px_pirate_scout_attack.294e0337.png",
       "size": 21400,
@@ -13590,6 +15040,21 @@
       "file": "hires/pixel/px_pirate_scout_walk.745e83ee.png",
       "size": 23667,
       "sha256": "745e83eed46a952e9d817aa76cd20280e079ca0dbeef8e6620653764677cb3d7"
+    },
+    "pixel/px_pirate_sloop_death.png": {
+      "file": "hires/pixel/px_pirate_sloop_death.eb8e9238.png",
+      "size": 32183,
+      "sha256": "eb8e92385ac7f17fcf9e535d64e506012c5e20f9e016f2d3cee5db0b90ab1604"
+    },
+    "pixel/px_pirate_sloop_idle.png": {
+      "file": "hires/pixel/px_pirate_sloop_idle.16af1c63.png",
+      "size": 23942,
+      "sha256": "16af1c63f777c874be370b95d8f82d430437aaa373c2a9a081b61e46943663eb"
+    },
+    "pixel/px_pirate_sloop_walk.png": {
+      "file": "hires/pixel/px_pirate_sloop_walk.095b5f17.png",
+      "size": 80980,
+      "sha256": "095b5f17cfd075848dca1632d3dc786a12003bc48562b5a3e9cce4a6bf0fcbd7"
     },
     "pixel/px_prison_bars.png": {
       "file": "hires/pixel/px_prison_bars.10c4e7cf.png",
@@ -13696,10 +15161,40 @@
       "size": 2955,
       "sha256": "314159823d3df5398f5120f1422b9682fb2ed9e1db63f63b886447d90e691aee"
     },
+    "pixel/px_santa_lucia_death.png": {
+      "file": "hires/pixel/px_santa_lucia_death.84e92074.png",
+      "size": 41775,
+      "sha256": "84e92074eb6ad19316493cfdf52ef61d9876194c433511524d815e27a1579425"
+    },
+    "pixel/px_santa_lucia_idle.png": {
+      "file": "hires/pixel/px_santa_lucia_idle.ad1942db.png",
+      "size": 31221,
+      "sha256": "ad1942dbfc207911b6f7de5ec83e60930568d4309a23679c7cdcdde68c278266"
+    },
+    "pixel/px_santa_lucia_walk.png": {
+      "file": "hires/pixel/px_santa_lucia_walk.8662d8f1.png",
+      "size": 103438,
+      "sha256": "8662d8f1ed9f0ed2b86dd1b82f4c6c15049b75a7e0ecde1a58ea5f99ea987dd8"
+    },
     "pixel/px_sarcophagus.png": {
       "file": "hires/pixel/px_sarcophagus.ff727c6e.png",
       "size": 1505,
       "sha256": "ff727c6ee2a07508e904e4b0fcfaab6ea9edc09147aeeee99eaa10d40bd2c259"
+    },
+    "pixel/px_sea_serpent_death.png": {
+      "file": "hires/pixel/px_sea_serpent_death.0cf4dd53.png",
+      "size": 17501,
+      "sha256": "0cf4dd53335afc14edad9cdf389d9e1e38aed4b5875ab2168b8c7c878fabe1f9"
+    },
+    "pixel/px_sea_serpent_idle.png": {
+      "file": "hires/pixel/px_sea_serpent_idle.09ee7633.png",
+      "size": 13922,
+      "sha256": "09ee7633a686deb84a66f5003e21892c4fc7c801734906d90ea1a9ca6e4cee09"
+    },
+    "pixel/px_sea_serpent_walk.png": {
+      "file": "hires/pixel/px_sea_serpent_walk.6ae74bbd.png",
+      "size": 49176,
+      "sha256": "6ae74bbd7417edde5cdb272fc5f8523ebe7095d6415db00108d4f8f25a01d13b"
     },
     "pixel/px_seaweed.png": {
       "file": "hires/pixel/px_seaweed.8f8c261b.png",
@@ -14506,10 +16001,20 @@
       "size": 2082,
       "sha256": "b30dfdbe5b98cda7944cb69c5d5af798c56d113f287f12e4822d812567565c58"
     },
+    "pixel/px_wreck_death.png": {
+      "file": "hires/pixel/px_wreck_death.1dddfdf3.png",
+      "size": 25993,
+      "sha256": "1dddfdf38c30b5ff38128f19c4f1a4c7ef821c204e6841800c8e49bd6f98dc39"
+    },
     "pixel/px_wreck_debris.png": {
       "file": "hires/pixel/px_wreck_debris.4c26e629.png",
       "size": 331,
       "sha256": "4c26e62962fae0fd61d4c97383153298482ead03441d371ac6e8acf87698f1fb"
+    },
+    "pixel/px_wreck_idle.png": {
+      "file": "hires/pixel/px_wreck_idle.40a9e6d4.png",
+      "size": 27826,
+      "sha256": "40a9e6d4b1333a0402797ce74e15614b57e79a96b8262c69172e49f404ceb726"
     },
     "pixel/px_wreck_rubble.png": {
       "file": "hires/pixel/px_wreck_rubble.b2e955f5.png",

@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 /**
  * age-of-sail-assets 검사 (Pages 배포 전, CI에서) — node check.mjs
  * 이 파일은 age-of-sail 레포의 tools/asset-repo/ 에서 복사됩니다. 여기서 고치지 말고 그쪽에서.
