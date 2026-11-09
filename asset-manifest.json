@@ -46,6 +46,26 @@
       "size": 493528,
       "sha256": "63c8603bd49115671d9c8ed1fa33db6c5607cc71a3db8972148fa3d594e5be9a"
     },
+    "hr_bandit_blade_attack.png": {
+      "file": "hires/hr_bandit_blade_attack.e88f4bf4.png",
+      "size": 812445,
+      "sha256": "e88f4bf436d932f1793a1431af2671624110abfea75919b41ecbac0781f771e4"
+    },
+    "hr_bandit_blade_death.png": {
+      "file": "hires/hr_bandit_blade_death.a1cb7e3d.png",
+      "size": 1213045,
+      "sha256": "a1cb7e3d866fa742905cd59eea320d828f1c933ec45cbe31f1d1438fa9f8a702"
+    },
+    "hr_bandit_blade_idle.png": {
+      "file": "hires/hr_bandit_blade_idle.d48178c3.png",
+      "size": 447964,
+      "sha256": "d48178c3926f640225efc49d2bef125d8aa7006a502a466a452409be61f069ac"
+    },
+    "hr_bandit_blade_walk.png": {
+      "file": "hires/hr_bandit_blade_walk.3047d7eb.png",
+      "size": 1125339,
+      "sha256": "3047d7eb8bba005fa58107ad10222d484a82c0323299e0a1b171f3159627effc"
+    },
     "hr_bandit_death.png": {
       "file": "hires/hr_bandit_death.f12596d9.png",
       "size": 1325327,
@@ -151,6 +171,46 @@
       "size": 1337100,
       "sha256": "ebeeeb23b3e97a9d991ff12a65e092a80f2c651d1b06c277aa177e37e57c85f7"
     },
+    "hr_bloated_drowned_attack.png": {
+      "file": "hires/hr_bloated_drowned_attack.bd16996d.png",
+      "size": 1582583,
+      "sha256": "bd16996d813da3995499654d326893af1efab8c3cf19b8014f5745691fb2905f"
+    },
+    "hr_bloated_drowned_death.png": {
+      "file": "hires/hr_bloated_drowned_death.62fe8682.png",
+      "size": 2155068,
+      "sha256": "62fe868251105c828ae34b631786d9bab6fc2ef29df81e552eaa2fb9fb2a1870"
+    },
+    "hr_bloated_drowned_idle.png": {
+      "file": "hires/hr_bloated_drowned_idle.7320dcc1.png",
+      "size": 809911,
+      "sha256": "7320dcc1232df4433da6a234ba2927a30f92a96a9239d42a6ac2189a67628a2e"
+    },
+    "hr_bloated_drowned_walk.png": {
+      "file": "hires/hr_bloated_drowned_walk.b2092fd0.png",
+      "size": 1662629,
+      "sha256": "b2092fd0ed705504efc86134e2ff96bb3921c068772f5e0e08199f71b16e723f"
+    },
+    "hr_blood_bat_attack.png": {
+      "file": "hires/hr_blood_bat_attack.af4f1d7e.png",
+      "size": 328842,
+      "sha256": "af4f1d7e1cdab562e5f1684c5e9a7b3574bb03120fe915e30ea9c823335f7ea9"
+    },
+    "hr_blood_bat_death.png": {
+      "file": "hires/hr_blood_bat_death.b4813bfd.png",
+      "size": 309155,
+      "sha256": "b4813bfda3cd775f4a84d1446ae20317bb64f43232e619dd4dbdb97052c24eb5"
+    },
+    "hr_blood_bat_idle.png": {
+      "file": "hires/hr_blood_bat_idle.f55516d6.png",
+      "size": 329667,
+      "sha256": "f55516d6dae973cb71be4e3bcb889d6243a074f10941daa5101fc71c76756e79"
+    },
+    "hr_blood_bat_walk.png": {
+      "file": "hires/hr_blood_bat_walk.d1e896c0.png",
+      "size": 196909,
+      "sha256": "d1e896c08e8c2e73700987b7985b65c98e7b28ca7e07b6aa38ee9deb79d5edfb"
+    },
     "hr_boar_attack.png": {
       "file": "hires/hr_boar_attack.cf6bcfdd.png",
       "size": 894750,
@@ -161,10 +221,50 @@
       "size": 705027,
       "sha256": "96babee43391f999f2d9a60ae2ea67dbe9d4171af088f9b5b05b02fd396a4aa1"
     },
+    "hr_boar_elder_attack.png": {
+      "file": "hires/hr_boar_elder_attack.e13ea039.png",
+      "size": 1642656,
+      "sha256": "e13ea039f1fd08843830deea4a139832632e71f3228b0c22d61f993b34a505f9"
+    },
+    "hr_boar_elder_death.png": {
+      "file": "hires/hr_boar_elder_death.9a59aadc.png",
+      "size": 1290323,
+      "sha256": "9a59aadc65f2dc3819874e37f7ff8694f652987d9304f8781a05dd9d0c76aca3"
+    },
+    "hr_boar_elder_idle.png": {
+      "file": "hires/hr_boar_elder_idle.c59a934e.png",
+      "size": 958747,
+      "sha256": "c59a934eec647f04f7e86237c1e05a28e184924c115e30adebd5540f2fd294e5"
+    },
+    "hr_boar_elder_walk.png": {
+      "file": "hires/hr_boar_elder_walk.f83f082f.png",
+      "size": 876219,
+      "sha256": "f83f082fa225eb74865cfefc9f7c2828943afa8d62b8bae72b94197493b60867"
+    },
     "hr_boar_idle.png": {
       "file": "hires/hr_boar_idle.c153d6d7.png",
       "size": 539088,
       "sha256": "c153d6d78a775d5768425b35d9d1dd36dfd54f74595841c1676e4c44c544a169"
+    },
+    "hr_boar_piglet_attack.png": {
+      "file": "hires/hr_boar_piglet_attack.351f502f.png",
+      "size": 370378,
+      "sha256": "351f502ff282180335f9ed3dee2714cbc852ceb73bedd489b5b8854281155611"
+    },
+    "hr_boar_piglet_death.png": {
+      "file": "hires/hr_boar_piglet_death.5e0d9106.png",
+      "size": 292758,
+      "sha256": "5e0d91063cb1065dfb8f73b1fcc2322842d41b938e396dfba97602d9b0972501"
+    },
+    "hr_boar_piglet_idle.png": {
+      "file": "hires/hr_boar_piglet_idle.e517e769.png",
+      "size": 221542,
+      "sha256": "e517e7690a500174d9d822b9a5c07ad43e22eeadcaea9a47832ca93e2a2aa1db"
+    },
+    "hr_boar_piglet_walk.png": {
+      "file": "hires/hr_boar_piglet_walk.e1f144be.png",
+      "size": 214161,
+      "sha256": "e1f144be262ab5d14a172d278a06a34c4eea6c820064fd3ef08fd1bf83eb100f"
     },
     "hr_boar_walk.png": {
       "file": "hires/hr_boar_walk.22fb2194.png",
@@ -261,6 +361,26 @@
       "size": 34526,
       "sha256": "7e2a9c1a3266d4e55887325c5f14b97bdf43934236ce1467dc153f2e9df6f871"
     },
+    "hr_catacomb_knight_attack.png": {
+      "file": "hires/hr_catacomb_knight_attack.d49ecfcf.png",
+      "size": 987359,
+      "sha256": "d49ecfcf9da5eb1538bb36c2adf3012c89fbbaaba09820e6be52c6345303c91a"
+    },
+    "hr_catacomb_knight_death.png": {
+      "file": "hires/hr_catacomb_knight_death.15634633.png",
+      "size": 1360468,
+      "sha256": "1563463300fae3189ecd965ad87b02d163c183b9eaa4b559dc0882bace2e54fd"
+    },
+    "hr_catacomb_knight_idle.png": {
+      "file": "hires/hr_catacomb_knight_idle.67fca0a6.png",
+      "size": 540119,
+      "sha256": "67fca0a6114214cd10b477c3b96dfcab06367585522ef40726552a19d840e3d4"
+    },
+    "hr_catacomb_knight_walk.png": {
+      "file": "hires/hr_catacomb_knight_walk.caa6a2ba.png",
+      "size": 1348541,
+      "sha256": "caa6a2bad0ecfd116d70a913039fe6c7a90d29189889da5e58d5de9d0af40ad7"
+    },
     "hr_catacomb_skulls.png": {
       "file": "hires/hr_catacomb_skulls.ebf09784.png",
       "size": 19893,
@@ -285,6 +405,26 @@
       "file": "hires/hr_cave_mouth_in.867d4483.png",
       "size": 99552,
       "sha256": "867d44832ea8823d2585035c30261943fe6ffc3f6f01ddcc966d7f5e7a531678"
+    },
+    "hr_cave_spiderling_attack.png": {
+      "file": "hires/hr_cave_spiderling_attack.b751fe18.png",
+      "size": 358236,
+      "sha256": "b751fe188c43e111ae25f1c55055b7b1a12c484eabeece2c0b1768346b7b70e5"
+    },
+    "hr_cave_spiderling_death.png": {
+      "file": "hires/hr_cave_spiderling_death.9e19163c.png",
+      "size": 267037,
+      "sha256": "9e19163c53a4eb601fd691f411cd9a19e88a48af990208d3cff271806930ecff"
+    },
+    "hr_cave_spiderling_idle.png": {
+      "file": "hires/hr_cave_spiderling_idle.31e513c1.png",
+      "size": 284965,
+      "sha256": "31e513c13622df23f946cc3d768243ca2d1a45674aff1ee7728df0521922294a"
+    },
+    "hr_cave_spiderling_walk.png": {
+      "file": "hires/hr_cave_spiderling_walk.981d2762.png",
+      "size": 308433,
+      "sha256": "981d276239debd492bea9d24c4af09067e124fdb2838e53bd2b8af9c28592b68"
     },
     "hr_cave_stairs_down.png": {
       "file": "hires/hr_cave_stairs_down.b5854de7.png",
@@ -416,6 +556,31 @@
       "size": 215357,
       "sha256": "b9923b792786a4e6ce7e9d50b54b401471dcca1ac4123527da5a1bea3d1b04f2"
     },
+    "hr_crystal_golem_attack.png": {
+      "file": "hires/hr_crystal_golem_attack.f287cfc6.png",
+      "size": 849613,
+      "sha256": "f287cfc68238a0258df9396b8ec80fc19fed1b8163a1a3a5e332b5fbe89329b5"
+    },
+    "hr_crystal_golem_death.png": {
+      "file": "hires/hr_crystal_golem_death.f8fc9b12.png",
+      "size": 1316084,
+      "sha256": "f8fc9b12a13f47c701caf5d7e36276f52bf4a0cc363dcb23e063cd86424eaa98"
+    },
+    "hr_crystal_golem_idle.png": {
+      "file": "hires/hr_crystal_golem_idle.84ebe138.png",
+      "size": 465985,
+      "sha256": "84ebe138b15723c70bc06b18916ede1350bcead229911610874c2442f192385f"
+    },
+    "hr_crystal_golem_slam.png": {
+      "file": "hires/hr_crystal_golem_slam.a65b2e99.png",
+      "size": 1390884,
+      "sha256": "a65b2e99b89016b4aac0c19c5ff38ed0100ee210c0515a9ff917ef6cf260dab0"
+    },
+    "hr_crystal_golem_walk.png": {
+      "file": "hires/hr_crystal_golem_walk.16811b84.png",
+      "size": 1125942,
+      "sha256": "16811b84ffeb092efd4397989802e1cdd40230d7d95306ed408320f6f038e59c"
+    },
     "hr_cursed_cask_attack.png": {
       "file": "hires/hr_cursed_cask_attack.a50b537e.png",
       "size": 590634,
@@ -516,6 +681,26 @@
       "size": 448656,
       "sha256": "c62b1c7f0b73b4c10631f3ce83517cdd129977d89ee276766c2ba2d70979f088"
     },
+    "hr_deserter_marksman_attack.png": {
+      "file": "hires/hr_deserter_marksman_attack.9f35cdee.png",
+      "size": 437902,
+      "sha256": "9f35cdee53c318683b24d2772e83f9b0c0b3cf890af7b0a561109427996166dd"
+    },
+    "hr_deserter_marksman_death.png": {
+      "file": "hires/hr_deserter_marksman_death.afb9956a.png",
+      "size": 1369525,
+      "sha256": "afb9956a6782e6b06cb337f8e52cd8ef45e518b8d49a2d48daabb993756a1415"
+    },
+    "hr_deserter_marksman_idle.png": {
+      "file": "hires/hr_deserter_marksman_idle.be39f5a1.png",
+      "size": 546516,
+      "sha256": "be39f5a15a79337ec935229f54166022f2a6f34dffd3bc9d2385edb31233263f"
+    },
+    "hr_deserter_marksman_walk.png": {
+      "file": "hires/hr_deserter_marksman_walk.3314c246.png",
+      "size": 1309942,
+      "sha256": "3314c246639f862fec7ebb23a61308e7c653836fdf0bd2962cc6e6387848d2ac"
+    },
     "hr_drowned_attack.png": {
       "file": "hires/hr_drowned_attack.445c6c13.png",
       "size": 1000272,
@@ -570,6 +755,26 @@
       "file": "hires/hr_drowned_walk.773efd59.png",
       "size": 1072294,
       "sha256": "773efd594afff7689843aa7f1501bed3decb3111028548499d21a6d8cd4d0eae"
+    },
+    "hr_drunk_rebel_attack.png": {
+      "file": "hires/hr_drunk_rebel_attack.9a45f4f2.png",
+      "size": 667296,
+      "sha256": "9a45f4f2f5716f961fef4d0f3a4d6cdd1e14000142a62bc1785e2ff55f02212c"
+    },
+    "hr_drunk_rebel_death.png": {
+      "file": "hires/hr_drunk_rebel_death.7fa0b00e.png",
+      "size": 1292265,
+      "sha256": "7fa0b00e1678d9f418879a03546421eb75fb95dfa3ff86dfb7c3bafc493ded39"
+    },
+    "hr_drunk_rebel_idle.png": {
+      "file": "hires/hr_drunk_rebel_idle.fa70e229.png",
+      "size": 463501,
+      "sha256": "fa70e229fdae7a6c60ef40a263a507210b4d3588072b27089d74944b05ee16c7"
+    },
+    "hr_drunk_rebel_walk.png": {
+      "file": "hires/hr_drunk_rebel_walk.5a6149e1.png",
+      "size": 1149146,
+      "sha256": "5a6149e18d42b7f8873cbdeb7cbba65945dfdd3fa290525f524f7a901cae64a4"
     },
     "hr_eggs.png": {
       "file": "hires/hr_eggs.3b4f89ac.png",
@@ -640,6 +845,51 @@
       "file": "hires/hr_fighting_bull_walk.c8bed463.png",
       "size": 751394,
       "sha256": "c8bed463ecc82c0671c22272c3d8440d693f4a4362b83d1a68f9b466aa9a4ea1"
+    },
+    "hr_fire_scorpion_attack.png": {
+      "file": "hires/hr_fire_scorpion_attack.45e04e37.png",
+      "size": 534179,
+      "sha256": "45e04e379c88fcd610be5c782d64b09b79ad12c0f68ca8cc54db3a1284b2b31a"
+    },
+    "hr_fire_scorpion_death.png": {
+      "file": "hires/hr_fire_scorpion_death.78d6e429.png",
+      "size": 547854,
+      "sha256": "78d6e429135f7140a1d63bd3e40c2c4ebb1b024d063fba2345a7c5bf2b0d1485"
+    },
+    "hr_fire_scorpion_idle.png": {
+      "file": "hires/hr_fire_scorpion_idle.2f15eea3.png",
+      "size": 288122,
+      "sha256": "2f15eea30de19941c248b111fb26d25578e3b6ff403fed458304080623c435c4"
+    },
+    "hr_fire_scorpion_walk.png": {
+      "file": "hires/hr_fire_scorpion_walk.2cad6817.png",
+      "size": 429909,
+      "sha256": "2cad681702e2f126bd5f7ff988c980ba954cff6a56ba64f9ec42a1d1de6e71c8"
+    },
+    "hr_flagellant_attack.png": {
+      "file": "hires/hr_flagellant_attack.d883e7db.png",
+      "size": 881091,
+      "sha256": "d883e7db258c206712612bae0ffb5bafdcecb7cd72a7611aa508d24338c54d27"
+    },
+    "hr_flagellant_cast.png": {
+      "file": "hires/hr_flagellant_cast.c9668356.png",
+      "size": 653483,
+      "sha256": "c96683569acdf9098c93946505e17eeadfcd0259e13be9b4af9c154fbd69516a"
+    },
+    "hr_flagellant_death.png": {
+      "file": "hires/hr_flagellant_death.350931ea.png",
+      "size": 1273587,
+      "sha256": "350931ea74939b45bc40029214e0efd3c6d0b6ab6a4178f37b7396d5cd5be52d"
+    },
+    "hr_flagellant_idle.png": {
+      "file": "hires/hr_flagellant_idle.cd9f0eb0.png",
+      "size": 492712,
+      "sha256": "cd9f0eb0530d33eebc2648ddaa9a5c472fa34e50135cfd831b61c1d11d346d0c"
+    },
+    "hr_flagellant_walk.png": {
+      "file": "hires/hr_flagellant_walk.108208c5.png",
+      "size": 1209094,
+      "sha256": "108208c5c924f5cdae50037083c05a57759596a254cb47e5f84ff1981cc35347"
     },
     "hr_flower_hedge.png": {
       "file": "hires/hr_flower_hedge.e8a0f4d8.png",
@@ -1520,6 +1770,26 @@
       "file": "hires/hr_hatch.37116130.png",
       "size": 40525,
       "sha256": "371161301e560b38a0719de7e21237a6e153558474916f7168458706b3ceefe3"
+    },
+    "hr_hermit_crab_attack.png": {
+      "file": "hires/hr_hermit_crab_attack.a43fa6af.png",
+      "size": 161693,
+      "sha256": "a43fa6afab5293132babb668493c402590d312ef7f3f20801a293afb90b68a1f"
+    },
+    "hr_hermit_crab_death.png": {
+      "file": "hires/hr_hermit_crab_death.58c20289.png",
+      "size": 220254,
+      "sha256": "58c2028915d207ce2b83a2a3352702e3931515fe474b27dbd99d9dbbe0eb5817"
+    },
+    "hr_hermit_crab_idle.png": {
+      "file": "hires/hr_hermit_crab_idle.d18133e8.png",
+      "size": 167665,
+      "sha256": "d18133e8ced522354578f4e219011a89fb0dcb4ab4e280f00c6e83fd03d798a5"
+    },
+    "hr_hermit_crab_walk.png": {
+      "file": "hires/hr_hermit_crab_walk.aaa03a99.png",
+      "size": 121673,
+      "sha256": "aaa03a9911e8b6dd788f36a1d0c72f587ee960506dbe485a2e9ea53484bd9472"
     },
     "hr_hernan_attack.png": {
       "file": "hires/hr_hernan_attack.fdbdd8b1.png",
@@ -3211,6 +3481,26 @@
       "size": 1308253,
       "sha256": "c7382a0671703a9c33f723dbed22e31e1efdab978c75fa59eb24b2a93831dccd"
     },
+    "hr_kelp_drowned_attack.png": {
+      "file": "hires/hr_kelp_drowned_attack.f537b944.png",
+      "size": 989742,
+      "sha256": "f537b944e7fc9114609a5ec92362354e2aa492b08c0c17fc976d5dc01a52d1b9"
+    },
+    "hr_kelp_drowned_death.png": {
+      "file": "hires/hr_kelp_drowned_death.95e2cd67.png",
+      "size": 1362535,
+      "sha256": "95e2cd67da7e6b7ebfada17c3b9b95e7413f578b40817dd5e56cee41c8600217"
+    },
+    "hr_kelp_drowned_idle.png": {
+      "file": "hires/hr_kelp_drowned_idle.7009ffbd.png",
+      "size": 513112,
+      "sha256": "7009ffbdbc25d8108a2391a1fe309d4f8cf88dae9d5b9792ba29db87dcdfa3e3"
+    },
+    "hr_kelp_drowned_walk.png": {
+      "file": "hires/hr_kelp_drowned_walk.b33622a5.png",
+      "size": 1055601,
+      "sha256": "b33622a5a1fb9e5004358293924a5384d7126d400a48043203d191c0e7913248"
+    },
     "hr_lantern_post.png": {
       "file": "hires/hr_lantern_post.ffaf5ee2.png",
       "size": 7000,
@@ -3320,6 +3610,26 @@
       "file": "hires/hr_miner_wraith_walk.c9b47c9f.png",
       "size": 637670,
       "sha256": "c9b47c9f835cfbf129e7cd2f948f2d62e92f2198ee791c7492aa8ba8795bf6be"
+    },
+    "hr_moor_priest_attack.png": {
+      "file": "hires/hr_moor_priest_attack.439c88c7.png",
+      "size": 1261267,
+      "sha256": "439c88c7d712fb4ce2036e9425e7049e37dbd87c0ee3c14541aa222393a0ea80"
+    },
+    "hr_moor_priest_death.png": {
+      "file": "hires/hr_moor_priest_death.b583f73a.png",
+      "size": 1610601,
+      "sha256": "b583f73a6b42663c60c096b5bcfcde813f9f0bfd299c95b5bb3a2ca7d6766991"
+    },
+    "hr_moor_priest_idle.png": {
+      "file": "hires/hr_moor_priest_idle.c6328454.png",
+      "size": 693408,
+      "sha256": "c6328454931a99b3aa11b11a528978c4852cabc61694b0253c4fd27a1c0ce505"
+    },
+    "hr_moor_priest_walk.png": {
+      "file": "hires/hr_moor_priest_walk.09b8fb49.png",
+      "size": 650775,
+      "sha256": "09b8fb49ecce09835e897e6104d5b2e507e9246235236d98d17b46ce97767b43"
     },
     "hr_moor_throne.png": {
       "file": "hires/hr_moor_throne.73ea959f.png",
@@ -3606,6 +3916,26 @@
       "size": 44277,
       "sha256": "9cd4be6a1372d08e6b10e53141c3294d298dee59e5fe5e4ac6a23104a12bb409"
     },
+    "hr_parrot_attack.png": {
+      "file": "hires/hr_parrot_attack.31945899.png",
+      "size": 157854,
+      "sha256": "31945899d6e9a38fcbb1cad9ae3b14def6d1aab55831d8d71223bbb6d9d2c053"
+    },
+    "hr_parrot_death.png": {
+      "file": "hires/hr_parrot_death.42acd86e.png",
+      "size": 157774,
+      "sha256": "42acd86e85685e8280cb136c6186a8c3e2720b0066f430d038e6c4b1582ae293"
+    },
+    "hr_parrot_idle.png": {
+      "file": "hires/hr_parrot_idle.2f348a25.png",
+      "size": 161157,
+      "sha256": "2f348a256b18c3b5c076b676d12988928f8e4749ec8cbc9d0a22c2aaf317056e"
+    },
+    "hr_parrot_walk.png": {
+      "file": "hires/hr_parrot_walk.286f370a.png",
+      "size": 83686,
+      "sha256": "286f370a29e56aa2e91019b5e3a66da55b3aef8e11d45946dc180dc8a806f54b"
+    },
     "hr_pebbles.png": {
       "file": "hires/hr_pebbles.ba748c62.png",
       "size": 11642,
@@ -3625,6 +3955,31 @@
       "file": "hires/hr_pirate_brig_walk.6a425d65.png",
       "size": 9102236,
       "sha256": "6a425d65c224ecd4a428bb7c771d98e74db36efc2d181d74bf58844b9cad59df"
+    },
+    "hr_pirate_powder_attack.png": {
+      "file": "hires/hr_pirate_powder_attack.6cadf496.png",
+      "size": 790407,
+      "sha256": "6cadf496d04ca86d4f4db66d8893868b6bd1d558722e64eb30f3029e768dcd00"
+    },
+    "hr_pirate_powder_death.png": {
+      "file": "hires/hr_pirate_powder_death.352c072e.png",
+      "size": 1184853,
+      "sha256": "352c072ed0a4014beaf7364db42125713da6e092a7161e92bfd196ad026d9593"
+    },
+    "hr_pirate_powder_idle.png": {
+      "file": "hires/hr_pirate_powder_idle.51d112ee.png",
+      "size": 447419,
+      "sha256": "51d112ee1466cb921e8e899367a3d3480ffdf3eb978b6f06c45d8150a857295d"
+    },
+    "hr_pirate_powder_throw.png": {
+      "file": "hires/hr_pirate_powder_throw.52b61e3f.png",
+      "size": 1014569,
+      "sha256": "52b61e3f71755a9f0f83ce872beda0df0b702b3c1aa876bded039b0f2af6fe89"
+    },
+    "hr_pirate_powder_walk.png": {
+      "file": "hires/hr_pirate_powder_walk.dd838116.png",
+      "size": 1114936,
+      "sha256": "dd8381164532953fef127053ffbe7a7cae0d9ff076d142a9b097b2d6d3f423fd"
     },
     "hr_pirate_scout_attack.png": {
       "file": "hires/hr_pirate_scout_attack.daba9c3e.png",
@@ -3660,6 +4015,21 @@
       "file": "hires/hr_pirate_sloop_walk.a757ed3c.png",
       "size": 4527666,
       "sha256": "a757ed3cb5b90240831f3185d3828fd10183f5e1a2f0e6b43734d8536c9785ee"
+    },
+    "hr_powder_cart_death.png": {
+      "file": "hires/hr_powder_cart_death.1459988b.png",
+      "size": 613575,
+      "sha256": "1459988b3a1e8a7ef421d877517e18fd72f06f8dbae7fde10def47a84cee18eb"
+    },
+    "hr_powder_cart_idle.png": {
+      "file": "hires/hr_powder_cart_idle.dec72447.png",
+      "size": 138211,
+      "sha256": "dec72447e7fecdc10883ec6f3b8f36921512058d59c2a59219cbe1b49a972940"
+    },
+    "hr_powder_cart_walk.png": {
+      "file": "hires/hr_powder_cart_walk.f26abcf6.png",
+      "size": 413952,
+      "sha256": "f26abcf625779a8ae35704ebb663e46dfdb8c9aeecc9b3527674d3bef14f88f6"
     },
     "hr_prison_bars.png": {
       "file": "hires/hr_prison_bars.93611e0c.png",
@@ -3716,6 +4086,26 @@
       "size": 7468,
       "sha256": "07be55c617b61ae6482cac327a4ba1fbbf5c2d78e59786e40b54e5c28d8a2b87"
     },
+    "hr_raging_bull_attack.png": {
+      "file": "hires/hr_raging_bull_attack.423ef1ba.png",
+      "size": 1169523,
+      "sha256": "423ef1ba0dfdba1caf5e77a3e7fa73cdb89f66315ceffb1157332f86f21ad7bc"
+    },
+    "hr_raging_bull_death.png": {
+      "file": "hires/hr_raging_bull_death.9cc542e2.png",
+      "size": 968639,
+      "sha256": "9cc542e2918b2c732007cd92af323f1741685120dc3f8690a61532250ef370eb"
+    },
+    "hr_raging_bull_idle.png": {
+      "file": "hires/hr_raging_bull_idle.5388f959.png",
+      "size": 674940,
+      "sha256": "5388f959a038882c504cd97e86252510a20baeac3c29ddf97000cfc3190c9f45"
+    },
+    "hr_raging_bull_walk.png": {
+      "file": "hires/hr_raging_bull_walk.2b25516c.png",
+      "size": 732278,
+      "sha256": "2b25516c8ef2d7932b894ed14c2c7bef4d60c0065e4a6d43c1e38096ccf0157e"
+    },
     "hr_rail.png": {
       "file": "hires/hr_rail.65ec5e17.png",
       "size": 13533,
@@ -3750,6 +4140,26 @@
       "file": "hires/hr_ropes.be991fe7.png",
       "size": 16276,
       "sha256": "be991fe78769fb17e62c933302b1c4a569fbab6160bcdbd1fffb07588235479c"
+    },
+    "hr_rotten_treant_attack.png": {
+      "file": "hires/hr_rotten_treant_attack.74510962.png",
+      "size": 1853986,
+      "sha256": "7451096225aa280412a15872be4e3454c2ce0c51182119903c5ebd836f4fb28d"
+    },
+    "hr_rotten_treant_death.png": {
+      "file": "hires/hr_rotten_treant_death.0863f693.png",
+      "size": 1688787,
+      "sha256": "0863f6930bdac71f4af6caa548e85fa5dfe937e4744b778ed22ea00925482d5f"
+    },
+    "hr_rotten_treant_idle.png": {
+      "file": "hires/hr_rotten_treant_idle.e59187e9.png",
+      "size": 1686207,
+      "sha256": "e59187e91fc92a119ab0648f645e0762a080c527220ef2d427110ec8062318dc"
+    },
+    "hr_rotten_treant_walk.png": {
+      "file": "hires/hr_rotten_treant_walk.d7f0dc8d.png",
+      "size": 1184214,
+      "sha256": "d7f0dc8d5828a775c3185c94349de10811a3ca7b2162b71990797c20c365abc2"
     },
     "hr_rubble.png": {
       "file": "hires/hr_rubble.2c958952.png",
@@ -3855,6 +4265,26 @@
       "file": "hires/hr_ship_lantern.3367b164.png",
       "size": 6238,
       "sha256": "3367b16492239973c592c6fd5b314bc585e86e72a1a16884e1fbf1bab0277427"
+    },
+    "hr_silver_werewolf_attack.png": {
+      "file": "hires/hr_silver_werewolf_attack.fbf96f08.png",
+      "size": 883690,
+      "sha256": "fbf96f081dd87f54abaaef5c1247447c51390c6aa434d6aa2589c60cd24232ab"
+    },
+    "hr_silver_werewolf_death.png": {
+      "file": "hires/hr_silver_werewolf_death.88b36c68.png",
+      "size": 1207348,
+      "sha256": "88b36c6855cb6937b42c3abb524fb926e2cf82e64e971a5aac46a183355ac342"
+    },
+    "hr_silver_werewolf_idle.png": {
+      "file": "hires/hr_silver_werewolf_idle.0667ce67.png",
+      "size": 458628,
+      "sha256": "0667ce670be44f1d51909422800344bbd4c71226e4853d3aa6500fc28fb44414"
+    },
+    "hr_silver_werewolf_walk.png": {
+      "file": "hires/hr_silver_werewolf_walk.7613a1a9.png",
+      "size": 1111505,
+      "sha256": "7613a1a9a70c73807f2a59bc93a1f5bb8409e92dcd64698be84c8dd01cce8b00"
     },
     "hr_siren_attack.png": {
       "file": "hires/hr_siren_attack.ddb27892.png",
@@ -4301,6 +4731,31 @@
       "size": 143342,
       "sha256": "cdb4ed6ad71d572800f48bf3cf50638af161e8db991fc2b697744d3bd6c4b390"
     },
+    "hr_smuggler_attack.png": {
+      "file": "hires/hr_smuggler_attack.88f925a0.png",
+      "size": 868911,
+      "sha256": "88f925a0c8d4e4a319c87b3cd6e1f3eb3fb892de65444cbb67605c340690b334"
+    },
+    "hr_smuggler_death.png": {
+      "file": "hires/hr_smuggler_death.028b76d4.png",
+      "size": 1298189,
+      "sha256": "028b76d4a66f618b31fbfaaa617d710722d6e1e323b19fd2af809fb65f09e8d3"
+    },
+    "hr_smuggler_idle.png": {
+      "file": "hires/hr_smuggler_idle.947df50b.png",
+      "size": 470729,
+      "sha256": "947df50b7d2bf3c11869d766fc629511bb0cea81ea65d2650e343955a7744cad"
+    },
+    "hr_smuggler_pistol.png": {
+      "file": "hires/hr_smuggler_pistol.c92a12d9.png",
+      "size": 764796,
+      "sha256": "c92a12d944d8bd6e65ab5a2d16da5c4c67a0fcbd5cd02d0b74d7dad228bf02fa"
+    },
+    "hr_smuggler_walk.png": {
+      "file": "hires/hr_smuggler_walk.ce4c3903.png",
+      "size": 1169926,
+      "sha256": "ce4c3903eee9a23eb2961213f0938caa2654aa76388cf65842ff28b9946577d7"
+    },
     "hr_spanish_officer_attack.png": {
       "file": "hires/hr_spanish_officer_attack.2d4e3331.png",
       "size": 893337,
@@ -4325,6 +4780,26 @@
       "file": "hires/hr_spanish_officer_walk.f96d3bc9.png",
       "size": 1206020,
       "sha256": "f96d3bc965ac0c2f94134256e284b6c99188a0a83d434ef688814fff7d4357c9"
+    },
+    "hr_spear_regular_attack.png": {
+      "file": "hires/hr_spear_regular_attack.cc57289e.png",
+      "size": 1066547,
+      "sha256": "cc57289e8f870b8d0d5b35b7f5f6e2cd6f4104da253cd2ea58f89068a9cdfb58"
+    },
+    "hr_spear_regular_death.png": {
+      "file": "hires/hr_spear_regular_death.6e3fefb1.png",
+      "size": 1557468,
+      "sha256": "6e3fefb1a450b0ad02e0d6179a98990b3af7aec7692b3e85c6df94ed46909e26"
+    },
+    "hr_spear_regular_idle.png": {
+      "file": "hires/hr_spear_regular_idle.aca6265a.png",
+      "size": 588702,
+      "sha256": "aca6265a43781fd83b89d4d9e5f70837d7314e9701ae07d3d63966f7206b918f"
+    },
+    "hr_spear_regular_walk.png": {
+      "file": "hires/hr_spear_regular_walk.c1c8c77c.png",
+      "size": 1458965,
+      "sha256": "c1c8c77cd51203cbfe49b9921fce12411f72c2b3bb70d58d4ccf7fd47330f877"
     },
     "hr_spider_queen_attack.png": {
       "file": "hires/hr_spider_queen_attack.99f8ca6a.png",
@@ -4421,6 +4896,26 @@
       "size": 45777,
       "sha256": "f89c49666418206e2d69b74e66d600a7749c3199e09a8d42cf0943cabcf9cdcf"
     },
+    "hr_vine_scarecrow_attack.png": {
+      "file": "hires/hr_vine_scarecrow_attack.39908357.png",
+      "size": 510781,
+      "sha256": "39908357b85fa57c82fab5cda40e25ef7397fc6557f5adfc305057178e2fe474"
+    },
+    "hr_vine_scarecrow_death.png": {
+      "file": "hires/hr_vine_scarecrow_death.d7468a51.png",
+      "size": 670939,
+      "sha256": "d7468a51a0bb9d5233616136bdc18b349fe87f8bfcfbd40a396bbd14317ba0bd"
+    },
+    "hr_vine_scarecrow_idle.png": {
+      "file": "hires/hr_vine_scarecrow_idle.d2df6879.png",
+      "size": 481228,
+      "sha256": "d2df6879e64daeea15d180b6f8a26b9ae8f4473993fb4116db8ccde337e2e2ef"
+    },
+    "hr_vine_scarecrow_walk.png": {
+      "file": "hires/hr_vine_scarecrow_walk.4b83f541.png",
+      "size": 510224,
+      "sha256": "4b83f5410755303066cd0acdbddbfa5f08826d03a9bb29236aa94689a75bca31"
+    },
     "hr_warp_flower.png": {
       "file": "hires/hr_warp_flower.db02f1e8.png",
       "size": 3905,
@@ -4445,6 +4940,31 @@
       "file": "hires/hr_web.4d265f2a.png",
       "size": 124919,
       "sha256": "4d265f2ab7cd910c84ed2f61be1177a1fcbbc0ce993bb1b635ccfb9b3d7cecb0"
+    },
+    "hr_web_witch_attack.png": {
+      "file": "hires/hr_web_witch_attack.f599ca6b.png",
+      "size": 703764,
+      "sha256": "f599ca6b2b4ed5c7e3ba16db3097b1dc2804d4fee44a5eae2764dfe964b54e9e"
+    },
+    "hr_web_witch_cast.png": {
+      "file": "hires/hr_web_witch_cast.f599ca6b.png",
+      "size": 703764,
+      "sha256": "f599ca6b2b4ed5c7e3ba16db3097b1dc2804d4fee44a5eae2764dfe964b54e9e"
+    },
+    "hr_web_witch_death.png": {
+      "file": "hires/hr_web_witch_death.7556dd2b.png",
+      "size": 1362775,
+      "sha256": "7556dd2bf7a39efc271f5cf938320c0ddc7d5ab2fefe352fd0541856a6875d52"
+    },
+    "hr_web_witch_idle.png": {
+      "file": "hires/hr_web_witch_idle.17d7538f.png",
+      "size": 481900,
+      "sha256": "17d7538ffdfdd82c70b02674d9512f29b8fcb197efae4d67e22d0173dfc1b9ff"
+    },
+    "hr_web_witch_walk.png": {
+      "file": "hires/hr_web_witch_walk.2afc9525.png",
+      "size": 1335031,
+      "sha256": "2afc95250ae6d4628d110250809313886a211708587aba69cb5ea4372fbd9486"
     },
     "hr_well.png": {
       "file": "hires/hr_well.ec49a35b.png",
@@ -4480,6 +5000,26 @@
       "file": "hires/hr_wheel.58427392.png",
       "size": 14264,
       "sha256": "58427392bfaeb6f453777e3d11f68308c76253990a503f9165b036a012571f6e"
+    },
+    "hr_will_o_wisp_attack.png": {
+      "file": "hires/hr_will_o_wisp_attack.160e6333.png",
+      "size": 205589,
+      "sha256": "160e63330fe9b0f5d39d9cb36760f53e82edc78be7b91927eb217b25fab9f8ec"
+    },
+    "hr_will_o_wisp_death.png": {
+      "file": "hires/hr_will_o_wisp_death.4f196057.png",
+      "size": 83922,
+      "sha256": "4f196057633f55b0e5b4512fd58a3ced17108a82112ee575deb30472ba3037f2"
+    },
+    "hr_will_o_wisp_idle.png": {
+      "file": "hires/hr_will_o_wisp_idle.48ff34f0.png",
+      "size": 113709,
+      "sha256": "48ff34f0f52fb055e0fb1524e420b62be40116ccd6bf263fa76f049230ec61ca"
+    },
+    "hr_will_o_wisp_walk.png": {
+      "file": "hires/hr_will_o_wisp_walk.993d3bb5.png",
+      "size": 120546,
+      "sha256": "993d3bb5fa9d8b428b76c289a36c2b36cfd6f4cae795e994212ea33004779f70"
     },
     "hr_windmill.png": {
       "file": "hires/hr_windmill.a13a172c.png",
@@ -4766,6 +5306,96 @@
       "size": 497249,
       "sha256": "d9d82e46e8a5b42234d4940688ef727c4472b5bd2c25538dc668488d6c26280a"
     },
+    "atlas/w_loot1_0.ktx2": {
+      "file": "hires/atlas/w_loot1_0.680c11b4.ktx2",
+      "size": 3635389,
+      "sha256": "680c11b4bbff12e699ed0442267098229d669777f70e56fdffe5e1d887c26fc5"
+    },
+    "atlas/w_loot1_1.ktx2": {
+      "file": "hires/atlas/w_loot1_1.7f37ccfb.ktx2",
+      "size": 3928273,
+      "sha256": "7f37ccfbe01d4cb0f4e50b17a69d3b287f1ce0564e29396b4583531afb4e370a"
+    },
+    "atlas/w_loot1_2.ktx2": {
+      "file": "hires/atlas/w_loot1_2.19783f70.ktx2",
+      "size": 3611411,
+      "sha256": "19783f706aa036292f2b222bbc54febdbf986bc7e52f3607db9b53e3afe80a8a"
+    },
+    "atlas/w_loot1_3.ktx2": {
+      "file": "hires/atlas/w_loot1_3.4f669989.ktx2",
+      "size": 4338976,
+      "sha256": "4f669989f1a796724b93dbc7347a49357e15013106937a3d49dbc41a7cdd2442"
+    },
+    "atlas/w_loot1_4.ktx2": {
+      "file": "hires/atlas/w_loot1_4.a9d814cd.ktx2",
+      "size": 1749138,
+      "sha256": "a9d814cdade8cda0da373b9b4f4bfb5988c8c4be38b49279baa565c9f198eead"
+    },
+    "atlas/w_loot2_0.ktx2": {
+      "file": "hires/atlas/w_loot2_0.87fd4b47.ktx2",
+      "size": 2386518,
+      "sha256": "87fd4b477f9184a072ece11c468bac3955d7167a34c0c741b4381e966d3e38c2"
+    },
+    "atlas/w_loot2_1.ktx2": {
+      "file": "hires/atlas/w_loot2_1.6ee9c19c.ktx2",
+      "size": 3117983,
+      "sha256": "6ee9c19c588c870707ecdcc20529c40ba250b98155edaf830dad9b7d06054efa"
+    },
+    "atlas/w_loot2_2.ktx2": {
+      "file": "hires/atlas/w_loot2_2.eb91947e.ktx2",
+      "size": 3606873,
+      "sha256": "eb91947e7c8f79c787c29bd5ed52e1698054b202b7a3cd0126d4f6b18e5345e5"
+    },
+    "atlas/w_loot2_3.ktx2": {
+      "file": "hires/atlas/w_loot2_3.694e6d96.ktx2",
+      "size": 3500332,
+      "sha256": "694e6d962568d57f6b62fb65f5ecf15a8881d6a600a87bf8a010b456b5f8c044"
+    },
+    "atlas/w_loot2_4.ktx2": {
+      "file": "hires/atlas/w_loot2_4.b76af90d.ktx2",
+      "size": 3637905,
+      "sha256": "b76af90d73c3f559c6c8e944174565ba8f0714774673c37fc5b3af9f0c15f96a"
+    },
+    "atlas/w_loot2_5.ktx2": {
+      "file": "hires/atlas/w_loot2_5.2a76b7a1.ktx2",
+      "size": 4356217,
+      "sha256": "2a76b7a1b49aeac7b3ac2ba7c2aae7f4506cdf63419005244ccc334b505ccfad"
+    },
+    "atlas/w_loot2_6.ktx2": {
+      "file": "hires/atlas/w_loot2_6.012e76e7.ktx2",
+      "size": 802448,
+      "sha256": "012e76e785e551fae467aef169fcbb236ce12856e93ae8ba4fb0b8addd750123"
+    },
+    "atlas/w_loot3_0.ktx2": {
+      "file": "hires/atlas/w_loot3_0.eedabdbc.ktx2",
+      "size": 3807120,
+      "sha256": "eedabdbcf38e0fe4139ba3c448c9426747fd4e189826c088b12370f29444cef3"
+    },
+    "atlas/w_loot3_1.ktx2": {
+      "file": "hires/atlas/w_loot3_1.b770bd1c.ktx2",
+      "size": 3254593,
+      "sha256": "b770bd1cab8989ff5bc839aad7f5b6f773730f7b40f81527824f5c8b9291d68f"
+    },
+    "atlas/w_loot3_2.ktx2": {
+      "file": "hires/atlas/w_loot3_2.b8fed018.ktx2",
+      "size": 3378044,
+      "sha256": "b8fed0183815badcc8a31bbff3518798a4e0308927cf0a9155b9779bfb9cb50d"
+    },
+    "atlas/w_loot3_3.ktx2": {
+      "file": "hires/atlas/w_loot3_3.8a74bf37.ktx2",
+      "size": 3706324,
+      "sha256": "8a74bf37747b2a6ce01c9ef8776a87754e4f3066ac9017e1f25b47a82328b02f"
+    },
+    "atlas/w_loot3_4.ktx2": {
+      "file": "hires/atlas/w_loot3_4.1acef642.ktx2",
+      "size": 3988901,
+      "sha256": "1acef642ebd1e3ff8edc40d1c8adb7a6428e3ef6f2922b5c37cebdcc5e339a6a"
+    },
+    "atlas/w_loot3_5.ktx2": {
+      "file": "hires/atlas/w_loot3_5.acb69b85.ktx2",
+      "size": 411971,
+      "sha256": "acb69b85c75b42b60cb2c8976f201924576d73e21cef99a05678e63775e7fbcb"
+    },
     "atlas/w_mine_0.ktx2": {
       "file": "hires/atlas/w_mine_0.3e271291.ktx2",
       "size": 3166509,
@@ -4886,6 +5516,11 @@
       "size": 1310760,
       "sha256": "4284a43e0dbbab145a2887c5a9ab7e1d71e6ad2675e9bf1adf435d7894fc04ca"
     },
+    "atlas/w_shore_0.ktx2": {
+      "file": "hires/atlas/w_shore_0.fa4155c9.ktx2",
+      "size": 2890900,
+      "sha256": "fa4155c9f5cae05a4acff19f8205573d79df75c425e8b3d1bae2d35e85fae93c"
+    },
     "atlas/w_town_0.ktx2": {
       "file": "hires/atlas/w_town_0.9364e206.ktx2",
       "size": 2922369,
@@ -4927,9 +5562,9 @@
       "sha256": "5ec431e361e498a509b15ba6276dba0819f4ca77802b5b2c6ec006437bc089a9"
     },
     "atlas/world_0.ktx2": {
-      "file": "hires/atlas/world_0.fdc53b2f.ktx2",
-      "size": 3903303,
-      "sha256": "fdc53b2f3726d3b484416fea2236eab525fc70515e039cb9c8b11041f43d2a60"
+      "file": "hires/atlas/world_0.8369b2c3.ktx2",
+      "size": 3875812,
+      "sha256": "8369b2c3d9cfd3de87e33c942c22b4a00681f17a21e5b9b034027ca4650487e8"
     },
     "atlas/world_1.ktx2": {
       "file": "hires/atlas/world_1.a124a376.ktx2",
@@ -4937,24 +5572,24 @@
       "sha256": "a124a3768041af8548ade1db5ae5f2aed9f3e97b0ae6acf2b88f60af487a4ad0"
     },
     "atlas/world_2.ktx2": {
-      "file": "hires/atlas/world_2.32a7bb6f.ktx2",
-      "size": 3753907,
-      "sha256": "32a7bb6fc07597d66c1744742f275c7dfdb1fb62f939734d69f2f2c091ee5bf6"
+      "file": "hires/atlas/world_2.0cab6d5f.ktx2",
+      "size": 3759141,
+      "sha256": "0cab6d5f832361a25dd951d364702412c7f6122112d5d8b6d9307226a4013c96"
     },
     "atlas/world_3.ktx2": {
-      "file": "hires/atlas/world_3.0fe0bf81.ktx2",
-      "size": 3577456,
-      "sha256": "0fe0bf812f408cb990bd8c169d37e3b644fda9829cb13feec1ad5ebbc20f6d83"
+      "file": "hires/atlas/world_3.89856d61.ktx2",
+      "size": 3581126,
+      "sha256": "89856d61843d28ac198d62abd883514234914fae53fce6650cdb2a8d5a05a14c"
     },
     "atlas/world_4.ktx2": {
-      "file": "hires/atlas/world_4.42810026.ktx2",
-      "size": 4314654,
-      "sha256": "42810026217215a8feb8062c57559238615c6d5e1ce3170b07ce10eee051e972"
+      "file": "hires/atlas/world_4.5720d258.ktx2",
+      "size": 4270267,
+      "sha256": "5720d2582aff78c72246dde375160def33ee2b28c1478c8e9fc8e77ca989809d"
     },
     "atlas/world_5.ktx2": {
-      "file": "hires/atlas/world_5.88ec9d16.ktx2",
-      "size": 459456,
-      "sha256": "88ec9d168303eaa2f5492f57ca75428f7d71c3ae6a0629a9e3d32bb1cfd6116a"
+      "file": "hires/atlas/world_5.d408be58.ktx2",
+      "size": 1039025,
+      "sha256": "d408be58e5aa1d51e3f194aa70d4004df0fcec625dfe57f99a404c5dd4c9cc5c"
     },
     "sound/acid_sizzle_1.ogg": {
       "file": "hires/sound/acid_sizzle_1.68c41a58.ogg",
@@ -5996,6 +6631,26 @@
       "size": 17150,
       "sha256": "0b3ab61a0d8495854f55552b691e9168da989a29ac30fca1e9068686797d8e69"
     },
+    "pixel/px_bandit_blade_attack.png": {
+      "file": "hires/pixel/px_bandit_blade_attack.c4b57f72.png",
+      "size": 21857,
+      "sha256": "c4b57f72cd00731dd200325659d6f17342e074986d3744e56cb56dd6b8bda942"
+    },
+    "pixel/px_bandit_blade_death.png": {
+      "file": "hires/pixel/px_bandit_blade_death.4f05ac28.png",
+      "size": 32278,
+      "sha256": "4f05ac28e1ef906b1c35c47bfc1888d982ffb390295b5805f2a1d553cbcaae3c"
+    },
+    "pixel/px_bandit_blade_idle.png": {
+      "file": "hires/pixel/px_bandit_blade_idle.19903765.png",
+      "size": 8839,
+      "sha256": "199037657250f1ef85c4968e5c53e6d6a624fd56ee1b6450ee83dac5b874f0e5"
+    },
+    "pixel/px_bandit_blade_walk.png": {
+      "file": "hires/pixel/px_bandit_blade_walk.80a8ef82.png",
+      "size": 23845,
+      "sha256": "80a8ef82769b8ea9165f0fe0a673b810ac164017488f7a09cdf3b223588879dc"
+    },
     "pixel/px_bandit_death.png": {
       "file": "hires/pixel/px_bandit_death.ad600487.png",
       "size": 39123,
@@ -6101,6 +6756,46 @@
       "size": 55798,
       "sha256": "1e6116465e7c2d78565d2472929446b7cd30af84db26a39b4d0d5ff7902d435d"
     },
+    "pixel/px_bloated_drowned_attack.png": {
+      "file": "hires/pixel/px_bloated_drowned_attack.d54f179d.png",
+      "size": 41448,
+      "sha256": "d54f179dde66dac63ecbe9609bacaed3135c8e932dce54c2780e6a8dcfdc2791"
+    },
+    "pixel/px_bloated_drowned_death.png": {
+      "file": "hires/pixel/px_bloated_drowned_death.bc209537.png",
+      "size": 58604,
+      "sha256": "bc209537e7aef26e4f5aaa4942e25a0916de9bfd76b59d85e69d57cf161a830a"
+    },
+    "pixel/px_bloated_drowned_idle.png": {
+      "file": "hires/pixel/px_bloated_drowned_idle.fd1bbbee.png",
+      "size": 19459,
+      "sha256": "fd1bbbee40de0fc3280c412cec605e3680d2a8734ecc9ab0f150783490acaf56"
+    },
+    "pixel/px_bloated_drowned_walk.png": {
+      "file": "hires/pixel/px_bloated_drowned_walk.69b45816.png",
+      "size": 36216,
+      "sha256": "69b45816ffc958243ea3a7f33e02ab7d4fd26ee5add2f8b54a941ab66e7f3788"
+    },
+    "pixel/px_blood_bat_attack.png": {
+      "file": "hires/pixel/px_blood_bat_attack.f8156096.png",
+      "size": 9107,
+      "sha256": "f8156096331f538ead6c43152ba00468afdf08cfed828c968ab74bb9d6c39309"
+    },
+    "pixel/px_blood_bat_death.png": {
+      "file": "hires/pixel/px_blood_bat_death.b4c0c4f0.png",
+      "size": 8184,
+      "sha256": "b4c0c4f0eab807e731fb22e18fe5285b8caa16d1566dd9c521f32b53162175da"
+    },
+    "pixel/px_blood_bat_idle.png": {
+      "file": "hires/pixel/px_blood_bat_idle.3a307788.png",
+      "size": 8830,
+      "sha256": "3a30778846e189bd49413cbe3cf27aa7d414c1aff3dec298be219142222332f0"
+    },
+    "pixel/px_blood_bat_walk.png": {
+      "file": "hires/pixel/px_blood_bat_walk.a61579af.png",
+      "size": 5852,
+      "sha256": "a61579afd58fb045555f1d31bb2b7a8a4e136148f5742e32edb4502ef476cf08"
+    },
     "pixel/px_boar_attack.png": {
       "file": "hires/pixel/px_boar_attack.a89f6422.png",
       "size": 13865,
@@ -6111,10 +6806,50 @@
       "size": 12788,
       "sha256": "9818a09ed2fe5da1005d64fcf8b5e1b6d51ce6cd3fe56d7a5d78720befd60c36"
     },
+    "pixel/px_boar_elder_attack.png": {
+      "file": "hires/pixel/px_boar_elder_attack.27fbea66.png",
+      "size": 21673,
+      "sha256": "27fbea664c129f09d4f379df6540beb5935a8b5cb9a3dc4e7dc42b782950be20"
+    },
+    "pixel/px_boar_elder_death.png": {
+      "file": "hires/pixel/px_boar_elder_death.d2e9147e.png",
+      "size": 19970,
+      "sha256": "d2e9147e2d53ecdf3d295576335fb0eb476dec4a24f9aa966cfbd2bcf603f726"
+    },
+    "pixel/px_boar_elder_idle.png": {
+      "file": "hires/pixel/px_boar_elder_idle.2bb12558.png",
+      "size": 11958,
+      "sha256": "2bb12558d49f6df06a397b26e0077f03ee648165e9850a23cc98af4f6a9de44b"
+    },
+    "pixel/px_boar_elder_walk.png": {
+      "file": "hires/pixel/px_boar_elder_walk.10a0fac1.png",
+      "size": 16471,
+      "sha256": "10a0fac1d21b1795db04de61e2f19efe545b8ce8fce61758d58b00afd56a414a"
+    },
     "pixel/px_boar_idle.png": {
       "file": "hires/pixel/px_boar_idle.6eaf25c1.png",
       "size": 7164,
       "sha256": "6eaf25c15d35af2ac89618b7e90121ab37e5fd8ee2cf6433f7145b57be22a7b3"
+    },
+    "pixel/px_boar_piglet_attack.png": {
+      "file": "hires/pixel/px_boar_piglet_attack.cb991624.png",
+      "size": 6600,
+      "sha256": "cb9916241296f6e52e769a547ef9e4a7f844bde5844c54a661de233d5b06d651"
+    },
+    "pixel/px_boar_piglet_death.png": {
+      "file": "hires/pixel/px_boar_piglet_death.d494cb67.png",
+      "size": 6083,
+      "sha256": "d494cb67a16f3364046426f47408b3d2e7c19b84df29e31fdd574aae7e6e7a53"
+    },
+    "pixel/px_boar_piglet_idle.png": {
+      "file": "hires/pixel/px_boar_piglet_idle.12df170a.png",
+      "size": 3266,
+      "sha256": "12df170a6517852eac73bd3f74ef09a4ac1fcb35ae9ddc7c0ec4f5d446396d5e"
+    },
+    "pixel/px_boar_piglet_walk.png": {
+      "file": "hires/pixel/px_boar_piglet_walk.76ac3253.png",
+      "size": 5364,
+      "sha256": "76ac325399f7ad61c276a5ef4234b20475c67f8edaab55b057847d4282b9f414"
     },
     "pixel/px_boar_walk.png": {
       "file": "hires/pixel/px_boar_walk.49808f2d.png",
@@ -6211,6 +6946,26 @@
       "size": 786,
       "sha256": "8ce244f6845395c114780506ffeb7f03b03fbe3fd45652e357b5aff75086ca10"
     },
+    "pixel/px_catacomb_knight_attack.png": {
+      "file": "hires/pixel/px_catacomb_knight_attack.dc126755.png",
+      "size": 39572,
+      "sha256": "dc1267555089b082d45f937caff8749e73b8244689c8d43f72743dc976020fbe"
+    },
+    "pixel/px_catacomb_knight_death.png": {
+      "file": "hires/pixel/px_catacomb_knight_death.0a9e51eb.png",
+      "size": 52191,
+      "sha256": "0a9e51eb4b72a5db343b37a236481877b09cd25d126d1ea5e911f2fb708b29f9"
+    },
+    "pixel/px_catacomb_knight_idle.png": {
+      "file": "hires/pixel/px_catacomb_knight_idle.ab8922fd.png",
+      "size": 16320,
+      "sha256": "ab8922fd3e743fe0acd3b161a98e1d11c506a3186a1c675dbcbee669a28e5963"
+    },
+    "pixel/px_catacomb_knight_walk.png": {
+      "file": "hires/pixel/px_catacomb_knight_walk.d5765d70.png",
+      "size": 42960,
+      "sha256": "d5765d705406d75a6c41ecd782c25d265c174d442192fb775a851ee4d38331ec"
+    },
     "pixel/px_catacomb_skulls.png": {
       "file": "hires/pixel/px_catacomb_skulls.84ad2ae6.png",
       "size": 787,
@@ -6235,6 +6990,26 @@
       "file": "hires/pixel/px_cave_mouth_in.d7758220.png",
       "size": 3713,
       "sha256": "d775822060e07b4bc074796c7c5b3471013472e63b497595b43326dc6c9f8f20"
+    },
+    "pixel/px_cave_spiderling_attack.png": {
+      "file": "hires/pixel/px_cave_spiderling_attack.521d7034.png",
+      "size": 8231,
+      "sha256": "521d70344bcde5451742732ecdb09700f9319e22201959bec18f1594a44bb435"
+    },
+    "pixel/px_cave_spiderling_death.png": {
+      "file": "hires/pixel/px_cave_spiderling_death.342b8a81.png",
+      "size": 6209,
+      "sha256": "342b8a812245a27efa73564c67ab008fb8fdab2eea1253cd3d545bc8ef3bfa1c"
+    },
+    "pixel/px_cave_spiderling_idle.png": {
+      "file": "hires/pixel/px_cave_spiderling_idle.3113f011.png",
+      "size": 5345,
+      "sha256": "3113f011d87aef0ef17fdefa54b87e87fc37a1d9240cd260f049eaa148c8b9d4"
+    },
+    "pixel/px_cave_spiderling_walk.png": {
+      "file": "hires/pixel/px_cave_spiderling_walk.28cc5fdb.png",
+      "size": 7682,
+      "sha256": "28cc5fdb1246738815c78b3a859492728070174665cedd08d33d2e9b3daf3361"
     },
     "pixel/px_cave_stairs_down.png": {
       "file": "hires/pixel/px_cave_stairs_down.27e42ab1.png",
@@ -6366,6 +7141,31 @@
       "size": 3177,
       "sha256": "e68cdedbcc1d5163b9fbaf438a0f0d86b533ade98684ce7f61e7cc1f81a90f0c"
     },
+    "pixel/px_crystal_golem_attack.png": {
+      "file": "hires/pixel/px_crystal_golem_attack.7a178f66.png",
+      "size": 36952,
+      "sha256": "7a178f663350cd85f3883ac6c4ce20cd3493c89f41108ab8914cd756b8b8b39f"
+    },
+    "pixel/px_crystal_golem_death.png": {
+      "file": "hires/pixel/px_crystal_golem_death.e8759ba8.png",
+      "size": 55286,
+      "sha256": "e8759ba8dfcf30dfeb0899561ef63d0f16d8d755716a03c21f0ea6e62824b284"
+    },
+    "pixel/px_crystal_golem_idle.png": {
+      "file": "hires/pixel/px_crystal_golem_idle.6baf95bd.png",
+      "size": 15530,
+      "sha256": "6baf95bda6ff285a3643cc91a669ea33c02a94e33ba91a704ef137e4e775233f"
+    },
+    "pixel/px_crystal_golem_slam.png": {
+      "file": "hires/pixel/px_crystal_golem_slam.700d084a.png",
+      "size": 52695,
+      "sha256": "700d084a0b3c8ffbbf0729eaaf8e1c68e0afc7912b4deb84b3646bb4fa8f1c6a"
+    },
+    "pixel/px_crystal_golem_walk.png": {
+      "file": "hires/pixel/px_crystal_golem_walk.d00fffef.png",
+      "size": 41522,
+      "sha256": "d00fffefb7c82711e5a70d9d1c4dc8aac9acbb0fe92be422232bbfff93f33c4f"
+    },
     "pixel/px_cursed_cask_attack.png": {
       "file": "hires/pixel/px_cursed_cask_attack.ba5239d8.png",
       "size": 12267,
@@ -6466,6 +7266,26 @@
       "size": 11955,
       "sha256": "aa27c49ebac6bcad7ff81981c1362149d3f0dd3276df5ff6c99b57cbb5ce9d1a"
     },
+    "pixel/px_deserter_marksman_attack.png": {
+      "file": "hires/pixel/px_deserter_marksman_attack.6ffeeb6d.png",
+      "size": 18397,
+      "sha256": "6ffeeb6d4b1b3b6ec6db40773e3f9c982ae130d006db9afb2339e6c6c636b057"
+    },
+    "pixel/px_deserter_marksman_death.png": {
+      "file": "hires/pixel/px_deserter_marksman_death.4652acb0.png",
+      "size": 40389,
+      "sha256": "4652acb0cb7fe920daf171114624459f238ccb3e968f1fbf9798003ff2dcce3f"
+    },
+    "pixel/px_deserter_marksman_idle.png": {
+      "file": "hires/pixel/px_deserter_marksman_idle.0023d75d.png",
+      "size": 13423,
+      "sha256": "0023d75d881cf914d16033f0364416b17e8ab5c1ae63c5bd4f665b5c381efe91"
+    },
+    "pixel/px_deserter_marksman_walk.png": {
+      "file": "hires/pixel/px_deserter_marksman_walk.7d186585.png",
+      "size": 31000,
+      "sha256": "7d186585537d65d0c3d6f0c8006a5926d35afe22aecefa36e8dcd35d551c20e7"
+    },
     "pixel/px_drowned_attack.png": {
       "file": "hires/pixel/px_drowned_attack.3209b821.png",
       "size": 26609,
@@ -6520,6 +7340,26 @@
       "file": "hires/pixel/px_drowned_walk.33322c29.png",
       "size": 23332,
       "sha256": "33322c29e591db96fa0b1b2004a3986927c0af741dbc01a654def3e9a272e62d"
+    },
+    "pixel/px_drunk_rebel_attack.png": {
+      "file": "hires/pixel/px_drunk_rebel_attack.e88f2838.png",
+      "size": 19855,
+      "sha256": "e88f28385af24e3a83662a9c3e33184a3a579f0be74e3273a9b1c128e7b1bf2f"
+    },
+    "pixel/px_drunk_rebel_death.png": {
+      "file": "hires/pixel/px_drunk_rebel_death.b6626a4d.png",
+      "size": 36707,
+      "sha256": "b6626a4d5cdb384e6e46d6a158598c6e700e9228fc64c5b78c8751bbb6e8bbf3"
+    },
+    "pixel/px_drunk_rebel_idle.png": {
+      "file": "hires/pixel/px_drunk_rebel_idle.b420103c.png",
+      "size": 11247,
+      "sha256": "b420103cee1ab6c11af1b91a20fbe2b0d4829f5afa2903a474b4e2c07f9224ba"
+    },
+    "pixel/px_drunk_rebel_walk.png": {
+      "file": "hires/pixel/px_drunk_rebel_walk.0263e0fd.png",
+      "size": 26373,
+      "sha256": "0263e0fd06afc050754cb085e1d974b2e6ff32dd3df237589a980b0d2d197899"
     },
     "pixel/px_eggs.png": {
       "file": "hires/pixel/px_eggs.0a5d463a.png",
@@ -6590,6 +7430,51 @@
       "file": "hires/pixel/px_fighting_bull_walk.d02282fd.png",
       "size": 16478,
       "sha256": "d02282fde639bedddcd1ba244eb905608ab2383c6b50addfa68eb517a227689a"
+    },
+    "pixel/px_fire_scorpion_attack.png": {
+      "file": "hires/pixel/px_fire_scorpion_attack.35fcf8dd.png",
+      "size": 10982,
+      "sha256": "35fcf8dd11ea42667ba17e75c89cfa0bfd203a69ed180dc29bc54c30c621630f"
+    },
+    "pixel/px_fire_scorpion_death.png": {
+      "file": "hires/pixel/px_fire_scorpion_death.b9d31b9d.png",
+      "size": 12177,
+      "sha256": "b9d31b9d4b58ffda77e52ed08282b60a12fff5112289f92968eef1d5539af117"
+    },
+    "pixel/px_fire_scorpion_idle.png": {
+      "file": "hires/pixel/px_fire_scorpion_idle.c4f86698.png",
+      "size": 6656,
+      "sha256": "c4f866989d28fe95fbd59ddc97fc7268e6062e3b3f4e4fb8af781b157aba0aaf"
+    },
+    "pixel/px_fire_scorpion_walk.png": {
+      "file": "hires/pixel/px_fire_scorpion_walk.14423310.png",
+      "size": 10879,
+      "sha256": "144233102fb2c72130e6dc9147118d61cc25f0168dc16b137b3ae1221fa5596b"
+    },
+    "pixel/px_flagellant_attack.png": {
+      "file": "hires/pixel/px_flagellant_attack.1f0a9eeb.png",
+      "size": 29935,
+      "sha256": "1f0a9eebe8f75d6c399f0170aca4abd1d0e1eed9e0d4dba67bad2ba7f20c59e3"
+    },
+    "pixel/px_flagellant_cast.png": {
+      "file": "hires/pixel/px_flagellant_cast.81a610fe.png",
+      "size": 20590,
+      "sha256": "81a610fe90ec066b6da2b8480cd34834bed7a90580a92532dadbe6d5ce0327bb"
+    },
+    "pixel/px_flagellant_death.png": {
+      "file": "hires/pixel/px_flagellant_death.9e56d3a1.png",
+      "size": 41146,
+      "sha256": "9e56d3a1c18f98fea06791ab1ae6115a5966c358b23cf33ae7d2fcd928035670"
+    },
+    "pixel/px_flagellant_idle.png": {
+      "file": "hires/pixel/px_flagellant_idle.195b5039.png",
+      "size": 12370,
+      "sha256": "195b5039fbd37cfd359553e3de7f282601d824a817db3513fa2b96ee3df7932f"
+    },
+    "pixel/px_flagellant_walk.png": {
+      "file": "hires/pixel/px_flagellant_walk.8690c769.png",
+      "size": 32072,
+      "sha256": "8690c7690a0204786e7f34d40ca6712fe108d089b073ea6a57c1b69cec58f94e"
     },
     "pixel/px_flower_hedge.png": {
       "file": "hires/pixel/px_flower_hedge.83de3a0c.png",
@@ -7470,6 +8355,26 @@
       "file": "hires/pixel/px_hatch.13eacc70.png",
       "size": 618,
       "sha256": "13eacc707ebb8dc6b20b3a7adee7556ec25cdf5b5bd6716066ed3465d2356333"
+    },
+    "pixel/px_hermit_crab_attack.png": {
+      "file": "hires/pixel/px_hermit_crab_attack.7fc7873b.png",
+      "size": 4358,
+      "sha256": "7fc7873b22ecf55600a921d8dc96555ad28a6a293762c38353a641442fc566ec"
+    },
+    "pixel/px_hermit_crab_death.png": {
+      "file": "hires/pixel/px_hermit_crab_death.2176dcb6.png",
+      "size": 5512,
+      "sha256": "2176dcb695bc155fabf579c651499aaf976226f9fb7a7303448bb1b0d1de730d"
+    },
+    "pixel/px_hermit_crab_idle.png": {
+      "file": "hires/pixel/px_hermit_crab_idle.aee6bca4.png",
+      "size": 3341,
+      "sha256": "aee6bca49651fa38bfae3491fdbeb22e56b8220241c7bde9d45471419a53576c"
+    },
+    "pixel/px_hermit_crab_walk.png": {
+      "file": "hires/pixel/px_hermit_crab_walk.0ba1b36f.png",
+      "size": 3508,
+      "sha256": "0ba1b36ffe968051017fdd6cdfe463d66fc6b4e2647dc43ab437232328a86eee"
     },
     "pixel/px_hernan_attack.png": {
       "file": "hires/pixel/px_hernan_attack.6c280c61.png",
@@ -14606,6 +15511,26 @@
       "size": 37868,
       "sha256": "40aafdb0c17bff8adfccbe5efb6744741fcf6f8dd17e5d6935947015939a15bd"
     },
+    "pixel/px_kelp_drowned_attack.png": {
+      "file": "hires/pixel/px_kelp_drowned_attack.1aff213c.png",
+      "size": 27210,
+      "sha256": "1aff213c99da63e9ce9b56db56badd2bdb53acd133253904a03629c33cc4cff5"
+    },
+    "pixel/px_kelp_drowned_death.png": {
+      "file": "hires/pixel/px_kelp_drowned_death.1ac1f9e6.png",
+      "size": 38746,
+      "sha256": "1ac1f9e66aafb4f287468272bc65add6456b52e1fa340ac851cd1ecdef555ff1"
+    },
+    "pixel/px_kelp_drowned_idle.png": {
+      "file": "hires/pixel/px_kelp_drowned_idle.4bd9b88a.png",
+      "size": 13618,
+      "sha256": "4bd9b88af57d2637ee4e90d8c1c8709f5ae82f44441a9638a7b60038c18d6525"
+    },
+    "pixel/px_kelp_drowned_walk.png": {
+      "file": "hires/pixel/px_kelp_drowned_walk.74e0d728.png",
+      "size": 23763,
+      "sha256": "74e0d728436840dfa96bf276c7d9f7fc3452ca4884f23d71640f5fe7485e4950"
+    },
     "pixel/px_lantern_post.png": {
       "file": "hires/pixel/px_lantern_post.0ea4f85d.png",
       "size": 312,
@@ -14715,6 +15640,26 @@
       "file": "hires/pixel/px_miner_wraith_walk.6d10136e.png",
       "size": 15077,
       "sha256": "6d10136e2140f1a35d38439c2ad91ab763cb72198abcdf9721cdbc365b77a83b"
+    },
+    "pixel/px_moor_priest_attack.png": {
+      "file": "hires/pixel/px_moor_priest_attack.8f61e095.png",
+      "size": 39228,
+      "sha256": "8f61e095ebfe868fd40af67f6921172ff3aca62caa909d00236fcee8e692f97a"
+    },
+    "pixel/px_moor_priest_death.png": {
+      "file": "hires/pixel/px_moor_priest_death.01d518a4.png",
+      "size": 40882,
+      "sha256": "01d518a47aec439e0f0d3c9b1b72f9be152cf28b5d834a174fdfb2620b8fb26b"
+    },
+    "pixel/px_moor_priest_idle.png": {
+      "file": "hires/pixel/px_moor_priest_idle.76ce2fdb.png",
+      "size": 22437,
+      "sha256": "76ce2fdbedd91113fa77fb5c006fbc3225252a8b60dc835049d8db426251f9ca"
+    },
+    "pixel/px_moor_priest_walk.png": {
+      "file": "hires/pixel/px_moor_priest_walk.558a43e7.png",
+      "size": 21419,
+      "sha256": "558a43e70d8d3eb7d9cdea1e6e580c797e797ad58bf2451bfd5b649cad36a7a6"
     },
     "pixel/px_moor_throne.png": {
       "file": "hires/pixel/px_moor_throne.593ed271.png",
@@ -15001,6 +15946,26 @@
       "size": 815,
       "sha256": "40ca3ecec426ffc6126ce03e7bbcda7782500f7f649e7f67bc8620044e1b9142"
     },
+    "pixel/px_parrot_attack.png": {
+      "file": "hires/pixel/px_parrot_attack.21f99afe.png",
+      "size": 5022,
+      "sha256": "21f99afee34f52389b2f18f3a73134501431e990efc06e098e437a67e4219f0d"
+    },
+    "pixel/px_parrot_death.png": {
+      "file": "hires/pixel/px_parrot_death.dbb7c706.png",
+      "size": 4786,
+      "sha256": "dbb7c7060df595b68c2e14f47f0ca45b773678b29d7c8a0450204d92dc3099d4"
+    },
+    "pixel/px_parrot_idle.png": {
+      "file": "hires/pixel/px_parrot_idle.5948122b.png",
+      "size": 4252,
+      "sha256": "5948122b029e0cc3063eb81765c316fedf781a8cda0e1b2d3b68466fd0b3e7d2"
+    },
+    "pixel/px_parrot_walk.png": {
+      "file": "hires/pixel/px_parrot_walk.8b03b49e.png",
+      "size": 2701,
+      "sha256": "8b03b49ee660b414c6fd507c3657bb4a7c67d1904260a04992158a5937b28c0f"
+    },
     "pixel/px_pebbles.png": {
       "file": "hires/pixel/px_pebbles.13a9ee8d.png",
       "size": 496,
@@ -15020,6 +15985,31 @@
       "file": "hires/pixel/px_pirate_brig_walk.cc306cec.png",
       "size": 120690,
       "sha256": "cc306cec646112f0c5838931b90d9c54bd05bc68fb10841f28746cbce425bf2c"
+    },
+    "pixel/px_pirate_powder_attack.png": {
+      "file": "hires/pixel/px_pirate_powder_attack.fc156b74.png",
+      "size": 21988,
+      "sha256": "fc156b745ba42f53a0411f40acd35f33ad76e3c04b82c271739185542ffee544"
+    },
+    "pixel/px_pirate_powder_death.png": {
+      "file": "hires/pixel/px_pirate_powder_death.bae89965.png",
+      "size": 32820,
+      "sha256": "bae89965b4d5ce495d69bb64d75f156de4ba3f350c66a6ec8b8f6fdbe0457a8d"
+    },
+    "pixel/px_pirate_powder_idle.png": {
+      "file": "hires/pixel/px_pirate_powder_idle.67613d1e.png",
+      "size": 8837,
+      "sha256": "67613d1e4eb78551d291e78d7e4bf5f9abeaccbeb5102d7e6d4abf8a2af5768d"
+    },
+    "pixel/px_pirate_powder_throw.png": {
+      "file": "hires/pixel/px_pirate_powder_throw.f78d1380.png",
+      "size": 25405,
+      "sha256": "f78d13801ded3484319bb5b31ad0f60a5eaf859a8a7b2e4d446de2cb6508835c"
+    },
+    "pixel/px_pirate_powder_walk.png": {
+      "file": "hires/pixel/px_pirate_powder_walk.9ea86330.png",
+      "size": 24551,
+      "sha256": "9ea86330ae0dc70ec9183f4667f3dd969ede335db2c710c62aa40c709c00f87e"
     },
     "pixel/px_pirate_scout_attack.png": {
       "file": "hires/pixel/px_pirate_scout_attack.294e0337.png",
@@ -15055,6 +16045,21 @@
       "file": "hires/pixel/px_pirate_sloop_walk.095b5f17.png",
       "size": 80980,
       "sha256": "095b5f17cfd075848dca1632d3dc786a12003bc48562b5a3e9cce4a6bf0fcbd7"
+    },
+    "pixel/px_powder_cart_death.png": {
+      "file": "hires/pixel/px_powder_cart_death.a87513ce.png",
+      "size": 15860,
+      "sha256": "a87513ce8f37c8fd51dc2373462729de9f172b3645c57efe7986dc89787f9495"
+    },
+    "pixel/px_powder_cart_idle.png": {
+      "file": "hires/pixel/px_powder_cart_idle.b6b2aec8.png",
+      "size": 5001,
+      "sha256": "b6b2aec8adef733c6cea7ad9f25da0b68846ccecdf0867e06afff343413e34d2"
+    },
+    "pixel/px_powder_cart_walk.png": {
+      "file": "hires/pixel/px_powder_cart_walk.9a330b56.png",
+      "size": 9465,
+      "sha256": "9a330b567c4561f16a8dc776916f265678d6fb7c141b3cbe52d74bdc968e51fc"
     },
     "pixel/px_prison_bars.png": {
       "file": "hires/pixel/px_prison_bars.10c4e7cf.png",
@@ -15111,6 +16116,26 @@
       "size": 686,
       "sha256": "f04ff9cee44718c23deb0cdc0615c39825680d48d14029421ba23ed1b58993f5"
     },
+    "pixel/px_raging_bull_attack.png": {
+      "file": "hires/pixel/px_raging_bull_attack.910f4a81.png",
+      "size": 19954,
+      "sha256": "910f4a812a9c7c4b61203ac1d4de93e6639f47917d66f1746d855f68468bf92e"
+    },
+    "pixel/px_raging_bull_death.png": {
+      "file": "hires/pixel/px_raging_bull_death.105a25e9.png",
+      "size": 19639,
+      "sha256": "105a25e97fb8b440688107107d126daa7035dcf1d2d6943fbafd8c19c8a172e5"
+    },
+    "pixel/px_raging_bull_idle.png": {
+      "file": "hires/pixel/px_raging_bull_idle.65347cf1.png",
+      "size": 11863,
+      "sha256": "65347cf1cd364d156cd609b61014a6978ab9f586c97622651f36ddd10d761f2b"
+    },
+    "pixel/px_raging_bull_walk.png": {
+      "file": "hires/pixel/px_raging_bull_walk.695438db.png",
+      "size": 16474,
+      "sha256": "695438dbb4e26867a4f1b2864747849af0a42fa2618358f7e259290e756a8db1"
+    },
     "pixel/px_rail.png": {
       "file": "hires/pixel/px_rail.073b3148.png",
       "size": 377,
@@ -15145,6 +16170,26 @@
       "file": "hires/pixel/px_ropes.16739086.png",
       "size": 539,
       "sha256": "16739086ba92c1b91219595927b345473df6eab98880ad2e128812b751cff2e3"
+    },
+    "pixel/px_rotten_treant_attack.png": {
+      "file": "hires/pixel/px_rotten_treant_attack.48d01eb8.png",
+      "size": 28870,
+      "sha256": "48d01eb851f32398bf1125e4cf4348897b17188bcdc1635f24550ba3f5c98901"
+    },
+    "pixel/px_rotten_treant_death.png": {
+      "file": "hires/pixel/px_rotten_treant_death.f46dcbe1.png",
+      "size": 32858,
+      "sha256": "f46dcbe1e79832562aa9e1b82e75543db2aa04f48c191669c677001df702f526"
+    },
+    "pixel/px_rotten_treant_idle.png": {
+      "file": "hires/pixel/px_rotten_treant_idle.be54f24c.png",
+      "size": 20902,
+      "sha256": "be54f24c9906bffeafd53d7b3202fb708fa76209ab0c472c1fb1b85a0bb312e4"
+    },
+    "pixel/px_rotten_treant_walk.png": {
+      "file": "hires/pixel/px_rotten_treant_walk.138a4c9d.png",
+      "size": 21370,
+      "sha256": "138a4c9df2723c72019e54238f4540a84fe9043f9e8ae8e16432d323e19f9123"
     },
     "pixel/px_rubble.png": {
       "file": "hires/pixel/px_rubble.07011d4b.png",
@@ -15250,6 +16295,26 @@
       "file": "hires/pixel/px_ship_lantern.77613bf0.png",
       "size": 303,
       "sha256": "77613bf038f71c63ac6fbd592ef2e0b24b54a9014b06c4736be90cebd2daf629"
+    },
+    "pixel/px_silver_werewolf_attack.png": {
+      "file": "hires/pixel/px_silver_werewolf_attack.d78589fe.png",
+      "size": 24719,
+      "sha256": "d78589fe6c50376f8d6b05767bfb6659d342d3c6a3471ceb0c22bfd0e410978d"
+    },
+    "pixel/px_silver_werewolf_death.png": {
+      "file": "hires/pixel/px_silver_werewolf_death.fb4d88ef.png",
+      "size": 34176,
+      "sha256": "fb4d88ef31fb973277e5f80be2899af6a3a468e0b42c0b59a924dc0e6437f18c"
+    },
+    "pixel/px_silver_werewolf_idle.png": {
+      "file": "hires/pixel/px_silver_werewolf_idle.d7fe4099.png",
+      "size": 12382,
+      "sha256": "d7fe4099e8935c63f8a35bd35c72eb047f49b83a12a690fd320686fd58c877f4"
+    },
+    "pixel/px_silver_werewolf_walk.png": {
+      "file": "hires/pixel/px_silver_werewolf_walk.e1940419.png",
+      "size": 25118,
+      "sha256": "e1940419f57390d0917ca45b1ad5f68ef4e38b111b817108e202642aeb9a0955"
     },
     "pixel/px_siren_attack.png": {
       "file": "hires/pixel/px_siren_attack.3f97ae26.png",
@@ -15696,6 +16761,31 @@
       "size": 1606,
       "sha256": "cb2d1f7e64e1ad88262a762c18bf5e99f11ca961f8d5a01f73f26a54b5908b54"
     },
+    "pixel/px_smuggler_attack.png": {
+      "file": "hires/pixel/px_smuggler_attack.83ef1962.png",
+      "size": 22409,
+      "sha256": "83ef1962ce116967c5aff41e1f556e52b3955a9a01a949c8752921209e591977"
+    },
+    "pixel/px_smuggler_death.png": {
+      "file": "hires/pixel/px_smuggler_death.ca2386ee.png",
+      "size": 33525,
+      "sha256": "ca2386ee5a2af9301ce321d98dbe238a3bdffa9e962d0a571befccaa1bf44401"
+    },
+    "pixel/px_smuggler_idle.png": {
+      "file": "hires/pixel/px_smuggler_idle.5b7293bc.png",
+      "size": 8577,
+      "sha256": "5b7293bca0267935c821301525b23051bb2f7953a71a479e9fed059d89764f3b"
+    },
+    "pixel/px_smuggler_pistol.png": {
+      "file": "hires/pixel/px_smuggler_pistol.b4bacb9e.png",
+      "size": 19336,
+      "sha256": "b4bacb9efcfbf97e9116bcd0876e71007a96a25e210dd9ef6c489a0aa4f8c5bc"
+    },
+    "pixel/px_smuggler_walk.png": {
+      "file": "hires/pixel/px_smuggler_walk.67f3b0cd.png",
+      "size": 23723,
+      "sha256": "67f3b0cd0de481c193008f9546e75ae1d7a23c08ee1763dde0df21e61cb3a216"
+    },
     "pixel/px_spanish_officer_attack.png": {
       "file": "hires/pixel/px_spanish_officer_attack.c07744b7.png",
       "size": 31574,
@@ -15720,6 +16810,26 @@
       "file": "hires/pixel/px_spanish_officer_walk.75cd32d3.png",
       "size": 33948,
       "sha256": "75cd32d320baf9223d9ede574f59e5152c9997a28b40de005929e77a9409ab2d"
+    },
+    "pixel/px_spear_regular_attack.png": {
+      "file": "hires/pixel/px_spear_regular_attack.e16dd142.png",
+      "size": 42118,
+      "sha256": "e16dd1426611dd922abe8e2b19af100d08edd30376ce6fcb8a59332875e653fc"
+    },
+    "pixel/px_spear_regular_death.png": {
+      "file": "hires/pixel/px_spear_regular_death.0331c3b4.png",
+      "size": 59208,
+      "sha256": "0331c3b4b5fa65d89f422dbeae8ad8327e4c6022ecb3143f0882faeca2bde1dd"
+    },
+    "pixel/px_spear_regular_idle.png": {
+      "file": "hires/pixel/px_spear_regular_idle.934a92e2.png",
+      "size": 15592,
+      "sha256": "934a92e2687dd718c2970d1f03515e1db1265cc75e994868d21bc6b2440272f4"
+    },
+    "pixel/px_spear_regular_walk.png": {
+      "file": "hires/pixel/px_spear_regular_walk.ea892ad9.png",
+      "size": 44580,
+      "sha256": "ea892ad9542b0064ba002d3a585948aee85dd68b0d1e9c5fad2451f9ea910d06"
     },
     "pixel/px_spider_queen_attack.png": {
       "file": "hires/pixel/px_spider_queen_attack.13670125.png",
@@ -15871,6 +16981,26 @@
       "size": 1716,
       "sha256": "02ab6a7ce15cf15a04deeb52f8200901782de62418093e5dafa49b9b51a4a2b8"
     },
+    "pixel/px_vine_scarecrow_attack.png": {
+      "file": "hires/pixel/px_vine_scarecrow_attack.9c623127.png",
+      "size": 14056,
+      "sha256": "9c623127f479dfee731965b600190d7352bcddad2395e994bfc8e732ec59392a"
+    },
+    "pixel/px_vine_scarecrow_death.png": {
+      "file": "hires/pixel/px_vine_scarecrow_death.a1538a89.png",
+      "size": 18596,
+      "sha256": "a1538a89f3e9c02cdc63a58771922331ebd081547475f9b5bfbd7f4391403a30"
+    },
+    "pixel/px_vine_scarecrow_idle.png": {
+      "file": "hires/pixel/px_vine_scarecrow_idle.51f5a4b8.png",
+      "size": 10591,
+      "sha256": "51f5a4b8135fff16a0e6e7d4febea6f32068743af96da7fa78e723d31dd96f64"
+    },
+    "pixel/px_vine_scarecrow_walk.png": {
+      "file": "hires/pixel/px_vine_scarecrow_walk.b93769c8.png",
+      "size": 13847,
+      "sha256": "b93769c865868a6cca837bdc21ce86869449a36448d69b2131f7822a70f2feb0"
+    },
     "pixel/px_warp_flower.png": {
       "file": "hires/pixel/px_warp_flower.d7d89305.png",
       "size": 325,
@@ -15895,6 +17025,31 @@
       "file": "hires/pixel/px_web.014d0064.png",
       "size": 5951,
       "sha256": "014d0064be8e9f65f14642b4f97d60ad866d9c20cba692404368140df3c9a55c"
+    },
+    "pixel/px_web_witch_attack.png": {
+      "file": "hires/pixel/px_web_witch_attack.b27a5476.png",
+      "size": 21681,
+      "sha256": "b27a5476c0a817d73d7368d74253c4d99fa49b8bf80c6ed3a9854d42e8fe2f2b"
+    },
+    "pixel/px_web_witch_cast.png": {
+      "file": "hires/pixel/px_web_witch_cast.b27a5476.png",
+      "size": 21681,
+      "sha256": "b27a5476c0a817d73d7368d74253c4d99fa49b8bf80c6ed3a9854d42e8fe2f2b"
+    },
+    "pixel/px_web_witch_death.png": {
+      "file": "hires/pixel/px_web_witch_death.edf55da9.png",
+      "size": 45967,
+      "sha256": "edf55da99a9e7c98463073191a7dd5e4f5c8ca5e8b201f0788a2575fe121a7d9"
+    },
+    "pixel/px_web_witch_idle.png": {
+      "file": "hires/pixel/px_web_witch_idle.caf4cff3.png",
+      "size": 12289,
+      "sha256": "caf4cff3289aeb4b54c87dc4630ebb613f72e0ccf9f193484371baf1cbd6ef37"
+    },
+    "pixel/px_web_witch_walk.png": {
+      "file": "hires/pixel/px_web_witch_walk.ff7182a2.png",
+      "size": 34343,
+      "sha256": "ff7182a2603fc2e2ad59c0a24aca66ec233143dc2c7268b2af252fe04f587d24"
     },
     "pixel/px_well.png": {
       "file": "hires/pixel/px_well.3682ebf3.png",
@@ -15930,6 +17085,26 @@
       "file": "hires/pixel/px_wheel.81a141b6.png",
       "size": 459,
       "sha256": "81a141b6b7a3b35f30619130e07ef4515fe4276dfcb5ad9fb30b4a0600547b55"
+    },
+    "pixel/px_will_o_wisp_attack.png": {
+      "file": "hires/pixel/px_will_o_wisp_attack.06007419.png",
+      "size": 3979,
+      "sha256": "060074196fbfdd0ee16b63c652a9b7c5d894fd26b2d2c4f1b9c5d4146c90ae41"
+    },
+    "pixel/px_will_o_wisp_death.png": {
+      "file": "hires/pixel/px_will_o_wisp_death.59b03499.png",
+      "size": 1728,
+      "sha256": "59b03499313fcf496fb8a78f595bd26a8ccd2e527565a5276a096c045371e000"
+    },
+    "pixel/px_will_o_wisp_idle.png": {
+      "file": "hires/pixel/px_will_o_wisp_idle.89d0d456.png",
+      "size": 2371,
+      "sha256": "89d0d4567a925acd0b8a32576738928274642b7c8911ca64834925a360c9acd4"
+    },
+    "pixel/px_will_o_wisp_walk.png": {
+      "file": "hires/pixel/px_will_o_wisp_walk.1b42755f.png",
+      "size": 2437,
+      "sha256": "1b42755f4d59344310d3e4c6a69341be43390b93876fd1dffc3225f4872e00c0"
     },
     "pixel/px_windmill.png": {
       "file": "hires/pixel/px_windmill.eb992f72.png",
