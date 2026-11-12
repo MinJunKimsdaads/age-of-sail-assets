@@ -8,4 +8,4 @@
 - `hires/` — 해시 이름 파일(`이름.<sha256 앞 8자리>.png|ktx2|ogg`). 내용이 바뀌면 이름도 바뀝니다.
 - `manifests/` — 올릴 때마다의 목록 사본. 최근 3개가 쓰는 파일만 남깁니다(예전 게임을 켜 둔 사람을 위해).
 - `asset-manifest.json` — 가장 최근 목록.
-- 소리의 출처·라이선스(CC0)는 age-of-sail 레포 `docs/slice-act1/소리_출처.txt`.
+- 소리의 출처·라이선스(CC0)는 age-of-sail 레포 `packs/basic/소리출처.txt`.

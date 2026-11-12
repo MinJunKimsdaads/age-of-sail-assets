@@ -6721,6 +6721,11 @@
       "size": 1272085,
       "sha256": "987136755126bcfcb40ebeaaf4ad925527c48570d3847045eaed03f5833c6623"
     },
+    "sound/abbey_bell.ogg": {
+      "file": "hires/sound/abbey_bell.0d2fcdc8.ogg",
+      "size": 57832,
+      "sha256": "0d2fcdc8cfb245c21e26f5123a1b6a05d50adfc23cfef1256cd33a4f1dc8e2b9"
+    },
     "sound/acid_sizzle_1.ogg": {
       "file": "hires/sound/acid_sizzle_1.68c41a58.ogg",
       "size": 9972,
@@ -6730,6 +6735,21 @@
       "file": "hires/sound/acid_sizzle_2.590556be.ogg",
       "size": 9730,
       "sha256": "590556beb36f5e8cf6ac308bb98f6e03284bff3cd6fbdac2b3a554e0c9766ad3"
+    },
+    "sound/acid_sizzle_3.ogg": {
+      "file": "hires/sound/acid_sizzle_3.12b33028.ogg",
+      "size": 25403,
+      "sha256": "12b33028b9e229cf151a27dee8ac3369c95c91eec7e7f41666e042f30896b980"
+    },
+    "sound/acid_sizzle_4.ogg": {
+      "file": "hires/sound/acid_sizzle_4.514258cc.ogg",
+      "size": 25149,
+      "sha256": "514258cc4acfa5a89e0654ad8e8855d6176d2f97663fb295605b416f483628e1"
+    },
+    "sound/acid_sizzle_5.ogg": {
+      "file": "hires/sound/acid_sizzle_5.6dfdda25.ogg",
+      "size": 15219,
+      "sha256": "6dfdda25e66bd06f02f1d8c79ea94326f4c1670d4866f8368451da77264d6eec"
     },
     "sound/air_gust_1.ogg": {
       "file": "hires/sound/air_gust_1.9c636dc0.ogg",
@@ -6766,10 +6786,20 @@
       "size": 98531,
       "sha256": "274f9473130c3b92286ae9de38ca0031d9a974c090726f3214f39149a3e355a3"
     },
+    "sound/amb_night_birds.ogg": {
+      "file": "hires/sound/amb_night_birds.2febc9ae.ogg",
+      "size": 243550,
+      "sha256": "2febc9ae4968dad04b8929f8213c0fa0d779aac4dabd2645037b602e3e4c83cc"
+    },
     "sound/amb_rain.ogg": {
       "file": "hires/sound/amb_rain.f7eda6ac.ogg",
       "size": 280918,
       "sha256": "f7eda6ac9b0cd6da98746b1ce037ecaa6c5ba472bacba79be6fc95d6c3462797"
+    },
+    "sound/amb_river.ogg": {
+      "file": "hires/sound/amb_river.b58f82c5.ogg",
+      "size": 135054,
+      "sha256": "b58f82c5b0b0625ba73c0ca2bebb2de97255ac0c9ed3a2c819c6a5d75969cd6c"
     },
     "sound/amb_sea.ogg": {
       "file": "hires/sound/amb_sea.ee31b0ab.ogg",
@@ -6780,6 +6810,16 @@
       "file": "hires/sound/amb_stake_fire.f946ed25.ogg",
       "size": 119395,
       "sha256": "f946ed25df819e11e28bc9cad4e45bef95a3522bbd21ec2bbfce78f953e87ad7"
+    },
+    "sound/amb_storm_rain.ogg": {
+      "file": "hires/sound/amb_storm_rain.8b7f600f.ogg",
+      "size": 152767,
+      "sha256": "8b7f600f3f1da9d79be278441ac2592a17cec2e396add21cb82bfc142253c8f8"
+    },
+    "sound/amb_wharf.ogg": {
+      "file": "hires/sound/amb_wharf.11e323e0.ogg",
+      "size": 114175,
+      "sha256": "11e323e0371b398178e4ef8242d16353b2d57abc910562dbdc7f7786ea9d9da6"
     },
     "sound/amb_wind.ogg": {
       "file": "hires/sound/amb_wind.4fd6d662.ogg",
@@ -6800,6 +6840,26 @@
       "file": "hires/sound/big_wave.56379273.ogg",
       "size": 44678,
       "sha256": "56379273ee3e0b5af7158f20ab28a2884ca2a2b931e65cdeb5f28446d01a9d66"
+    },
+    "sound/bird_song_1.ogg": {
+      "file": "hires/sound/bird_song_1.e40b9dba.ogg",
+      "size": 23842,
+      "sha256": "e40b9dbaa648afd050d30b42a2b88b2ea3416c4199737276ace6dc20de96309f"
+    },
+    "sound/bird_song_2.ogg": {
+      "file": "hires/sound/bird_song_2.ea66f85e.ogg",
+      "size": 24721,
+      "sha256": "ea66f85e3f5fca926c998744b2dbc81899c3ae318c1a81a302f770fae3cb7add"
+    },
+    "sound/bird_song_3.ogg": {
+      "file": "hires/sound/bird_song_3.2d66013b.ogg",
+      "size": 28366,
+      "sha256": "2d66013be7b07bb45c2ae9e6181b4b911e4f4a22f8c422e11f2a4f260308c462"
+    },
+    "sound/bird_song_4.ogg": {
+      "file": "hires/sound/bird_song_4.9e9d6ea2.ogg",
+      "size": 26888,
+      "sha256": "9e9d6ea237e80f21dbf7b70d5e03eff1f1ca57e9529ee987e7cd85362d931fc2"
     },
     "sound/block_1.ogg": {
       "file": "hires/sound/block_1.efc022f5.ogg",
@@ -6830,6 +6890,31 @@
       "file": "hires/sound/boss_roar_3.7328c100.ogg",
       "size": 8049,
       "sha256": "7328c100e13920fb6e112daaf7e1c32930992db88fc94531f4c7bfc1c4157223"
+    },
+    "sound/bosun_call_1.ogg": {
+      "file": "hires/sound/bosun_call_1.4708966a.ogg",
+      "size": 28518,
+      "sha256": "4708966ab8a88473ccb89fee22dd439e27855efbb0835b051f7cf566827c12a6"
+    },
+    "sound/bosun_call_2.ogg": {
+      "file": "hires/sound/bosun_call_2.46b26652.ogg",
+      "size": 34933,
+      "sha256": "46b26652786a88530c78e2a7fab249fbda3d8a69720f8a0e68277cc5cc98e898"
+    },
+    "sound/bosun_whistle_1.ogg": {
+      "file": "hires/sound/bosun_whistle_1.014da704.ogg",
+      "size": 10949,
+      "sha256": "014da70415716485908304a260ba211ce4b580a5bbe4cb8799694c3f4bfc5992"
+    },
+    "sound/bosun_whistle_2.ogg": {
+      "file": "hires/sound/bosun_whistle_2.a5b625cf.ogg",
+      "size": 9196,
+      "sha256": "a5b625cff786b24f617ce78b954109776c243077708a279ac9536935a315fc98"
+    },
+    "sound/bubble_rise.ogg": {
+      "file": "hires/sound/bubble_rise.a89d4bcc.ogg",
+      "size": 31579,
+      "sha256": "a89d4bcc91b3ab58654c8f2222c70c35e37990bc6bb760c37f91a43a3cdbfe99"
     },
     "sound/bull_gallop.ogg": {
       "file": "hires/sound/bull_gallop.836aaae7.ogg",
@@ -6921,6 +7006,11 @@
       "size": 7319,
       "sha256": "3f112a493169dc3ba4c4271120db3aa862bf4cd4cf2e4f1e18b0d56d866c0859"
     },
+    "sound/crew_hurray.ogg": {
+      "file": "hires/sound/crew_hurray.1025057f.ogg",
+      "size": 33328,
+      "sha256": "1025057f67c2153ae2bcc2eca51b9fa782959efe6285f5a3b767887dd8c476c8"
+    },
     "sound/crowd_applause.ogg": {
       "file": "hires/sound/crowd_applause.26c380be.ogg",
       "size": 50727,
@@ -6940,6 +7030,16 @@
       "file": "hires/sound/door_open.b3847f9a.ogg",
       "size": 13638,
       "sha256": "b3847f9a33aaef506ddcd0612b27053d8c9c6287f6f088563f327492b1d0fc68"
+    },
+    "sound/dragon_roar_1.ogg": {
+      "file": "hires/sound/dragon_roar_1.b88e86a8.ogg",
+      "size": 39766,
+      "sha256": "b88e86a8594386327c35ebb48fec9e19c297c8fa8d9a554691e4021407344570"
+    },
+    "sound/dragon_roar_2.ogg": {
+      "file": "hires/sound/dragon_roar_2.084853b4.ogg",
+      "size": 40265,
+      "sha256": "084853b48c4c5ca9985b589a6f3947623cc5785627d1dd80f589b822ad979feb"
     },
     "sound/elec_spell_1.ogg": {
       "file": "hires/sound/elec_spell_1.594839d8.ogg",
@@ -6966,10 +7066,30 @@
       "size": 9342,
       "sha256": "bff0eda5c6146ce1e0c629e52f6012af7ea42c74a2caeecf5c477b5b7de6f13b"
     },
+    "sound/explosion_big_2.ogg": {
+      "file": "hires/sound/explosion_big_2.82515e04.ogg",
+      "size": 19519,
+      "sha256": "82515e04f24e903d21468e0a47ebb75987f3fcef2a01898887ca3e177ee3bbce"
+    },
     "sound/explosion_wall.ogg": {
       "file": "hires/sound/explosion_wall.df5da965.ogg",
       "size": 24750,
       "sha256": "df5da965cace1baa95c677e6f876ed0575ea492bc24e237b5b567f544fbb521a"
+    },
+    "sound/fairy_chime_1.ogg": {
+      "file": "hires/sound/fairy_chime_1.907443d7.ogg",
+      "size": 28747,
+      "sha256": "907443d7ca69f83a2750fc74d1de2eaa9728ddade3e2fc9ca567166e1a841571"
+    },
+    "sound/fairy_chime_2.ogg": {
+      "file": "hires/sound/fairy_chime_2.cce9d12c.ogg",
+      "size": 28879,
+      "sha256": "cce9d12c49ef6a305c4a5732c6d3519d8b608d22833b07f824251169cb514796"
+    },
+    "sound/fairy_chime_3.ogg": {
+      "file": "hires/sound/fairy_chime_3.06543b6a.ogg",
+      "size": 27700,
+      "sha256": "06543b6ac96eeb535161ee902773ba7a404da2b7123137a44702925f57079de8"
     },
     "sound/fire_burst_1.ogg": {
       "file": "hires/sound/fire_burst_1.4c95e2f8.ogg",
@@ -6990,6 +7110,26 @@
       "file": "hires/sound/gas_puff.56286fda.ogg",
       "size": 6762,
       "sha256": "56286fda8920136e61b963c5854de5e3cc03ae84a61c16ef6da0be6576526bea"
+    },
+    "sound/gas_puff_2.ogg": {
+      "file": "hires/sound/gas_puff_2.94639401.ogg",
+      "size": 14693,
+      "sha256": "94639401a6ffd953ef1021782fcb735f6e1889f9bfff51753376248e16de1c7d"
+    },
+    "sound/gas_puff_3.ogg": {
+      "file": "hires/sound/gas_puff_3.3dd8a0cb.ogg",
+      "size": 12443,
+      "sha256": "3dd8a0cbf8142261ff2965ba37bdefab395a58fac119fbb20eb6b067141d41e0"
+    },
+    "sound/gator_bellow_1.ogg": {
+      "file": "hires/sound/gator_bellow_1.1eb0dc41.ogg",
+      "size": 31106,
+      "sha256": "1eb0dc416bb2d7152ac23f373801419500d7ec81b0312fa5099f96b0379718f9"
+    },
+    "sound/gator_bellow_2.ogg": {
+      "file": "hires/sound/gator_bellow_2.16f652d6.ogg",
+      "size": 31279,
+      "sha256": "16f652d6364bb225dd8524babddd27d53dc4dbd682249dc7906605675741b31e"
     },
     "sound/ghost_breath.ogg": {
       "file": "hires/sound/ghost_breath.4ae99228.ogg",
@@ -7061,6 +7201,26 @@
       "size": 8533,
       "sha256": "46d5eb5fda6e382c02ad7e1958af8df3c1a0f35dc00f18d1a1a657001ab283f2"
     },
+    "sound/gull_1.ogg": {
+      "file": "hires/sound/gull_1.1e1bc9b5.ogg",
+      "size": 17052,
+      "sha256": "1e1bc9b507d6c3c6bf8db495cd3fcd3842df2d1c1e205f3b8cfd6a09577bd18f"
+    },
+    "sound/gull_2.ogg": {
+      "file": "hires/sound/gull_2.c2ec9608.ogg",
+      "size": 17160,
+      "sha256": "c2ec96083a6b1f7f4e311e1b406bbebf1d63385bffc62937adce9d3c13138751"
+    },
+    "sound/gull_3.ogg": {
+      "file": "hires/sound/gull_3.7254d887.ogg",
+      "size": 13583,
+      "sha256": "7254d887659a4dcbed22d55268629dfd7a188aaaf4a1a250312d457375d0202d"
+    },
+    "sound/gull_4.ogg": {
+      "file": "hires/sound/gull_4.1e1e4def.ogg",
+      "size": 19674,
+      "sha256": "1e1e4def5ddc8058b43e363da298fb6dec5fef2b08b70dfed8a9a2da15a53b3b"
+    },
     "sound/gun_click.ogg": {
       "file": "hires/sound/gun_click.38c26137.ogg",
       "size": 7969,
@@ -7080,6 +7240,16 @@
       "file": "hires/sound/gun_flint_3.77ae38dd.ogg",
       "size": 8298,
       "sha256": "77ae38dd232c9f95539eb0962f0a9ba472d5cd97b4611936cf76e9f8b1ed30e9"
+    },
+    "sound/gun_musket_1.ogg": {
+      "file": "hires/sound/gun_musket_1.112049dd.ogg",
+      "size": 9713,
+      "sha256": "112049dd1112ef218cab47a1c3a4faf41e40eb6714e5629ee0c5fe6d926274bb"
+    },
+    "sound/gun_musket_2.ogg": {
+      "file": "hires/sound/gun_musket_2.9cbfae60.ogg",
+      "size": 10826,
+      "sha256": "9cbfae60a1b60e967dc77662b3e4587ff5086158ebb58cc61b57e550c39cc147"
     },
     "sound/gun_powder_1.ogg": {
       "file": "hires/sound/gun_powder_1.fd51b4f3.ogg",
@@ -7151,6 +7321,11 @@
       "size": 5323,
       "sha256": "c92125bdd42e5596f5b8f414caae1caddbc7e76b61c43c1cb8a4fa238ff0a67e"
     },
+    "sound/hound_howl.ogg": {
+      "file": "hires/sound/hound_howl.3845fb35.ogg",
+      "size": 46081,
+      "sha256": "3845fb3503dbb9ceadecd2bd1181a2173398671b2c9a3a93cd4d9708e398fc62"
+    },
     "sound/ice_cast_1.ogg": {
       "file": "hires/sound/ice_cast_1.a058bdb2.ogg",
       "size": 21931,
@@ -7161,10 +7336,30 @@
       "size": 18071,
       "sha256": "7ccd40cb274a602f620c6e7ca14bce48e595d169e5efc1d106b6846d3f8938da"
     },
+    "sound/ice_chime_1.ogg": {
+      "file": "hires/sound/ice_chime_1.e3ce71c0.ogg",
+      "size": 13694,
+      "sha256": "e3ce71c0c08adbc044ea2374ab1766d2624db4bf1e8a11992ee318bd1341a4e5"
+    },
+    "sound/ice_chime_2.ogg": {
+      "file": "hires/sound/ice_chime_2.a78febd0.ogg",
+      "size": 11867,
+      "sha256": "a78febd0922f58ea9006b5fae3bc5fba32e7ab2fe4b952b417d64cd8c3cf951a"
+    },
     "sound/ice_crackle.ogg": {
       "file": "hires/sound/ice_crackle.a898a605.ogg",
       "size": 15852,
       "sha256": "a898a6059fb5be59d89c0bcc66bd96dc9c6383ea685c28edd61f8845ac452711"
+    },
+    "sound/ice_crackle_2.ogg": {
+      "file": "hires/sound/ice_crackle_2.b2e83fa9.ogg",
+      "size": 14495,
+      "sha256": "b2e83fa9d09bef250e18a4db08d138ceab4e842bd0e637a4d7c3146bd24cd8ab"
+    },
+    "sound/ice_crackle_3.ogg": {
+      "file": "hires/sound/ice_crackle_3.9b5158cf.ogg",
+      "size": 14287,
+      "sha256": "9b5158cfdc2c6f99b1aa85d8ab42fbcf352365243c0512507075183dd1e1cd87"
     },
     "sound/ice_freeze.ogg": {
       "file": "hires/sound/ice_freeze.4762e8cd.ogg",
@@ -7196,10 +7391,35 @@
       "size": 12347,
       "sha256": "bdb2d4e0e14bfa5f9c36b3c31b901b6f4d37c98f8b97449c8a4bf7be2c6d7995"
     },
+    "sound/jingle_1.ogg": {
+      "file": "hires/sound/jingle_1.560c9b4b.ogg",
+      "size": 13356,
+      "sha256": "560c9b4b57016fb607e950b96b32f7d2a2f65916d65338d527698620fd6055f1"
+    },
+    "sound/jingle_2.ogg": {
+      "file": "hires/sound/jingle_2.285986ac.ogg",
+      "size": 14192,
+      "sha256": "285986ac69a3c9b0a380df6bb5fa229a09f199b9bc1a2eae3bfdcd983acab0dd"
+    },
+    "sound/jingle_3.ogg": {
+      "file": "hires/sound/jingle_3.fad6ccff.ogg",
+      "size": 14485,
+      "sha256": "fad6ccff0da670e1b8dfbf8f3c574bfbd20aef3fe21509bde82195b15b76974a"
+    },
     "sound/keys.ogg": {
       "file": "hires/sound/keys.dc5cede1.ogg",
       "size": 8382,
       "sha256": "dc5cede147e234e72f8bd82d2612d10d08bdc38d7c552c5433f8920c608a3b1b"
+    },
+    "sound/koshi_chime_1.ogg": {
+      "file": "hires/sound/koshi_chime_1.0f8504e3.ogg",
+      "size": 27694,
+      "sha256": "0f8504e3bfbf337188976e2739a56e54cb650396f4ae0ae30fc23af46006988a"
+    },
+    "sound/koshi_chime_2.ogg": {
+      "file": "hires/sound/koshi_chime_2.475e29b8.ogg",
+      "size": 30674,
+      "sha256": "475e29b872172f61edefd8be80201358feb625a30caf6efe18d9ba94fc0b524d"
     },
     "sound/metal_slam.ogg": {
       "file": "hires/sound/metal_slam.e68b59be.ogg",
@@ -7281,6 +7501,16 @@
       "size": 13808,
       "sha256": "fd526c7055858e8bc3b3d04b3986dff4b169721dfdbed0a6c4ef6b0e8721d15b"
     },
+    "sound/mon_drowned_vocal_3.ogg": {
+      "file": "hires/sound/mon_drowned_vocal_3.dbf9c4c2.ogg",
+      "size": 15482,
+      "sha256": "dbf9c4c22e414e6eba0e1b795ff7736b41fd5dca28fbf8e567535d933f06057f"
+    },
+    "sound/mon_drowned_vocal_4.ogg": {
+      "file": "hires/sound/mon_drowned_vocal_4.e06d9cd4.ogg",
+      "size": 18632,
+      "sha256": "e06d9cd404b0710637a8942dd700020603862ab60947c3c5720377e24f937867"
+    },
     "sound/mon_human_death_1.ogg": {
       "file": "hires/sound/mon_human_death_1.53c95431.ogg",
       "size": 9237,
@@ -7356,6 +7586,51 @@
       "size": 21431,
       "sha256": "7d7ba01f90551cd1f6d6fdeab817a48fb3cfd1eed2b44495f135821223f4b212"
     },
+    "sound/monster_growl_1.ogg": {
+      "file": "hires/sound/monster_growl_1.b8133542.ogg",
+      "size": 16791,
+      "sha256": "b81335426e72edac28a388e794939087a84cb584e74458c1c102632cfe58c8cb"
+    },
+    "sound/monster_growl_2.ogg": {
+      "file": "hires/sound/monster_growl_2.3074358f.ogg",
+      "size": 17222,
+      "sha256": "3074358fec29074bfb5db1788a95c27f5d21f6c144fd7873ad1ccd396731087b"
+    },
+    "sound/monster_growl_3.ogg": {
+      "file": "hires/sound/monster_growl_3.1ba31c8b.ogg",
+      "size": 19499,
+      "sha256": "1ba31c8ba325c3d30ee1d40ec262852c185850432f3f16098363ba747e33f9ec"
+    },
+    "sound/mud_bubble_1.ogg": {
+      "file": "hires/sound/mud_bubble_1.f651d88e.ogg",
+      "size": 14178,
+      "sha256": "f651d88eabf2e5b5f7372b6366c82365f820126c7d4200ce3be089bb44175f90"
+    },
+    "sound/mud_bubble_2.ogg": {
+      "file": "hires/sound/mud_bubble_2.1e7b981b.ogg",
+      "size": 14517,
+      "sha256": "1e7b981bbeb13af0735a1aacc070a94ebdd1c9a93f0f41191c6c598fbd2310b2"
+    },
+    "sound/mud_bubble_3.ogg": {
+      "file": "hires/sound/mud_bubble_3.a2d459f3.ogg",
+      "size": 15259,
+      "sha256": "a2d459f39f1ebefb8c7b5772aa9c0c3c9bce4847f29aea8c1073e1d746fcecbf"
+    },
+    "sound/parrot_squawk_1.ogg": {
+      "file": "hires/sound/parrot_squawk_1.69943914.ogg",
+      "size": 8050,
+      "sha256": "69943914765a07d901676b9e6e2770e19b939b6a98dbfe7a7769e2ef3419a2d3"
+    },
+    "sound/parrot_squawk_2.ogg": {
+      "file": "hires/sound/parrot_squawk_2.d2f206c5.ogg",
+      "size": 8122,
+      "sha256": "d2f206c5ed58868ef162216c233377d1bd16169264e6926831abf105b08f5b8b"
+    },
+    "sound/parrot_squawk_3.ogg": {
+      "file": "hires/sound/parrot_squawk_3.6750c6e5.ogg",
+      "size": 9805,
+      "sha256": "6750c6e5cd19f0bd3d2b8011eaf3b0bc997cdfcaea06ad9cbe4d45fd121a2f27"
+    },
     "sound/pick_1.ogg": {
       "file": "hires/sound/pick_1.9eaf4248.ogg",
       "size": 14389,
@@ -7391,6 +7666,31 @@
       "size": 38497,
       "sha256": "07e2b57474a1b74a56cef23e2782643cdbe1d8937db1f23504fe1182836a985f"
     },
+    "sound/raven_caw_1.ogg": {
+      "file": "hires/sound/raven_caw_1.e18d5a1b.ogg",
+      "size": 9165,
+      "sha256": "e18d5a1b85fbcedab5bd4c9e9200a2cdf09ce3bc4541a02c9ebb483bc1fe9760"
+    },
+    "sound/raven_caw_2.ogg": {
+      "file": "hires/sound/raven_caw_2.418a59f2.ogg",
+      "size": 10010,
+      "sha256": "418a59f2ab5c9796c449621af9604f7f7bfcec3e93dda1013be7911a4cfa09f5"
+    },
+    "sound/raven_caw_3.ogg": {
+      "file": "hires/sound/raven_caw_3.b0e61a90.ogg",
+      "size": 10148,
+      "sha256": "b0e61a903be787d1628cb66fb59f3009df770a0f54586fbf80306b916d4b8efc"
+    },
+    "sound/raven_far_1.ogg": {
+      "file": "hires/sound/raven_far_1.64374117.ogg",
+      "size": 21540,
+      "sha256": "643741173b46421750a0f5a3f81ba4b8cbc12d619e26337a876b0872c2473610"
+    },
+    "sound/raven_far_2.ogg": {
+      "file": "hires/sound/raven_far_2.f450afdc.ogg",
+      "size": 20669,
+      "sha256": "f450afdced2f9a6f116fcc277039b6357db92d05046996db61d5e3fb739deb52"
+    },
     "sound/rock_fall_1.ogg": {
       "file": "hires/sound/rock_fall_1.509542d9.ogg",
       "size": 11749,
@@ -7410,6 +7710,26 @@
       "file": "hires/sound/singing_bowl.087ee762.ogg",
       "size": 52684,
       "sha256": "087ee762f546b7f52904b2985bce3d32959dc7ce392ad9ae97f4d7bb407c7a1c"
+    },
+    "sound/siren_song_1.ogg": {
+      "file": "hires/sound/siren_song_1.7bf8aae7.ogg",
+      "size": 52588,
+      "sha256": "7bf8aae7c320a377a0439314ccf9741b8ac573cb14dcc4fc851456deabd6c41b"
+    },
+    "sound/siren_song_2.ogg": {
+      "file": "hires/sound/siren_song_2.e9b18766.ogg",
+      "size": 53640,
+      "sha256": "e9b18766cd78bf2bb75dc962605535fe697f5ef1934816f58bfeef60a9f7eb42"
+    },
+    "sound/small_bell_1.ogg": {
+      "file": "hires/sound/small_bell_1.9ab13c52.ogg",
+      "size": 33644,
+      "sha256": "9ab13c52b72ed47b1213746bbeba74950453db736d9ea8f1ce18c1ea5f09d158"
+    },
+    "sound/small_bell_2.ogg": {
+      "file": "hires/sound/small_bell_2.17df8a9e.ogg",
+      "size": 23556,
+      "sha256": "17df8a9e3c00d9e3e23b273ccf5b67020706d296acb28c5d1efe249dbe9d2844"
     },
     "sound/splash_1.ogg": {
       "file": "hires/sound/splash_1.da19dffe.ogg",
@@ -7576,6 +7896,11 @@
       "size": 36185,
       "sha256": "cb98b5987bdf90dc0a57dc07ed6ed32e66eb35c208b9e7cb42a376626127c4c5"
     },
+    "sound/tower_bell.ogg": {
+      "file": "hires/sound/tower_bell.01ca90ed.ogg",
+      "size": 54428,
+      "sha256": "01ca90edfb94f71d9b95dd63acc8c21ca5acbd48a69f4218e86553707a7b8acd"
+    },
     "sound/ui_blade.ogg": {
       "file": "hires/sound/ui_blade.4c363beb.ogg",
       "size": 7237,
@@ -7681,6 +8006,16 @@
       "size": 24004,
       "sha256": "5810107fe2a3a320210b9cb7a5984042d3253759bbdf417fc5d307f4cc713b59"
     },
+    "sound/werewolf_howl_1.ogg": {
+      "file": "hires/sound/werewolf_howl_1.a5172a60.ogg",
+      "size": 31228,
+      "sha256": "a5172a60e7d50f77d071da4d6b1e830c5e4d61c710ce0e896e3c69c46eff4bf5"
+    },
+    "sound/werewolf_howl_2.ogg": {
+      "file": "hires/sound/werewolf_howl_2.ed86bb5a.ogg",
+      "size": 29711,
+      "sha256": "ed86bb5a0521df3c88e79156a9d4ff883ce8fb03f3835e5822eb1faccc1e1907"
+    },
     "sound/wet_splat_1.ogg": {
       "file": "hires/sound/wet_splat_1.fac97c58.ogg",
       "size": 13837,
@@ -7701,6 +8036,11 @@
       "size": 13779,
       "sha256": "fed902f7514212750877c086b6f4c29bf35dd9601fd0836348ceebb46b5f1927"
     },
+    "sound/whoom.ogg": {
+      "file": "hires/sound/whoom.658155ee.ogg",
+      "size": 11984,
+      "sha256": "658155ee203d6fc800151bb89de70e29bebeb8511a0834fe88098470d4d5454e"
+    },
     "sound/wind_howl_1.ogg": {
       "file": "hires/sound/wind_howl_1.7e977607.ogg",
       "size": 22278,
@@ -7710,6 +8050,31 @@
       "file": "hires/sound/wind_howl_2.87fcd94a.ogg",
       "size": 22018,
       "sha256": "87fcd94aaeef6bae6bfc2b8ef1b390ced6cb29279b44c030cbe3cbd35ecc236b"
+    },
+    "sound/witch_shriek.ogg": {
+      "file": "hires/sound/witch_shriek.afe640ef.ogg",
+      "size": 27049,
+      "sha256": "afe640effdcc305001edf16397c798935cb4ecc8e71338ee8f70090074177cb0"
+    },
+    "sound/wolf_howl_1.ogg": {
+      "file": "hires/sound/wolf_howl_1.bfa002a7.ogg",
+      "size": 47831,
+      "sha256": "bfa002a75183def47e0cfb4bb4ba76f71bdfb7c0e481cc99f68950b525b649b1"
+    },
+    "sound/wolf_howl_2.ogg": {
+      "file": "hires/sound/wolf_howl_2.cf7e2d7d.ogg",
+      "size": 57787,
+      "sha256": "cf7e2d7de1485e099c9bd743e55527e133710797cd90cdb58507d34ffee9924a"
+    },
+    "sound/wolf_howl_3.ogg": {
+      "file": "hires/sound/wolf_howl_3.f3cf52ef.ogg",
+      "size": 57287,
+      "sha256": "f3cf52efb8b38fb9fd3ec016768c13ba2c824a8eeb22b27fd423aa5742070dd2"
+    },
+    "sound/wolf_pack.ogg": {
+      "file": "hires/sound/wolf_pack.37b04151.ogg",
+      "size": 46501,
+      "sha256": "37b041519253eceb2e56cfa610fd6c400bb86f25386f47dd3973912f757a95bb"
     },
     "sound/wreck_crash.ogg": {
       "file": "hires/sound/wreck_crash.867bc087.ogg",
