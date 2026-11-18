@@ -2836,6 +2836,16 @@
       "size": 2560,
       "sha256": "55ef5fc05c0d0f0851238103b997b2ffe9b6fba4766f278625100a58cd6a55c5"
     },
+    "hr_item_charm_large.png": {
+      "file": "hires/hr_item_charm_large.9266d19e.png",
+      "size": 24777,
+      "sha256": "9266d19ea6a5a6947c101d60bf5a2db0ac0be8d81fcfbdaf450d5630ab4fd763"
+    },
+    "hr_item_charm_large_ground.png": {
+      "file": "hires/hr_item_charm_large_ground.2abfc136.png",
+      "size": 1756,
+      "sha256": "2abfc136a22929b724bdff8cada48035f62453deafdefdde45383c042183d1ae"
+    },
     "hr_item_charm_medium.png": {
       "file": "hires/hr_item_charm_medium.c4c883b2.png",
       "size": 21474,
@@ -3501,6 +3511,16 @@
       "size": 1161,
       "sha256": "fac83367cedb6df03d4182f81393afffaf8864d695c58e03a8b9a5c44c2191ba"
     },
+    "hr_item_oblivion_rum.png": {
+      "file": "hires/hr_item_oblivion_rum.9e3f6988.png",
+      "size": 6769,
+      "sha256": "9e3f6988f2aa80046d97b93c0da0a14177561029e46fb1c1fab9999d8f947f7b"
+    },
+    "hr_item_oblivion_rum_ground.png": {
+      "file": "hires/hr_item_oblivion_rum_ground.c1ae3571.png",
+      "size": 1861,
+      "sha256": "c1ae35712bcbe6304a159ae1406d60117beff4e820388fc65befed23a26bd0e1"
+    },
     "hr_item_old_king_blade.png": {
       "file": "hires/hr_item_old_king_blade.269001cc.png",
       "size": 10925,
@@ -4140,6 +4160,31 @@
       "file": "hires/hr_item_thread_chart_ground.a59b9d2c.png",
       "size": 1422,
       "sha256": "a59b9d2ce4ae1e2e54b8db51296bd0e4ad9348ff9cf2bd9b28084e6f2d79bfef"
+    },
+    "hr_item_trade_oil.png": {
+      "file": "hires/hr_item_trade_oil.da0f057f.png",
+      "size": 11089,
+      "sha256": "da0f057f034a41f2b7d739b0e4221668bb3071a5a1904701b34d6fbeb5091edf"
+    },
+    "hr_item_trade_salt.png": {
+      "file": "hires/hr_item_trade_salt.aeb07b1f.png",
+      "size": 12680,
+      "sha256": "aeb07b1fad9fa1c35221968fb869883b6f3c4800fd5404898c25a90c97e010aa"
+    },
+    "hr_item_trade_spice.png": {
+      "file": "hires/hr_item_trade_spice.d55d3654.png",
+      "size": 6938,
+      "sha256": "d55d365448ff781d7b63847e11abb56f1a3e18b4ba76dc6d6579a74f83c8a67f"
+    },
+    "hr_item_trade_wine.png": {
+      "file": "hires/hr_item_trade_wine.8776d775.png",
+      "size": 16210,
+      "sha256": "8776d77521d5191fcf792fb05667b4e59a99b3aa38158cec0503848919ea7a4c"
+    },
+    "hr_item_trade_wool.png": {
+      "file": "hires/hr_item_trade_wool.bd5d1aba.png",
+      "size": 11657,
+      "sha256": "bd5d1abaddafd1edf5da9df22ecce857f3f7ecd081c2c61b9df7183498025426"
     },
     "hr_item_u_abyss_ledger.png": {
       "file": "hires/hr_item_u_abyss_ledger.a66f61f9.png",
@@ -17086,6 +17131,16 @@
       "size": 165,
       "sha256": "915f6069e9cb82a8f534b1ef96408c3d4a30f071e39bf23f19149e16a2897b92"
     },
+    "pixel/px_item_charm_large.png": {
+      "file": "hires/pixel/px_item_charm_large.43376c24.png",
+      "size": 436,
+      "sha256": "43376c2439ddaef3d1341ea0bdf55b8dab1a131e9064376c1c44cee93e493c5b"
+    },
+    "pixel/px_item_charm_large_ground.png": {
+      "file": "hires/pixel/px_item_charm_large_ground.dda1109c.png",
+      "size": 131,
+      "sha256": "dda1109c3a6f9369917a7ac0ff1affece011125c80fdea0a9fc770010e742ff1"
+    },
     "pixel/px_item_charm_medium.png": {
       "file": "hires/pixel/px_item_charm_medium.0656a34d.png",
       "size": 325,
@@ -17756,6 +17811,16 @@
       "size": 145,
       "sha256": "9c9ba150006681e963e7a555c26aa2a4894433c8a6cee3468c789e3c588ed1e3"
     },
+    "pixel/px_item_oblivion_rum.png": {
+      "file": "hires/pixel/px_item_oblivion_rum.635c114e.png",
+      "size": 183,
+      "sha256": "635c114ed5985957855e063df53ce99546d5fdbc02de221b9835abd3eb8eb6ea"
+    },
+    "pixel/px_item_oblivion_rum_ground.png": {
+      "file": "hires/pixel/px_item_oblivion_rum_ground.58d75fda.png",
+      "size": 167,
+      "sha256": "58d75fda419deb6fa478831f2ab803e302db8cc75435e83be5e3b78f9acfc0cf"
+    },
     "pixel/px_item_old_king_blade.png": {
       "file": "hires/pixel/px_item_old_king_blade.26524ea7.png",
       "size": 304,
@@ -18395,6 +18460,31 @@
       "file": "hires/pixel/px_item_thread_chart_ground.62ffb552.png",
       "size": 144,
       "sha256": "62ffb5520bb5015eb69cf6cf10fe8bdff83ff5a755f75946adc67f37457031c9"
+    },
+    "pixel/px_item_trade_oil.png": {
+      "file": "hires/pixel/px_item_trade_oil.21071997.png",
+      "size": 216,
+      "sha256": "21071997a63a055eb4d1f24e07c34ac4e60f8451942ce6d324add45bdc6eab7f"
+    },
+    "pixel/px_item_trade_salt.png": {
+      "file": "hires/pixel/px_item_trade_salt.c24dfccd.png",
+      "size": 280,
+      "sha256": "c24dfccd20991ed5408b1373153850bb2edb7447e4ddf37743d802bc738a9be9"
+    },
+    "pixel/px_item_trade_spice.png": {
+      "file": "hires/pixel/px_item_trade_spice.d81df686.png",
+      "size": 285,
+      "sha256": "d81df686f3f57ebdf74706d01e0401e5376c3cbe5d132bb27d7202c7ca353ba1"
+    },
+    "pixel/px_item_trade_wine.png": {
+      "file": "hires/pixel/px_item_trade_wine.a63d1417.png",
+      "size": 276,
+      "sha256": "a63d1417adf17e03a473a423051d716ba3a23c710a06e84354a953dcb36b211c"
+    },
+    "pixel/px_item_trade_wool.png": {
+      "file": "hires/pixel/px_item_trade_wool.9b14f741.png",
+      "size": 317,
+      "sha256": "9b14f7416bc6846ef0f5410c6085d014ccf164fa332c6e8d673c7fb9212223da"
     },
     "pixel/px_item_u_abyss_ledger.png": {
       "file": "hires/pixel/px_item_u_abyss_ledger.4256b2a7.png",
