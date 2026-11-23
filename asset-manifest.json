@@ -2941,6 +2941,21 @@
       "size": 1098,
       "sha256": "edb9839f048412629794d195f0b2b63c7d5b2995e496c10c9ddd4226f3404056"
     },
+    "hr_item_exp_ship_1.png": {
+      "file": "hires/hr_item_exp_ship_1.5e588429.png",
+      "size": 3443,
+      "sha256": "5e588429736bfbcf33ba6c6f2ab4d01309404bdc1e270a9431018f06e49bca6f"
+    },
+    "hr_item_exp_ship_2.png": {
+      "file": "hires/hr_item_exp_ship_2.0851594d.png",
+      "size": 4074,
+      "sha256": "0851594df019a8f6cfa86d571b7213366d70698b628c2da192c7c5848f7b0425"
+    },
+    "hr_item_exp_ship_3.png": {
+      "file": "hires/hr_item_exp_ship_3.087edaf5.png",
+      "size": 4555,
+      "sha256": "087edaf5ebec10a8f8e2f3ce6d2584a77e1cd5e5c5a45c01f767e310bb71db93"
+    },
     "hr_item_flintlock.png": {
       "file": "hires/hr_item_flintlock.8d6ff6da.png",
       "size": 7608,
@@ -5526,6 +5541,21 @@
       "size": 4527666,
       "sha256": "a757ed3cb5b90240831f3185d3828fd10183f5e1a2f0e6b43734d8536c9785ee"
     },
+    "hr_portal_base.png": {
+      "file": "hires/hr_portal_base.f66c08d3.png",
+      "size": 99621,
+      "sha256": "f66c08d3d1be848dbc8cf8c1918e740a0d809a0183651bf1b2936de5fa1dcd16"
+    },
+    "hr_portal_needle.png": {
+      "file": "hires/hr_portal_needle.1d6d1ecd.png",
+      "size": 26708,
+      "sha256": "1d6d1ecdc19b49d2e5dde27bfde798e66f8fdf964bc0398b07fb982622987a74"
+    },
+    "hr_portal_post.png": {
+      "file": "hires/hr_portal_post.74642700.png",
+      "size": 14202,
+      "sha256": "74642700c2dba7a3cc31bde94bfe6fdee70f18489bc6d040d27d676e32719fc3"
+    },
     "hr_powder_cart_death.png": {
       "file": "hires/hr_powder_cart_death.1459988b.png",
       "size": 613575,
@@ -6857,9 +6887,9 @@
       "sha256": "787bad9d01fc53b1e00cef2dc6e416c000ca1bac5564c4565b95a097b2479dd9"
     },
     "atlas/hud_0.ktx2": {
-      "file": "hires/atlas/hud_0.fdcd86ce.ktx2",
-      "size": 2476695,
-      "sha256": "fdcd86ceca55a4e5be6fce901c99379403363c9b3c426e8b090ce53d0b8c6b17"
+      "file": "hires/atlas/hud_0.14638500.ktx2",
+      "size": 2545907,
+      "sha256": "14638500fff2f2c20b5e66b295d245cf87f12630293da2e2ae850edf4d29111e"
     },
     "atlas/w_alhambra_0.ktx2": {
       "file": "hires/atlas/w_alhambra_0.81afaa11.ktx2",
@@ -7477,9 +7507,9 @@
       "sha256": "083c7856cb981466a2ee94344bb225ee1b9512d070dac8dc336dc633b4b16867"
     },
     "atlas/world_2.ktx2": {
-      "file": "hires/atlas/world_2.3a0c5495.ktx2",
-      "size": 3737976,
-      "sha256": "3a0c54957ddeee3b6549fc92976192822088e01c42ac3f99f5aa26acb9f5b9ee"
+      "file": "hires/atlas/world_2.8f6966dd.ktx2",
+      "size": 3738637,
+      "sha256": "8f6966dd6decc25287169f74319d26d144c7327f3813ad83c3df624e7fcf59d6"
     },
     "atlas/world_3.ktx2": {
       "file": "hires/atlas/world_3.275fe7ee.ktx2",
@@ -7487,14 +7517,14 @@
       "sha256": "275fe7ee551b5e92b044b45a03183e6837e8c4aee759df200d8f0d39d141d683"
     },
     "atlas/world_4.ktx2": {
-      "file": "hires/atlas/world_4.e4d12846.ktx2",
-      "size": 4205972,
-      "sha256": "e4d128460ccc352d3a9185e0073b82be5b701108c89cf74824e175d9439d2913"
+      "file": "hires/atlas/world_4.2fb964d5.ktx2",
+      "size": 4199964,
+      "sha256": "2fb964d5923899ca3bfd15a6c21f4e102b8bef8b6e8cbf2002c6e5e2b2906a72"
     },
     "atlas/world_5.ktx2": {
-      "file": "hires/atlas/world_5.a721c9af.ktx2",
-      "size": 1425731,
-      "sha256": "a721c9af14e96184ff8c9df6923576ae31166057a5c20a6145217853b3fddace"
+      "file": "hires/atlas/world_5.353a366d.ktx2",
+      "size": 1558511,
+      "sha256": "353a366d93695569516e8a018234dd0e978d884c61537511fc7fe91ccb0e48ef"
     },
     "sound/abbey_bell.ogg": {
       "file": "hires/sound/abbey_bell.0d2fcdc8.ogg",
@@ -17241,6 +17271,21 @@
       "size": 143,
       "sha256": "ab83bd322971e8ee3956645e95092021fe621ca0970250ab1dcaff0f4e006f5c"
     },
+    "pixel/px_item_exp_ship_1.png": {
+      "file": "hires/pixel/px_item_exp_ship_1.3f4ccc6f.png",
+      "size": 221,
+      "sha256": "3f4ccc6f05905ee4f9dd81546213527f8440a47514f9ecfcb981524f1cf84eeb"
+    },
+    "pixel/px_item_exp_ship_2.png": {
+      "file": "hires/pixel/px_item_exp_ship_2.72540862.png",
+      "size": 253,
+      "sha256": "725408627790e21df891ee05d87d106e1a55423f0a85032541207d22a1e7ad5f"
+    },
+    "pixel/px_item_exp_ship_3.png": {
+      "file": "hires/pixel/px_item_exp_ship_3.4a212c7b.png",
+      "size": 253,
+      "sha256": "4a212c7bf5dd40a6350c083c63eecb71d3810c162a980e1ba86cc5ed964e3dc4"
+    },
     "pixel/px_item_flintlock.png": {
       "file": "hires/pixel/px_item_flintlock.ac9f5042.png",
       "size": 233,
@@ -19825,6 +19870,21 @@
       "file": "hires/pixel/px_pirate_sloop_walk.095b5f17.png",
       "size": 80980,
       "sha256": "095b5f17cfd075848dca1632d3dc786a12003bc48562b5a3e9cce4a6bf0fcbd7"
+    },
+    "pixel/px_portal_base.png": {
+      "file": "hires/pixel/px_portal_base.0e8f7fac.png",
+      "size": 2501,
+      "sha256": "0e8f7facb91e1c75c78036156368278be25dda384240167e32dda1f41fb1853c"
+    },
+    "pixel/px_portal_needle.png": {
+      "file": "hires/pixel/px_portal_needle.e30d938c.png",
+      "size": 1350,
+      "sha256": "e30d938ca13c2299c6ad1b6101a0bb3fbd750434ad8a6df7577b0c91af3cd97a"
+    },
+    "pixel/px_portal_post.png": {
+      "file": "hires/pixel/px_portal_post.f4a36b0a.png",
+      "size": 936,
+      "sha256": "f4a36b0ac9b2654cb58b45eb362a43d3a0cce7f3ed19a31c9bc3a1bcf235d9f7"
     },
     "pixel/px_powder_cart_death.png": {
       "file": "hires/pixel/px_powder_cart_death.a87513ce.png",
